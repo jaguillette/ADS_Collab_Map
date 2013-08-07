@@ -1,410 +1,419 @@
-"Department of Physics and Astronomy, Rutgers University, 136 Frelinghuysen Road, Piscataway, NJ 08854, USA",40.5223834,-74.46347589999999,1
-"Max Planck Institute for Astronomy, K?nigstuhl 17, D-69117 Heidelberg, Germany",49.3928952,8.7202574,2
-"University of Bern, Center for Space and Habitability, Sidlerstrasse 5, CH-3012 Bern, Switzerland",46.9513468,7.4384567,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"Instituto de Astrof?sica de Canarias, V?a L?ctea, E38205 La Laguna (Tenerife",28.4874009,-16.3159061,1
-"Department of Physics, Harvard University, Cambridge, Massachusetts 02138, USA",42.3774149,-71.1171011,4
-"Nuclear Science and Engineering Department, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA",42.3606853,-71.0919811,1
-"School of Engineering and Applied Sciences, Harvard University, Cambridge, Massachusetts 02138, USA",42.3741886,-71.1165876,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, Massachusetts 02138, USA",42.3814605,-71.1281638,4
-"Department of Physics, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA",42.3597818,-71.0935816,1
-"School of Physics, Astronomy, and Computational Sciences, George Mason University, Fairfax, Virginia 22030, USA",38.832997,-77.3083695,2
-"Department of Physics, University of Connecticut, Storrs, Connecticut 06269, USA",41.8077414,-72.2539805,1
-"Zentrum f?r Optische Quantentechnologien and Institut f?r Laserphysik, Universit?t Hamburg, 22761 Hamburg, Germany",53.56785259999999,9.911872599999999,1
-"Department of Physics, Harvard University, 17 Oxford Street, Cambridge, Massachusetts 02138, USA",42.3774149,-71.1171011,2
-"ITAMP, Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, Massachusetts 02138, USA",42.3813384,-71.1265483,2
-"ICRAR - University of Western Australia, Perth, Australia",-31.994662,115.8886806,1
-"MIT Haystack Observatory, Westford, MA, USA",42.6126396,-71.4938736,12
-"Department of Physics and Astronomy, University of Iowa, Iowa City, IA, USA",41.6621811,-91.53223109999999,2
-"MIT Kavli Institute for Astrophysics and Space Research, Cambridge, MA, USA",42.36064229999999,-71.0933616,5
-"Physics Department, University of Washington, Seattle, WA, USA",47.653638,-122.3112787,2
-"Raman Research Institute, Bangalore, India",13.0135132,77.58092669999999,4
-"Dominion Radio Astrophysical Observatory, Penticton, BC, Canada",49.3219892,-119.6210933,1
-"National Radio Astronomy Observatory, Charlottesville, WV, USA",38.5976262,-80.4549026,1
-"Sydney Institute for Astronomy, The University of Sydney, Sydney, Australia",-33.8899135,151.1905601,5
-"Department of Physics, University of California San Diego, La Jolla, CA, USA",32.87535,-117.240006,1
-"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA, USA",42.3814605,-71.1281638,3
-"School of Chemical and Physical Sciences, Victoria University of Wellington, Wellington, New Zealand",-41.289399,174.7676847,1
-"Physics Department, University of Wisconsin-Milwaukee, Milwaukee, WI, USA",43.07501999999999,-87.8859444,1
-"School of Earth and Space Exploration, Arizona State University, Tempe, AZ, USA",33.4209362,-111.9314138,1
-"National Centre for Radio Astrophysics, Pune, India",18.5603437,73.826741,1
-"Monash e-Research Centre, Monash University, Melbourne, Australia",-37.90926169999999,145.1344363,1
-"Department of Astronomy, Cornell University, Ithaca, NY, USA",42.448068,-76.47521449999999,1
-"ICRAR - Curtin University, Perth, Australia",-31.994662,115.8886806,6
-"School of Physics, The University of Melbourne, Melbourne, Australia",-37.7967123,144.9642724,1
-"Research School of Astronomy and Astrophysics, The Australian National University, Canberra, Australia",-35.2776999,149.118527,2
-"Center for Astrophysics and Space Astronomy 389-UCB, University of Colorado, Boulder, Colorado 80309, USA",40.0075811,-105.2659419,4
-"Jet Propulsion Laboratory, 4800 Oak Grove Drive, Pasadena, California 91109, USA",34.2000898,-118.1760263,7
-"Observational Cosmology Laboratory, Code 665, NASA Goddard Space Flight Center, Greenbelt, Maryland 20771, USA",38.9911983,-76.8525724,2
-"Institute for Astrophysics, University of Minnesota, 116 Church Street Southeast, Minneapolis, Minnesota 55455, USA",44.975288,-93.234454,1
-"Institut de RadioAstronomie Millimetrique, 300 Rue de la Piscine, Domaine Universitaire, F-38406 Saint Martin d'Heres, France",45.165133,5.767761,3
-"Department of Physics and Astronomy, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA",39.9520275,-75.18980150000002,2
-"Department of Physics and Astronomy, University of British Columbia, 6224 Agricultural Road, Vancouver, British Columbia V6T 1Z1, Canada",49.2684344,-123.2611099,2
-"Infrared Processing and Analysis Center, MS 100-22, California Institute of Technology, Pasadena, California 91125, USA",34.1379059,-118.1255126,1
-"Department of Physics and Astronomy, Johns Hopkins University, Baltimore, Maryland 21218, USA",39.3316414,-76.62352469999999,1
-"Institut d'Astrophysique de Paris, UMR 7095, CNRS, UPMC Univ. Paris 06, 98bis Boulevard Arago, F-75014 Paris, France",48.8346236,2.337211,2
-"UK Astronomy Technology Centre, Royal Observatory, Blackford Hill, Edinburgh EH9 3HJ, UK",55.9230229,-3.1950366,2
-"Herschel Science Centre, European Space Astronomy Centre, Villanueva de la Ca?ada, 28691 Madrid, Spain",40.4539502,-3.9980485,2
-"Department of Physics and Astronomy, University of California, Irvine, California 92697, USA",33.6490507,-117.8434722,4
-"California Institute of Technology, 1200 East California Boulevard, MC 249-17, Pasadena, California 91125, USA",34.1378866,-118.1247032,13
-"Institute of Astronomy, University of Cambridge, Madingley Road, Cambridge CB3 0HA, UK",52.212416,0.0947852,2
-"Dipartimento di Fisica e Astronomia, Universit? di Padova, vicolo Osservatorio 3, I-35122 Padova, Italy",45.4003087,11.8704306,1
-"Mullard Space Science Laboratory, University College London, Holmbury St Mary, Dorking RH5 6NT, UK",51.1719559,-0.4207069,1
-"Astronomy Centre, Department of Physics and Astronomy, University of Sussex, Brighton BN1 9QH, UK",50.86513,-0.0867652,5
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, Massachusetts 02138, USA",42.3814605,-71.1281638,2
-"Aix-Marseille Universit?, CNRS, Laboratoire d'Astrophysique de Marseille, UMR7326, F-13388 Marseille, France",43.296482,5.36978,1
-"Instituto de Astrofisica de Canarias, E-38200 La Laguna, Tenerife, Spain",28.4874009,-16.3159061,5
-"Departamento de Astrofisica, Universidad de La Laguna, E-38205 La Laguna, Tenerife, Spain",28.4811771,-16.3201816,5
-"Laboratoire AIM-Paris-Saclay, CEA/DSM/Irfu - CNRS - Universit? Paris Diderot, CEA Saclay, Point courrier 131, F-91191 Gif-sur-Yvette, France",48.701844,2.134078,1
-"Department of Physics, Virginia Tech, Blacksburg, Virginia 24061, USA",37.2283358,-80.4261399,1
-"Astrophysics Group, Imperial College London, Blackett Laboratory, Prince Consort Road, London SW7 2AZ, UK",51.4998446,-0.1772095,2
-"Department of Astrophysical and Planetary Sciences, CASA 389-UCB, University of Colorado, Boulder, Colorado 80309, USA",40.0075811,-105.2659419,3
-"Institute for Astronomy, University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh EH9 3HJ, UK",55.9230229,-3.1950366,5
-"Harvard-Smithsonian Center for Astrophysics, Cambridge, Massachusetts 02138, USA",42.3814605,-71.1281638,1
-"Department of Physics, Harvard University, Cambridge, Massachusetts 02138, USA",42.3774149,-71.1171011,6
-"School of Engineering and Applied Science, Harvard University, Cambridge, Massachusetts, 02138, USA",42.3741886,-71.1165876,1
-"Instituto de Astrof?sica de Canarias, E-38200 La Laguna, Tenerife, Spain",28.4874009,-16.3159061,1
-"Centre for Astrophysics Research, STRI, University of Hertfordshire, College Lane Campus, Hatfield AL10 9AB, UK",51.7528765,-0.2421732,3
-"Departamento de Astronom?a y Astrof?sica, Pontificia Universidad Cat?lica de Chile, Av. Vicu?a Mackenna 4860, Casilla 306, Santiago 22, Chile",-33.5778376,-70.6947654,1
-"Institute for Geophysics, Astrophysics and Meteorology, Institute of Physics, University of Graz, Universitaetsplatz 5/II, 8010 Graz, Austria",47.0775152,15.4491946,1
-"Departamento de Astrof?sica, Universidad de La Laguna, E-38206 La Laguna, Tenerife, Spain",28.4894267,-16.3375493,1
-"Instituto de Astonom?a y Meteorolog?a, Departamento de F?sica, CUCEI, Universidad de Guadalajara, Av. Vallarta 2602, C.P. 44130, Guadalajara, Jal., Mexico",20.6733373,-103.3803903,1
-"Observatorio Astron?mico, Universidad de Valencia, E-46100 Burjassot, Spain",39.5096699,-0.4135963,1
-"Department of Physics, University of Warwick, Coventry CV4 9BU, UK",52.40183769999999,-1.5668468,1
-"Rudolf Peierls Centre for Theoretical Physics, Keble Road, Oxford OX1 3NP, UK",51.7595334,-1.25842,1
-"Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK",51.5224832,-0.1326412,1
-"Smithsonian Astrophysical Observatory, 60 Garden Street, Cambridge, MA 02138, USA",42.3814224,-71.1284335,2
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"Dr Karl Remeis-Observatory and Erlangen Centre for Astroparticle Physics, Sternwartstr. 7, D-96049 Bamberg, Germany",49.8850153,10.8884058,3
-"Max-Planck-Institut f?r Radioastronomie, Auf dem H?gel 69, D-53121 Bonn, Germany",50.73009,7.06957,1
-"Department of Astronomy and Maryland Astronomy Center for Theory and Computation, University of Maryland, College Park, MD 20742, USA",38.9466863,-76.9282662,2
-"International Space Science Institute, Hallerstrasse 6, CH-3012 Bern, Switzerland",46.9521713,7.4351353,1
-"Astrophysics Science Division, NASA Goddard Space Flight Center, Code 663, Greenbelt, MD 20771, USA",38.99174259999999,-76.8632938,1
-Instituto de Ciencias Nucleares (UNAM,19.3256792,-99.1807367,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"Instituto de Ciencias del Espacio (CSIC) - UB/IEEC, Universitat de Barcelona, Mart? i Franqu?s 1, E-08028 Barcelona, Spain",41.3790881,2.1278398,1
-"ITAMP, Harvard-Smithsonian Center for Astrophysics, Cambridge, Massachusetts 02138, USA",42.3803274,-71.13891009999999,2
-"Center for Cold Atom Physics, Chinese Academy of Sciences, Wuhan 430071, China",30.5456704,114.3419395,1
-"Department of Physics, University of New Brunswick, Fredericton, New Brunswick E3B 5A3, Canada",45.9454276,-66.6406975,1
-"Ashima Research, Pasadena, CA 91101, USA",34.1427587,-118.1386005,2
-"Applied Physics Laboratory, Johns Hopkins University, Laurel, MD 20723, USA",39.1645203,-76.8983569,1
-"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"University Corporation for Atmospheric Research, Boulder, CO 80307, USA ",39.98999999999999,-105.24,1
-"Department of Physics and Astronomy, University of Utah, Salt Lake City, UT 84112, USA",40.765023,-111.848931,1
-"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"Max-Planck-Institut f?r Sonnensystemforschung, D-37191 Katlenburg-Lindau, Germany",51.6668499,10.112796,1
-"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA ",42.3814605,-71.1281638,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, MS-10, Cambridge, MA 02138, USA",42.3803274,-71.13891009999999,2
-"XDT-6, Los Alamos National Laboratory, P.O. Box 1663, Los Alamos, NM 87545, USA",35.89,-106.31,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"Department of Applied Physics, University of Miyazaki, 1-1 Gakuen Kibana-dai Nishi, Miyazaki 889-2192, Japan",31.8310239,131.4125895,2
-"Department of Physics, University of Texas at Arlington, Box 19059, Arlington, TX 76019, USA",32.7307219,-97.1163471,2
-"Department of Astronomy and Astrophysics, Pennsylvania State University, 525 Davey Laboratory, University Park, PA 16802, USA",40.8075558,-77.8617399,1
-"Korea Astronomy and Space Science Institute, Daejeon 305-348, Republic of Korea",36.3981875,127.3747104,1
-"Department of Physics and Astronomy, Rutgers University, 136 Frelinghuysen Road, Piscataway, NJ 08854-8019, USA",40.5223834,-74.46347589999999,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,2
-"CNRS, LAB, UMR 5804, F-33270 Floirac, France",44.8305549,-0.527552,1
-"LAB, Universit? de Bordeaux, UMR 5804, F-33270 Floirac, France ",44.8305549,-0.527552,1
-"Sterrenkundig Instituut Anton Pannekoek, University of Amsterdam, Science Park 904, NL-1098 Amsterdam, The Netherlands",52.3544534,4.9553595,1
-"Instituut voor Sterrenkunde, Katholieke Universiteit Leuven, Celestijnenlaan 200D, 3001 Leuven, Belgium ",50.8639531,4.6796608,1
-"Department of Physics and Astronomy, Johns Hopkins University, 3400 North Charles Street, Baltimore, MD 21218, USA",39.329901,-76.6205184,1
-"Universidad de Alcal? de Henares, Departamento de F?sica y Matem?ticas, Campus Universitario, E-28871 Alcal? de Henares, Madrid, Spain",40.4167754,-3.7037902,1
-"Departamento de Astrof?sica, Centro de Astrobiolog?a, CSIC-INTA, Ctra. de Torrej?n a Ajalvir km 4, E-28850 Madrid, Spain",40.4715678,-3.4498346,2
-"Nicolaus Copernicus Astronomical Center, Polish Academy of Sciences, Rabia?ska 8, 87-100 Toru?, Poland",53.0137902,18.5984437,2
-"Center for Astrophysics and Space Science, University of California San Diego, La Jolla, CA 92093, USA",32.8797081,-117.2350537,1
-"Astrophysics Research Centre, School of Mathematics and Physics, Queen's University Belfast, Belfast, BT7 1NN, UK",54.5844482,-5.9345016,2
-"Gemini Observatory, 670 North Aohoku Place, Hilo, HI 96720, USA",19.7007038,-155.0895004,1
-"Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218, USA",39.3327249,-76.6232735,2
-"Department of Physics and Astronomy, Johns Hopkins University, 3400 North Charles Street, Baltimore, MD 21218, USA",39.329901,-76.6205184,2
-"Institute for Astronomy, University of Hawaii, 2680 Woodlawn Drive, Honolulu, HI 96822, USA",21.3069823,-157.811671,8
-"Las Cumbres Observatory Global Telescope Network, Inc., Santa Barbara, CA 93117, USA ",34.4301656,-119.8696691,1
-"Department of Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA",42.3774149,-71.1171011,1
-Clay Fellow.,37.122997,-93.17345499999999,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden St., Cambridge, MA 02138, USA",42.3814605,-71.1281638,16
-"Department of Astrophysical Sciences, Princeton University, Princeton, NJ 08544, USA",40.3465603,-74.6516698,1
-"Department of Physics, University of California Santa Barbara, Santa Barbara, CA 93106-9530, USA",34.414052,-119.843298,1
-"Department of Astronomy & Astrophysics, University of California, Santa Cruz, CA 95060, USA",36.9913856,-122.0608718,1
-"Department of Physics and Astronomy, Michigan State University, East Lansing, MI 48824, USA ",42.7240223,-84.4760328,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"National Radio Astronomy Observatory, 520 Edgemont Road, Charlottesville, VA 22903, USA",38.0293059,-78.47667810000002,4
-"Astronomy Department, Faculty of Science, King Abdulaziz University, P.O. Box 80203, Jeddah, Saudi Arabia",21.543489,39.172989,1
-"Max-Planck-Institut f?r Radioastronomie, Auf dem H?gel 69, D-53121 Bonn, Germany ",50.73009,7.06957,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"National Radio Astronomy Observatory, 520 Edgemont Road, Charlottesville, VA 22903, USA",38.0293059,-78.47667810000002,5
-"Astronomy Department, Facutly of Science, King Abdulaziz University, P.O. Box 80203, Jeddah, Saudi Arabia",21.543489,39.172989,1
-"Max-Planck-Institut f?r Radioastronomie, Auf dem H?gel 69, D-53121 Bonn, Germany ",50.73009,7.06957,1
-"Institute for Computational Cosmology, Department of Physics, Durham University, Durham DH1 3LE, UK",54.768139,-1.5718583,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,2
-"Department of Astronomy, University of Michigan, 500 Church Street, Ann Arbor, MI 48109, USA ",42.2768063,-83.7353455,1
-"Kavli Institute for Particle Astrophysics and Cosmology, Stanford University, 452 Lomita Mall, Stanford, CA 94305-4085, USA",37.42615139999999,-122.1727816,5
-"ASTRON, Netherlands Institute for Radio Astronomy, P.O. Box 2, 7990 AA Dwingeloo, The Netherlands",52.8353557,6.3658171,2
-"Michigan Center for Theoretical Physics, 3444 Randall Lab, 450 Church Street, Ann Arbor, MI 48109, USA",42.2763223,-83.73466189999999,1
-"Faculty of Mathematics and Physics, University of Ljubljana, Jadranska 19, 1000 Ljubljana, Slovenia",46.05645089999999,14.5080702,1
-"Institute of Astronomy, Madingley Road, Cambridge CB3 0HA, UK",52.2145316,0.0953282,1
-"SLAC National Accelerator Laboratory, 2575 Sand Hill Road, Menlo Park, CA 94025, USA",37.4185193,-122.2055072,1
-"Department of Astronomy and the Maryland Astronomy Center for Theory and Computation, University of Maryland, College Park, MD 20742, USA",38.9466863,-76.9282662,1
-"INAF-Osservatorio Astrofisico di Arcetri, Largo E. Fermi 5, I-50125 Firenze, Italy",43.7437096,11.2580472,2
-"Department of Physics and Astronomy, Iowa State University, Ames, IA 50011, USA",42.0293102,-93.6473994,1
-"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"INAF-Istituto di Astrofisica e Planetologia Spaziali, via Fosso del Cavaliere 100, I-00133 Roma, Italy",41.8620235,12.6331035,1
-"Dipartimento di Matematica e Fisica, Universit? del Salento, CP 193, I-73100 Lecce, Italy",40.3515155,18.1750161,3
-"University of Pennsylvania, 209 South 33rd Street, Philadelphia, PA 19104, USA",39.951894,-75.189939,1
-"Physics Department, Center for Education and Research in Cosmology and Astrophysics, Case Western Reserve University, Cleveland, OH 44106, USA",41.5029317,-81.6069338,2
-"European Southern Observatory, Karl-Schwarzschild Strasse, D-85748 Garching bei M?nchen, Germany",48.2602808,11.6709671,2
-"Department of Physics and Astronomy, University of California, Los Angeles, CA 90095-1547, USA",34.0706495,-118.4415158,1
-"Enrico Fermi Institute, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,2
-"Enrico Fermi Institute, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,4
-"Department of Physics and Astronomy, University of Missouri, 5110 Rockhill Road, Kansas City, MO 64110, USA",39.0336028,-94.57576309999999,1
-"Steward Observatory, University of Arizona, 933 North Cherry Avenue, Tucson, AZ 85721, USA",32.233175,-110.94894,3
-"Department of Astronomy, University of Michigan, 500 Church Street, Ann Arbor, MI, 48109, USA",42.2768063,-83.7353455,1
-"Department of Physics, McGill University, 3600 Rue University, Montreal, Quebec H3A 2T8, Canada",45.5069558,-73.5787276,6
-"Observatories of the Carnegie Institution for Science, 813 Santa Barbara Street, Pasadena, CA 91101, USA",34.155601,-118.134254,1
-"Department of Physics, University of California, Berkeley, CA 94720, USA",37.8725651,-122.2572875,4
-"Max-Planck-Institut f?r Radioastronomie, Auf dem H?gel 69 D-53121 Bonn, Germany",50.73009,7.06957,2
-"California Institute of Technology, 1200 E. California Blvd., Pasadena, CA 91125, USA",34.1379059,-118.1255126,5
-"Department of Physics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,2
-"National Radio Astronomy Observatory, 520 Edgemont Road, Charlottesville, VA 22903, USA",38.0293059,-78.47667810000002,2
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,4
-"Department of Physics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,4
-"Department of Astronomy and Astrophysics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,2
-"Department of Physics, University of Michigan, 450 Church Street, Ann Arbor, MI, 48109, USA",42.27669900000001,-83.7365302,1
-"Institute of Astronomy, University of Cambridge, Madingley Road, Cambridge CB3 0HA, UK",52.212416,0.0947852,2
-"University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,3
-"Department of Astrophysical and Planetary Sciences and Department of Physics, University of Colorado, Boulder, CO 80309, USA",40.0075811,-105.2659419,1
-"Kavli Institute for Cosmological Physics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,22
-"Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK",51.5224832,-0.1326412,1
-"Physics Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA",37.8719573,-122.2600603,1
-"Department of Astronomy, University of Florida, Gainesville, FL 32611, USA",29.6488872,-82.34574870000002,1
-"Department of Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA",42.3774149,-71.1171011,2
-"Argonne National Laboratory, 9700 S. Cass Avenue, Argonne, IL, USA 60439, USA",41.725775,-87.9626667,2
-"Department of Physics, Yale University, P.O. Box 208210, New Haven, CT 06520-8120, USA",41.3126451,-72.9251244,1
-"Department of Physics, University of California, One Shields Avenue, Davis, CA 95616, USA",38.5449065,-121.7405167,1
-"Space Telescope Science Institute, 3700 San Martin Dr., Baltimore, MD 21218, USA",39.3327249,-76.6232735,1
-"Liberal Arts Department, School of the Art Institute of Chicago, 112 S Michigan Ave, Chicago, IL 60603, USA",41.8795848,-87.6237123,1
-"Department of Astronomy and Astrophysics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,11
-"Department of Physics and Atmospheric Science, Dalhousie University, Halifax, NS B3H 3J5 Canada ",44.6373724,-63.5885259,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,3
-"Department of Physics and Astronomy, University of Leicester, University Road, Leicester LE1 7RH, UK",52.6242499,-1.1240441,1
-"The Kavli Institute for Astronomy and Astrophysics, Peking University, Yi He Yuan Lu 5, Hai Dian Qu, 100871 Beijing, China",39.9977997,116.3043242,1
-"NASA Herschel Science Center, California Institute of Technology, Mail Code 100-22, Pasadena, CA 91125, USA",34.1378866,-118.1247032,1
-"Center for Astrophysics and Space Astronomy, University of Colorado, Boulder, CO 80309-0389, USA",40.0079468,-105.246346,1
-"Department of Astrophysics, California Institute of Technology, MC 249-17, Pasadena, CA 91125, USA ",34.1378866,-118.1247032,1
-"Department of Astrophysics, California Institute of Technology, MC 249-17, Pasadena, CA 91125, USA",34.1378866,-118.1247032,1
-"Stony Brook University, Stony Brook, NY 11794-3800, USA",40.91830059999999,-73.1175003,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, MS-78, Cambridge, MA 02138, USA ",42.3803274,-71.13891009999999,1
-"School of Physics and Astronomy, University of St. Andrews, St. Andrews KY16 9SS, UK",56.3401503,-2.8074837,1
-"Department of Astronomy, University of Michigan, 830 Dennison Building, 500 Church Street, Ann Arbor, MI 48109, USA",42.2762327,-83.7346598,3
-"Department of Astronomy, Smith College, Northampton, MA 01063, USA",42.319778,-72.640571,1
-"Korea Astronomy and Space Science Institute, Daejeon 305-348, Republic of Korea",36.3981875,127.3747104,2
-"Smithsonian Astrophysical Observatory, 60 Garden Street, Cambridge, MA 02138, USA",42.3814224,-71.1284335,1
-"University of Pennsylvania, 209 South 33rd Street, Philadelphia, PA 19104, USA",39.951894,-75.189939,2
-"Department of Physics, University of California, Berkeley, CA 94720, USA",37.8725651,-122.2572875,4
-"Physics Department, Center for Education and Research in Cosmology and Astrophysics, Case Western Reserve University, Cleveland, OH 44106, USA",41.5029317,-81.6069338,2
-"Argonne National Laboratory, 9700 S. Cass Avenue, Argonne, IL 60439, USA",41.725775,-87.9626667,2
-"Department of Physics and Astronomy, University of California, Los Angeles, CA 90095-1547, USA",34.0706495,-118.4415158,1
-"Enrico Fermi Institute, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,2
-"Enrico Fermi Institute, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,4
-"Department of Physics and Astronomy, University of Missouri, 5110 Rockhill Road, Kansas City, MO 64110, USA",39.0336028,-94.57576309999999,1
-"European Southern Observatory, Karl-Schwarzschild Stra?e, D-85748 Garching bei M?nchen, Germany",48.2602808,11.6709671,3
-"Steward Observatory, University of Arizona, 933 North Cherry Avenue, Tucson, AZ 85721, USA",32.233175,-110.94894,3
-"Department of Physics, McGill University, 3600 Rue University, Montreal, Quebec H3A 2T8, Canada",45.5069558,-73.5787276,5
-"Observatories of the Carnegie Institution for Science, 813 Santa Barbara Street, Pasadena, CA 91101, USA",34.155601,-118.134254,1
-"Department of Physics, University of California, One Shields Avenue, Davis, CA 95616, USA",38.5449065,-121.7405167,1
-"Laboratoire AIM-Paris-Saclay, CEA/DSM/Irfu - CNRS - Universit? Paris Diderot, CEA-Saclay, Orme des Merisiers, F-91191 Gif-sur-Yvette, France",48.701844,2.134078,1
-"California Institute of Technology, 1200 E. California Blvd., Pasadena, CA 91125, USA",34.1379059,-118.1255126,7
-"Department of Physics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,2
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,4
-"Department of Physics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,3
-"Department of Astronomy and Astrophysics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,1
-"Department of Physics, University of Michigan, 450 Church Street, Ann Arbor, MI, 48109, USA",42.27669900000001,-83.7365302,1
-"Institute of Astronomy, University of Cambridge, Madingley Road, Cambridge CB3 0HA, UK",52.212416,0.0947852,2
-"University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,3
-"Department of Astrophysical and Planetary Sciences and Department of Physics, University of Colorado, Boulder, CO 80309, USA",40.0075811,-105.2659419,1
-"Kavli Institute for Cosmological Physics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,19
-"Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK",51.5224832,-0.1326412,1
-"Physics Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA",37.8719573,-122.2600603,1
-"Department of Astronomy, University of Florida, Gainesville, FL 32611, USA",29.6488872,-82.34574870000002,1
-"Department of Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA",42.3774149,-71.1171011,2
-"Max-Planck-Institut f?r Radioastronomie, Auf dem H?gel 69, D-53121 Bonn, Germany",50.73009,7.06957,2
-"Jet Propulsion Laboratory, 4800 Oak Grove Drive, Pasadena, CA 91109, USA",34.2000898,-118.1760263,2
-"Space Telescope Science Institute, 3700 San Martin Dr., Baltimore, MD 21218, USA",39.3327249,-76.6232735,1
-"Liberal Arts Department, School of the Art Institute of Chicago, 112 S Michigan Ave, Chicago, IL 60603, USA",41.8795848,-87.6237123,1
-"Department of Astronomy and Astrophysics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,10
-"Department of Physics and Atmospheric Science, Dalhousie University, Halifax, NS B3H 3J5 Canada ",44.6373724,-63.5885259,1
-"Departamento de Astronom?a, Universidad de Chile, Casilla 36-D, Santiago, Chile",-33.4691199,-70.641997,2
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,5
-"Department of Astronomy, University of California, Berkeley, CA 94720-3411, USA",37.8694699,-122.2581552,4
-"Department of Physics and Astronomy, Rutgers, the State University of New Jersey, 136 Frelinghuysen Road, Piscataway, NJ 08854, USA",40.5223834,-74.46347589999999,2
-"Department of Physics and Astronomy, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA",35.9091261,-79.0472628,1
-"Departamento de Ciencias Fisicas, Universidad Andres Bello, Avda. Republica 252, Santiago, Chile",-33.4552646,-70.6674996,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA ",42.3814605,-71.1281638,1
-"Department of Astronomy, University of Texas, Austin, TX 78712-0259, USA",30.2835151,-97.73488049999999,1
-"Department of Physics and Astronomy, Aarhus University, Ny Munkegade, DK-8000 Aarhus C, Denmark",56.1636091,10.201665,1
-Clay Fellow.,37.122997,-93.17345499999999,1
-"Observatories of the Carnegie Institution of Washington, 813 Santa Barbara St., Pasadena, CA 91101, USA",34.155601,-118.134254,2
-"Carnegie Observatories, Las Campanas Observatory, La Serena, Chile",-29.906301,-71.250204,2
-"Department of Physics, and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, Cambridge, MA 02139, USA",42.3588667,-71.09382459999999,2
-"Max-Planck-Institut f?r Astronomie, K?nigstuhl 17, D-69117 Heidelberg, Germany ",49.3928952,8.7202574,1
-"Department of Astronomy and Astrophysics, University of California, Santa Cruz, Santa Cruz, CA 95064, USA",36.9913856,-122.0608718,1
-"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"Embassy of the Republic of Indonesia, Lehrter Str. 16-17, D-10557 Berlin, Germany",52.52997999999999,13.36409,1
-"Osservatorio Astrofisico di Arcetri, Largo Enrico Fermi 5, I-50125 Firenze, Italy",43.7505556,11.2544444,3
-"Large Binocular Telescope Observatory, University of Arizona, 933 N. Cherry Ave., Tucson, AZ 85721, USA",32.2331503,-110.9487605,1
-"School of Physics and Astronomy, University of Minnesota, 116 Church St. SE, Minneapolis, MN 55455, USA",44.975288,-93.234454,1
-"College of Optical Sciences, University of Arizona, 1630 E. University Blvd., Tucson, AZ 85721, USA",32.2314654,-110.9472134,1
-"Department of Astronomy and Astrophysics, University of Toronto, 50 St. George Street, Toronto, ON M5S 3H4, Canada",43.6607391,-79.3972921,1
-"Department of Astronomy, University of Virginia, Charlottesville, VA 22904, USA",38.0356399,-78.5151042,2
-"Harvard-Smithsonian Center for Astrophysics, Harvard University, 60 Garden St., Cambridge, MA 02138, USA",42.3814605,-71.1281638,2
-"Steward Observatory, University of Arizona, 933 N. Cherry Ave., Tucson, AZ 85721, USA",32.233175,-110.94894,8
-"Current address: Department of Physics & Astronomy, University of North Carolina, Chapel Hill, NC 27599, USA.",35.905249,-79.0581498,1
-"National Radio Astronomy Observatory, Charlottesville, VA 22903, USA",38.0369251,-78.5179117,1
-"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"Department of Physics & Astronomy, University of Kentucky, Lexington, KY 40506, USA",38.02,-84.5,1
-"Physics Department, DePaul University, 2219?N. Kenmore Ave., Byrne Hall 211, Chicago, IL 60614, USA",41.9203468,-87.6433139,2
-"Yukawa Institute for Theoretical Physics, Kyoto University, Oiwake-cho Kitashirakawa, Sakyo-ku, Kyoto 606-8502, Japan",35.03075,135.7858333,2
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,2
-"Physics Department, North Carolina State University, Box 8202, Raleigh, NC 27695, USA",35.81,-78.72,1
-"Dipartimento di Fisica, Universit? di Torino, Torino, Italy ",45.0678799,7.685643199999999,1
-"Department of Physics & Astronomy, Western Washington University, Bellingham, WA 98225, USA ",48.7387998,-122.484692,1
-"Smithsonian Astrophysical Observatory, 60 Garden Street, MS 20, Cambridge, MA 02138, USA",42.3803274,-71.13891009999999,3
-"National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan ",35.67533,139.5364976,1
-"H.L. Dodge Department of Physics and Astronomy, University of Oklahoma, 440?W Brooks St Norman, OK 73019, USA",35.2074515,-97.4348055,1
-"Universitats-Sternwarte Munchen, Ludwig-Maximilians-Universitat, Scheinerstr. 1, D-81679 Munchen, Germany",48.14602,11.60674,1
-"Max Planck Institute for Astronomy, K?nigstuhl 17, D-69117 Heidelberg, Germany",49.3928952,8.7202574,3
-"Steward Observatory, The University of Arizona, 933?N Cherry Ave, Tucson, AZ 85721, USA",32.233175,-110.94894,2
-"Astronomy Department, University of Wisconsin-Madison, 475?N. Charter Street, Madison, WI 53706, USA",43.0744562,-89.4049805,1
-"Laboratoire Lagrange, UMR7293, Universit? de Nice-Sophia Antipolis, CNRS, Observatoire de la C?te d'Azur, F-06300 Nice, France",43.706449,7.2922646,1
-"Department of Astrophysical Sciences, Princeton University, NJ 08544, USA",40.3465603,-74.6516698,5
-"Astronomical Institute ""Anton Pannekoek,"" University of Amsterdam, Science Park 904, 1098 XH Amsterdam, The Netherlands",52.3544534,4.9553595,1
-"Department of Cosmosciences, Hokkaido University, Sapporo 060-0810, Japan",43.0721697,141.3418792,1
-"ExoPlanets and Stellar Astrophysics Laboratory, Code 667, Goddard Space Flight Center, Greenbelt, MD 20771, USA",38.9911983,-76.8525724,1
-"National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan",35.67533,139.5364976,8
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"Department of Astronomy, The University of Tokyo, Hongo 7-3-1, Bunkyo-ku, Tokyo 113-0033, Japan",35.7055238,139.7596611,1
-"Subaru Telescope, 650 North Aohoku Place, Hilo, HI 96720, USA",19.8255058,-155.4759836,13
-"Department of Astronomy, Kyoto University, Kitashirakawa-Oiwake-cho, Sakyo-ku, Kyoto, 606-8502, Japan",35.030518,135.7836835,1
-"The Center for the Promotion of Integrated Sciences, The Graduate University for Advanced Studies (Sokendai",35.26112,139.608454,1
-"Department of Physics and Astronomy, College of Charleston, 58 Coming St., Charleston, SC 29424, USA",32.7830575,-79.9365839,1
-"TMT Observatory Corporation, 1111 South Arroyo Parkway, Pasadena, CA 91105, USA",34.1279964,-118.147567,1
-"Department of Astronomical Science, Graduate University for Advanced Studies (Sokendai",35.26112,139.608454,2
-"Institute for Astronomy, University of Hawaii, 640 North A'ohoku Place, Hilo, HI 96720, USA",19.7297222,-155.09,1
-"Eureka Scientific, 2452 Delmer, Suite 100, Oakland, CA 96002, USA",40.5229147,-122.3221947,1
-"Department of Astronomy and Astrophysics, University of Toronto, 50 St. George Street M5S 3H4, Toronto Ontario, Canada",43.6607391,-79.3972921,1
-"Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA",34.1561783,-118.1528623,1
-"Office of the President, Hiroshima University, 1-3-2 Kagamiyama, Higashi-Hiroshima, 739-8511, Japan",34.4030129,132.7148958,1
-"Institute of Astronomy and Astrophysics, Academia Sinica, P.O. Box 23-141, Taipei 106, Taiwan",25.0261583,121.5427093,1
-"Astronomical Institute, Tohoku University, Aoba, Sendai 980-8578, Japan",38.2553603,140.8444279,1
-"Kwasan and Hida Observatories, Kyoto University, Kyoto, Japan",35.0262444,135.7808218,1
-"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"Radio and Geoastronomy Division, Harvard Smithsonian Center for Astrophysics, MS-42, Cambridge, MA, 02138, USA",42.3803274,-71.13891009999999,2
-"Radio and Geoastronomy Division, Harvard Smithsonian Center for Astrophysics, MS-42, Cambridge, MA, 02138, USA ",42.3803274,-71.13891009999999,1
-"Department of Astronomy, University of Massachusetts Amherst, Amherst, MA 01003, USA",42.3944041,-72.52707180000002,2
-"Army Research Labs, Adelphi, MD 20783, USA",39.0278634,-76.96274629999999,1
-"Currently a Banting Fellow at the Origins Institute, McMaster University, Canada.",43.2612999,-79.92025679999999,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,5
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA ",42.3814605,-71.1281638,1
-"Max Planck Institute for Astrophysics, Karl-Schwarzschild str. 1, Garching D-85741, Germany",48.2610466,11.6713943,1
-"Departamento de Astronomia - IAG, Universidade de S?o Paulo, S?o Paulo - SP, Brazil",-21.9113305,-49.36531489999999,1
-"Niels Bohr Institute, Copenhagen University, DK-2100 Copenhagen, Denmark ",55.6966812,12.5713697,1
-"Department and Astronomy, Yale University, New Haven, CT 06520, USA",41.3171752,-72.9218023,2
-"School of Physics and Astronomy, University of Birmingham, Edgbaston, Birmingham B15 2TT, UK",52.44985519999999,-1.9287282,6
-"Center for Exoplanets and Habitable Worlds, The Pennsylvania State University, University Park, PA 16802, USA",40.7982133,-77.8599084,1
-"Department of Astronomy, University of California, Berkeley, CA 94720, USA",37.8694699,-122.2581552,2
-"McDonald Observatory, The University of Texas, Austin, TX 78712, USA",30.2835151,-97.73488049999999,1
-"Department of Physics and Astronomy, Iowa State University, Ames, IA 50011, USA",42.0293102,-93.6473994,1
-"NASA Ames Research Center, MS 244-30, Moffett Field, CA 94035, USA",37.4090804,-122.051936,3
-"Department of Physics, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA 02139, USA",42.3597818,-71.0935816,2
-"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"Bay Area Environmental Research Institute, 596 First St West, Sonoma, CA 95476, USA",38.2904011,-122.4591276,1
-"Astronomical Institute, ""Anton Pannekoek,"" University of Amsterdam, 1098-XH Amsterdam, The Netherlands",52.3564062,4.9507012,1
-"Centre for Star and Planet Formation, Natural History Museum of Denmark, University of Copenhagen, DK-1530 Copenhagen, Denmark",55.6760968,12.5683371,1
-"Sydney Institute for Astronomy, School of Physics, University of Sydney, Sydney, Australia",-33.8899135,151.1905601,2
-"White Dwarf Research Corporation, Boulder, CO 80301, USA",40.04065060000001,-105.2077798,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,9
-"Departamento de Astronom?a y Astrof?sica, Pontificia Universidad Cat?lica de Chile, Casilla 306, Santiago 22, Chile",-33.5778376,-70.6947654,1
-"School of Physics, Astronomy, and Mathematics, University of Hertfordshire, Hatfield AL10 9AB, UK",51.7528075,-0.2421333,3
-"HH Wills Physics Laboratory, University of Bristol, Tyndall Avenue, Bristol BS8 1TL, UK",51.4579714,-2.6014743,2
-"Department of Astrophysics/IMAPP, Radboud, University Nijmegen, P.O. Box 9010, NL-6500 GL Nijmegen, The Netherlands",51.842867,5.854622,1
-"School of Physics and Astronomy, University of Southampton, Southampton SO17 1BJ, UK",50.9352965,-1.3993479,2
-"Max-Planck-Institute for Astronomy, K?nigstuhl 17, D-69117 Heidelberg, Germany",49.3928952,8.7202574,1
-"Department of Physics and Astronomy, University of British Columbia, Vancouver BC V6T 1Z1, Canada ",49.2648405,-123.252605,1
-"Department of Physics and Astronomy, Johns Hopkins University, 3400?N. Charles Street, Baltimore, MD 21218, USA",39.329901,-76.6205184,1
-"Space Research Institute, Russian Academy of Sciences, Profsoyuznaya 84/32, 117997 Moscow, Russia",55.65516299999999,37.533631,1
-"School of Physics and Astronomy, University of Birmingham, Edgbaston, Birmingham B15 2TT, UK ",52.44985519999999,-1.9287282,2
-"Department of Astronomy, University of Virginia, P.O. Box 400325, Charlottesville, VA 22904-4325, USA",38.0356399,-78.5151042,1
-"UC Santa Cruz, University of California Observatories, 1156 High Street, Santa Cruz, CA 95064, USA",36.9776244,-122.0543182,1
-"Max-Planck-Institut f?r Astrophysik, Karl-Schwarzschild-Str. 1, D-85741, Garching, Germany ",48.2610466,11.6713943,1
-"Department of Physics, University of Alberta, Edmonton, Alberta T6G 2E1, Canada",53.5267778,-113.5263654,1
-"Max-Planck-Institut f?r Astrophysik, Karl-Schwarzschild-Str. 1, D-85741, Garching, Germany",48.2610466,11.6713943,1
-"Department of Astrophysical Sciences, Princeton University, Princeton, NJ 08544, USA",40.3465603,-74.6516698,1
-"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,4
-"NASA Ames Research Center, Moffett Field, CA 94035, USA",37.4090804,-122.051936,4
-"Department of Physics and Astronomy, University of Waterloo, Waterloo, ON N2L 2G1, Canada",43.4555558,-80.5237892,1
-"Perimeter Institute for Theoretical Physics, Waterloo, ON N2L 2Y5, Canada",43.465426,-80.528111,1
-"Leiden Observatory, Leiden University, Oort Gebouw, P.O. Box 9513, 2300 RA Leiden, The Netherlands",52.158494,4.496199,3
-"Harvard-Smithsonian Centre for Astrophysics, 60 Garden St., Cambridge, MA 02138, USA",42.3814605,-71.1281638,2
-"Perimeter Institute for Theoretical Physics, Waterloo, ON, Canada",43.465426,-80.528111,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,2
-"Department of Physics and Astronomy, University of Waterloo, Waterloo, ON, Canada",43.47298850000001,-80.5452743,1
-"Astronomy Department & Radio Astronomy Laboratory, University of California, Berkeley, CA 94720-3411, USA",37.8717443,-122.2609626,2
-"Astronomy Department & Radio Astronomy Laboratory, University of California, Berkeley, CA 94720-3411, USA ",37.8717443,-122.2609626,1
-"Van Vleck Observatory, Astronomy Department, Wesleyan University, 96 Foss Hill Drive, Middletown, CT 06459, USA",41.5544121,-72.6594774,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden St., Cambridge, MA 02138, USA",42.3814605,-71.1281638,1
-"Institute for Astronomy, University of Hawaii at Manoa, 640 North Aohoku Place, Hilo, HI 96720, USA",21.3069823,-157.811671,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,2
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,4
-"Department of Physics & Astronomy, Northern Arizona University, S San Francisco St, Flagstaff, AZ 86011, USA",35.1893974,-111.6514545,2
-"Southwest Research Institute, 6220 Culebra Road, San Antonio, TX 78238, USA",29.452191,-98.610191,4
-"Department of Astronomy, University of Florida, 1900 Museum Road, Gainesville, FL 32611, USA",29.6462115,-82.3476965,1
-"Department of Terrestrial Magnetism, Carnegie Institute of Washington, 5251 Broad Branch Road NW, Washington, DC 20015, USA",38.965082,-77.068156,2
-"Carnegie Observatories, Las Campanas Observatory, Casilla 601, La Serena, Chile",-29.906301,-71.250204,1
-"Lowell Observatory, 1400?W Mars Hill Road, Flagstaff, AZ 86001, USA",35.2030426,-111.6645534,1
-"Canadian Astronomy Data Centre, National Research Council of Canada, 5071?W. Saanich Road, Victoria, BC V9E 2E7, Canada",48.5167241,-123.4208591,3
-"The Center for Science, Technology, Engineering and Mathematics (STEM) Research, Education, and Outreach, Southern Illinois University, 1220 Lincoln Dr, Carbondale, IL 62901, USA",37.7138335,-89.2116506,1
-"Institute for Astronomy, University of Hawaii, 2680 Woodlawn Dr, Honolulu, HI 96822, USA",21.3069823,-157.811671,1
-"Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA 02139, USA",42.3588667,-71.09382459999999,2
-"NASA Goddard Space Flight Center, Greenbelt, MD, USA",38.9911983,-76.8525724,1
-"Harvard University, Department of Earth and Planetary Sciences, Cambridge, MA, USA",42.37823969999999,-71.1154705,2
-"Harvard University, School of Engineering and Applied Sciences, Cambridge, MA, USA",42.3736158,-71.10973349999999,1
-"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA, USA",42.3814605,-71.1281638,2
-"University of Maryland, College Park, Department of Atmospheric and Oceanic Science, Maryland, USA",38.9906678,-76.9419681,1
-"University of Maryland, College Park, College of Computer, Mathematical and Natural Science, College Park, Maryland, USA",38.9870154,-76.9406503,1
-"INAF - Osservatorio Astronomico di Roma, via di Frascati 33, 00040, Monte Porzio Catone, Italy",41.8181871,12.7152505,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA, 02138, USA",42.3814605,-71.1281638,1
-"Jodrell Bank Center for Astrophysics, School of Physics and Astronomy, The University of Manchester, Manchester, M13 9PL, UK",53.466808,-2.233936,3
-"Leiden Observatory, Leiden University, PO Box 9513, 2300 RA, Leiden, The Netherlands",52.158494,4.496199,3
-"Astronomical Institute ""Anton Pannekoek"", University of Amsterdam, Postbus 94249, 1090 GE, Amsterdam, The Netherlands",52.3702157,4.895167900000001,3
-"Max Planck Institute for Astrophysics, Karl Schwarzschild Str. 1, 85741, Garching, Germany",48.2610466,11.6713943,2
-"LESIA, UMR CNRS 8109, Observatoire de Paris, 92195, Meudon, France",48.812995,2.23847,2
-"Institute for Astronomy, University of Edinburgh, Royal Observatory of Edinburgh, Blackford Hill, Edinburgh, EH9 3HJ, UK",55.9230229,-3.1950366,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA, 02138, USA",42.3814605,-71.1281638,1
-"Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD, 21218, USA",39.3327249,-76.6232735,1
-"Department of Astrophysics/IMAPP, Radboud University Nijmegen, PO Box 9010, 6500 GL, Nijmegen, The Netherlands",51.842867,5.854622,1
-"Max-Planck-Institut f?r Radioastronomie, Auf dem H?gel 69, 53121, Bonn, Germany",50.73009,7.06957,7
-"School of Physics and Astronomy, University of Southampton, Southampton, SO17 1BJ, UK",50.9352965,-1.3993479,3
-"Argelander-Institut f?r Astronomie, University of Bonn, Auf dem H?gel 71, 53121, Bonn, Germany",50.73363089999999,7.060132899999999,1
-"Jacobs University Bremen, Campus Ring 1, 28759, Bremen, Germany",53.16704739999999,8.65081,1
-"Th?ringer Landessternwarte, Sternwarte 5, 07778, Tautenburg, Germany",50.98276,11.71055,2
-"Astrophysics, University of Oxford, Denys Wilkinson Building, Keble Road, Oxford, OX1 3RH, UK",51.7595334,-1.25842,2
-"University of Hamburg, Gojenbergsweg112, 21029, Hamburg, Germany",53.489276,10.2260726,3
-"Astronomisches Institut der Ruhr-Universit?t Bochum, Universitaetsstrasse 150, 44780, Bochum, Germany",51.4818445,7.216236299999999,1
-"Kapteyn Astronomical Institute, PO Box 800, 9700 AV, Groningen, The Netherlands",53.219231,6.575369999999999,1
-"Laboratoire Lagrange, UMR7293, Universit? de Nice Sophia-Antipolis, CNRS, Observatoire de la C?te d'Azur, 06300, Nice, France",43.706449,7.2922646,1
-"Institut f?r Astronomie und Astrophysik, Universit?t T?bingen, Sand 1, 72076, T?bingen, Germany",49.9667396,7.904596000000001,1
-"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA, 02138, USA",42.3814605,-71.1281638,2
-"INAF - Osservatorio Astronomico di Palermo, Piazza del Parlamento 1, 90134, Palermo, Italy",38.1116669,13.3538726,1
-"Dipartimento di Fisica e Astronomia, Universit? di Padova, 35131, Padova, Italy",45.41345039999999,11.8928197,1
-"Konkoly Observatory, Research Centre for Astronomy and Earth Sciences, Hungarian Academy of Sciences, 1121, Budapest, Hungary",47.49793589999999,18.9690995,1
-"Hiroshima Astrophysical Science Center, Hiroshima University, 1-3-1 Kagamiyama, Higashi-Hiroshima, 739-8526, Hiroshima, Japan",34.403609,132.715794,3
-"Astronomy Department, University of Michigan, Ann Arbor, MI, 48109-1042, USA",42.2768063,-83.7353455,2
-"Universit? Bordeaux 1, CNRS/IN2p3, Centre d'?tudes Nucl?aires de Bordeaux-Gradignan, 33175, Gradignan, France",44.77426699999999,-0.618945,1
-"Dept. of Astronomy and Astrophysics, Penn State University, University Park, PA, 16802, USA",40.798193,-77.8629143,2
-"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA, 02138, USA",42.3814605,-71.1281638,1
-"Istituto Nazionale di Fisica Nucleare, Sezione di Padova, 35131, Padova, Italy",45.41345039999999,11.8928197,1
-"Department of Astronomy, Kyoto University, Kitashirakawa-Oiwake-cho, Sakyo-ku, 606-8502, Kyoto, Japan",35.030518,135.7836835,1
-"Purdue University, Department of Physics, 525 Northwestern Ave, West Lafayette, IN, 47907, USA",40.4401775,-86.9261008,1
-"Centre for Space Research, North-West University, Potchefstroom Campus, 2531, Potchefstroom, South Africa",-26.690468,27.0931649,1
-"Astrophysical Institute, Department of Physics and Astronomy, Ohio University Athens, OH 45701, USA",39.326837,-82.10213759999999,1
-"Department of Physical Sciences, Hiroshima University, 1-3-1 Kagamiyama, Higashi-Hiroshima, 739-8526, Hiroshima, Japan",34.403609,132.715794,3
-"Cahill Center for Astronomy and Astrophysics, California Institute of Technology, Pasadena, CA, 91125, USA",34.1379059,-118.1255126,2
-"F?MI Satellite Geodetic Observatory, PO Box 585, 1592, Budapest, Hungary",47.497912,19.040235,1
+bibcode,Location,lat,lng,address,country,state,count
+2013Sci...340...45N,"Department of Physics and Astronomy, Rutgers University, 136 Frelinghuysen Road, Piscataway, NJ 08854, USA",40.5223834,-74.4634759,"136 Frelinghuysen Road, Rutgers University - New Brunswick, Piscataway Township, NJ 08854, USA",United States,New Jersey,1
+2013Sci...340...45N,"Instituto de Astrofísica de Canarias, Vía Láctea, E38205 La Laguna (Tenerife",28.4874009,-16.3159061,"San Cristobal de La Laguna, Santa Cruz de Tenerife, Spain",Spain,Canary Islands,1
+2013Sci...340...45N,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013Sci...340...45N,"Max Planck Institute for Astronomy, Königstuhl 17, D-69117 Heidelberg, Germany",49.3928952,8.7202574,"69117 Heidelberg, Germany",Germany,Baden-Wurttemberg,2
+2013Sci...340...45N,"University of Bern, Center for Space and Habitability, Sidlerstrasse 5, CH-3012 Bern, Switzerland",46.9513468,7.4384567,"Sidlerstrasse 5, University of Bern, 3012 Berne, Switzerland",Switzerland,Canton of Bern,1
+2013PhRvL.110o7601B,"Department of Physics, Harvard University, Cambridge, Massachusetts 02138, USA",42.3774149,-71.1171011,"Harvard University-Department Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA",United States,Massachusetts,4
+2013PhRvL.110o7601B,"Nuclear Science and Engineering Department, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA",42.3606853,-71.0919811,"Department of Nuclear Science and Engineering, Massachusetts Institute of Technology, Cambridge, MA 02142, USA",United States,Massachusetts,1
+2013PhRvL.110o7601B,"School of Engineering and Applied Sciences, Harvard University, Cambridge, Massachusetts 02138, USA",42.3741886,-71.1165876,"Harvard University, 1350 Massachusetts Ave, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013PhRvL.110o7601B,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, Massachusetts 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,4
+2013PhRvL.110o7601B,"Department of Physics, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA",42.3597818,-71.0935816,"MIT Department of Physics, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA 02139, USA",United States,Massachusetts,1
+2013PhRvL.110o5301B,"School of Physics, Astronomy, and Computational Sciences, George Mason University, Fairfax, Virginia 22030, USA",38.832997,-77.3083695,"George Mason University, 4400 University Drive, Fairfax, VA 22030, USA",United States,Virginia,2
+2013PhRvL.110o5301B,"Department of Physics, University of Connecticut, Storrs, Connecticut 06269, USA",41.8077414,-72.2539805,"University of Connecticut-Storrs, 115 N. Eagleville Road, Storrs, CT 06269, USA",United States,Connecticut,1
+2013PhRvL.110o5301B,"Zentrum für Optische Quantentechnologien and Institut für Laserphysik, Universität Hamburg, 22761 Hamburg, Germany",53.5678526,9.9118726,"22761 Hamburg, Germany",Germany,Hamburg,1
+2013PhRvL.110o5301B,"Department of Physics, Harvard University, 17 Oxford Street, Cambridge, Massachusetts 02138, USA",42.3774149,-71.1171011,"Harvard University-Department Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013PhRvL.110o5301B,"ITAMP, Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, Massachusetts 02138, USA",42.3813384,-71.1265483,"60 Garden Street, Harvard University, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013PASA...30...31B,"ICRAR - University of Western Australia, Perth, Australia",-31.994662,115.8886806,"International Centre for Radio Astronomy Research, Curtin University, Bentley WA 6102, Australia",Australia,Western Australia,1
+2013PASA...30...31B,"MIT Haystack Observatory, Westford, MA, USA",42.6126396,-71.4938736,"MIT Haystack Observatory, 1 Millstone Hill Road, Westford, MA 01886, USA",United States,Massachusetts,12
+2013PASA...30...31B,"Department of Physics and Astronomy, University of Iowa, Iowa City, IA, USA",41.6621811,-91.5322311,"Department of Physics and Astronomy, University of Iowa, 203, Iowa City, IA 52242, USA",United States,Iowa,2
+2013PASA...30...31B,"MIT Kavli Institute for Astrophysics and Space Research, Cambridge, MA, USA",42.3606423,-71.0933616,"MIT Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, 77 Massachusetts Avenue #37241, Cambridge, MA 02139, USA",United States,Massachusetts,5
+2013PASA...30...31B,"Physics Department, University of Washington, Seattle, WA, USA",47.653638,-122.3112787,"Department of Physics, University of Washington Seattle Campus, University of Washington - Seattle, Seattle, WA 98105, USA",United States,Washington,2
+2013PASA...30...31B,"Raman Research Institute, Bangalore, India",13.0135132,77.5809267,"Raman Research Institute, Raj Mahal Vilas Extension, Armane Nagar, Bangalore, Karnataka 560080, India",India,Karnataka,4
+2013PASA...30...31B,"Dominion Radio Astrophysical Observatory, Penticton, BC, Canada",49.3219892,-119.6210933,"Dominion Radio Astrophysical Observatory, 717 White Lake Rd, Penticton, BC V2A 6J9, Canada",Canada,British Columbia,1
+2013PASA...30...31B,"National Radio Astronomy Observatory, Charlottesville, WV, USA",38.5976262,-80.4549026,"West Virginia, USA",United States,West Virginia,1
+2013PASA...30...31B,"Sydney Institute for Astronomy, The University of Sydney, Sydney, Australia",-33.8899135,151.1905601,"The University of Sydney, City Road, Darlington NSW 2008, Australia",Australia,New South Wales,5
+2013PASA...30...31B,"Department of Physics, University of California San Diego, La Jolla, CA, USA",32.87535,-117.240006,"Physics Department, University of California - San Diego, Revelle College, San Diego, CA 92161, USA",United States,California,1
+2013PASA...30...31B,"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,3
+2013PASA...30...31B,"School of Chemical and Physical Sciences, Victoria University of Wellington, Wellington, New Zealand",-41.289399,174.7676847,"Victoria University of Wellington, 19 Kelburn Parade, Wellington 6012, New Zealand",New Zealand,Wellington,1
+2013PASA...30...31B,"Physics Department, University of Wisconsin-Milwaukee, Milwaukee, WI, USA",43.07502,-87.8859444,"Physics Department, University of Wisconsin-Milwaukee, Physics Bldg, Milwaukee, WI 53211, USA",United States,Wisconsin,1
+2013PASA...30...31B,"School of Earth and Space Exploration, Arizona State University, Tempe, AZ, USA",33.4209362,-111.9314138,"ASU School of Earth and Space Exploration, George M. Bateman Physical Science Center, South Terrace Road, Tempe, AZ 85281, USA",United States,Arizona,1
+2013PASA...30...31B,"National Centre for Radio Astrophysics, Pune, India",18.5603437,73.826741,"National Centre for Radio Astrophysics - Tata Institute of Fundamental Research, Pune, Maharashtra 411007, India",India,Maharashtra,1
+2013PASA...30...31B,"Monash e-Research Centre, Monash University, Melbourne, Australia",-37.9092617,145.1344363,"Monash Accident Research Centre, Monash University, Clayton VIC 3168, Australia",Australia,Victoria,1
+2013PASA...30...31B,"Department of Astronomy, Cornell University, Ithaca, NY, USA",42.448068,-76.4752145,"Cornell University, Ithaca, NY 14850, USA",United States,New York,1
+2013PASA...30...31B,"ICRAR - Curtin University, Perth, Australia",-31.994662,115.8886806,"International Centre for Radio Astronomy Research, Curtin University, Bentley WA 6102, Australia",Australia,Western Australia,6
+2013PASA...30...31B,"School of Physics, The University of Melbourne, Melbourne, Australia",-37.7967123,144.9642724,"School of Physics - University of Melbourne, The University of Melbourne Swanston Street, Parkville VIC 3052, Australia",Australia,Victoria,1
+2013PASA...30...31B,"Research School of Astronomy and Astrophysics, The Australian National University, Canberra, Australia",-35.2776999,149.118527,"Australian National University, Barry Dr, Acton ACT 0200, Australia",Australia,Australian Capital Territory,2
+2013Natur.496..329R,"Center for Astrophysics and Space Astronomy 389-UCB, University of Colorado, Boulder, Colorado 80309, USA",40.0075811,-105.2659419,"University of Colorado Boulder, Boulder, CO 80309, USA",United States,Colorado,4
+2013Natur.496..329R,"Jet Propulsion Laboratory, 4800 Oak Grove Drive, Pasadena, California 91109, USA",34.2000898,-118.1760263,"JET Propulsion Laboratory, 4800 Oak Grove Drive, Pasadena, CA 91109, USA",United States,California,7
+2013Natur.496..329R,"Observational Cosmology Laboratory, Code 665, NASA Goddard Space Flight Center, Greenbelt, Maryland 20771, USA",38.9911983,-76.8525724,"Goddard Space Flight Center, 8800 Greenbelt Road, Greenbelt, MD 20771, USA",United States,Maryland,2
+2013Natur.496..329R,"Institute for Astrophysics, University of Minnesota, 116 Church Street Southeast, Minneapolis, Minnesota 55455, USA",44.975288,-93.234454,"116 Church Street Southeast, University of Minnesota, Mississippi National River and Recreation Area, Minneapolis, MN 55455, USA",United States,Minnesota,1
+2013Natur.496..329R,"Institut de RadioAstronomie Millimetrique, 300 Rue de la Piscine, Domaine Universitaire, F-38406 Saint Martin d'Heres, France",45.165133,5.767761,"Saint-Martin-d'Hères, France",France,Rhone-Alpes,3
+2013Natur.496..329R,"Department of Physics and Astronomy, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA",39.9520275,-75.1898015,"Department of Physics and Astronomy, University of Pennsylvania, Philadelphia, PA 19104, USA",United States,Pennsylvania,2
+2013Natur.496..329R,"Department of Physics and Astronomy, University of British Columbia, 6224 Agricultural Road, Vancouver, British Columbia V6T 1Z1, Canada",49.2684344,-123.2611099,"Vancouver, BC V6T 1Z1, Canada",Canada,British Columbia,2
+2013Natur.496..329R,"Infrared Processing and Analysis Center, MS 100-22, California Institute of Technology, Pasadena, California 91125, USA",34.1379059,-118.1255126,"California Institute of Technology, 1200 East California Boulevard, Pasadena, CA 91125, USA",United States,California,1
+2013Natur.496..329R,"Department of Physics and Astronomy, Johns Hopkins University, Baltimore, Maryland 21218, USA",39.3316414,-76.6235247,"Department of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21210, USA",United States,Maryland,1
+2013Natur.496..329R,"Department of Physics, Virginia Tech, Blacksburg, Virginia 24061, USA",37.2283358,-80.4261399,"Department of Physics, VirginiaTech, Blacksburg, VA 24060, USA",United States,Virginia,1
+2013Natur.496..329R,"UK Astronomy Technology Centre, Royal Observatory, Blackford Hill, Edinburgh EH9 3HJ, UK",55.9230229,-3.1950366,"Blackford Hill, Edinburgh, City of Edinburgh EH9, UK",United Kingdom,NULL,2
+2013Natur.496..329R,"Department of Physics and Astronomy, University of California, Irvine, California 92697, USA",33.6490507,-117.8434722,"University of California Irvine, Irvine, CA 92697, USA",United States,California,4
+2013Natur.496..329R,"ESO, Karl-Schwarzschild-Strasse 2, D-85748 Garching bei München, Germany",48.2602808,11.6709671,"European Southern Observatory, Karl-Schwarzschild-Straße 2, 85748 Garching, Germany",Germany,Bavaria,1
+2013Natur.496..329R,"California Institute of Technology, 1200 East California Boulevard, MC 249-17, Pasadena, California 91125, USA",34.1378866,-118.1247032,"Pasadena, CA 91125, USA",United States,California,13
+2013Natur.496..329R,"Institute of Astronomy, University of Cambridge, Madingley Road, Cambridge CB3 0HA, UK",52.212416,0.0947852,"Madingley Road, Cambridge, Cambridgeshire, UK",United Kingdom,NULL,2
+2013Natur.496..329R,"Dipartimento di Fisica e Astronomia, Università di Padova, vicolo Osservatorio 3, I-35122 Padova, Italy",45.4003087,11.8704306,"35122 Padua, Province of Padua, Italy",Italy,Veneto,1
+2013Natur.496..329R,"Astronomy Centre, Department of Physics and Astronomy, University of Sussex, Brighton BN1 9QH, UK",50.86513,-0.0867652,"Brighton, The City of Brighton and Hove BN1 9QH, UK",United Kingdom,NULL,5
+2013Natur.496..329R,"Herschel Science Centre, European Space Astronomy Centre, Villanueva de la Cañada, 28691 Madrid, Spain",40.44205,-4.001345,"28691 Villanueva de la Cañada, Madrid, Spain",Spain,Community of Madrid,2
+2013Natur.496..329R,"Institut d'Astrophysique de Paris, UMR 7095, CNRS, UPMC Univ. Paris 06, 98bis Boulevard Arago, F-75014 Paris, France",48.8346236,2.337211,"Boulevard Arago, 75014 Paris, France",France,Île-de-France,2
+2013Natur.496..329R,"Instituto de Astrofisica de Canarias, E-38200 La Laguna, Tenerife, Spain",28.4874009,-16.3159061,"San Cristobal de La Laguna, Santa Cruz de Tenerife, Spain",Spain,Canary Islands,5
+2013Natur.496..329R,"Departamento de Astrofisica, Universidad de La Laguna, E-38205 La Laguna, Tenerife, Spain",28.4811771,-16.3201816,"Avenida Astrofisico Francisco Sánchez, San Cristobal de La Laguna, Santa Cruz de Tenerife, Spain",Spain,Canary Islands,5
+2013Natur.496..329R,"Mullard Space Science Laboratory, University College London, Holmbury St Mary, Dorking RH5 6NT, UK",51.1719559,-0.4207069,"Holmbury Saint Mary, Surrey RH5 6NT, UK",United Kingdom,NULL,1
+2013Natur.496..329R,"Aix-Marseille Université, CNRS, Laboratoire d'Astrophysique de Marseille, UMR7326, F-13388 Marseille, France",43.296482,5.36978,"Marseille, France",France,Provence-Alpes-Côte d'Azur,1
+2013Natur.496..329R,"Astrophysics Group, Imperial College London, Blackett Laboratory, Prince Consort Road, London SW7 2AZ, UK",51.4998446,-0.1772095,"Prince Consort Road, London SW7, UK",United Kingdom,NULL,2
+2013Natur.496..329R,"Department of Astrophysical and Planetary Sciences, CASA 389-UCB, University of Colorado, Boulder, Colorado 80309, USA",40.0075811,-105.2659419,"University of Colorado Boulder, Boulder, CO 80309, USA",United States,Colorado,3
+2013Natur.496..329R,"Laboratoire AIM-Paris-Saclay, CEA/DSM/Irfu - CNRS - Université Paris Diderot, CEA Saclay, Point courrier 131, F-91191 Gif-sur-Yvette, France",48.701844,2.134078,"Gif-sur-Yvette, France",France,Île-de-France,1
+2013Natur.496..329R,"Institute for Astronomy, University of Edinburgh, Royal Observatory, Blackford Hill, Edinburgh EH9 3HJ, UK",55.9230229,-3.1950366,"Blackford Hill, Edinburgh, City of Edinburgh EH9, UK",United Kingdom,NULL,5
+2013Natur.496..329R,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, Massachusetts 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013NatPh...9..215G,"Harvard-Smithsonian Center for Astrophysics, Cambridge, Massachusetts 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013NatPh...9..215G,"Department of Physics, Harvard University, Cambridge, Massachusetts 02138, USA",42.3774149,-71.1171011,"Harvard University-Department Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA",United States,Massachusetts,6
+2013NatPh...9..215G,"School of Engineering and Applied Science, Harvard University, Cambridge, Massachusetts, 02138, USA",42.3741886,-71.1165876,"Harvard University, 1350 Massachusetts Ave, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013MNRAS.430.2169R,"Departamento de Astronomía y Astrofísica, Pontificia Universidad Católica de Chile, Av. Vicuña Mackenna 4860, Casilla 306, Santiago 22, Chile",-33.5778376,-70.6947654,"Chile 22, San Bernardo, Santiago Metropolitan Region, Chile",Chile,Santiago Metropolitan Region,1
+2013MNRAS.430.2169R,"Centre for Astrophysics Research, STRI, University of Hertfordshire, College Lane Campus, Hatfield AL10 9AB, UK",51.7528765,-0.2421732,"Hatfield, Hertfordshire AL10 9AB, UK",United Kingdom,NULL,3
+2013MNRAS.430.2169R,"Institute for Geophysics, Astrophysics and Meteorology, Institute of Physics, University of Graz, Universitaetsplatz 5/II, 8010 Graz, Austria",47.0775152,15.4491946,"Universitätsplatz 5, 8010 Graz, Austria",Austria,Styria,1
+2013MNRAS.430.2169R,"Instituto de Astrofísica de Canarias, E-38200 La Laguna, Tenerife, Spain",28.4874009,-16.3159061,"San Cristobal de La Laguna, Santa Cruz de Tenerife, Spain",Spain,Canary Islands,1
+2013MNRAS.430.2169R,"Observatorio Astronómico, Universidad de Valencia, E-46100 Burjassot, Spain",39.5096699,-0.4135963,"Burjassot, Valencia, Spain",Spain,Valencian Community,1
+2013MNRAS.430.2169R,"Department of Physics, University of Warwick, Coventry CV4 9BU, UK",52.4018377,-1.5668468,"Coventry, West Midlands CV4 9BU, UK",United Kingdom,NULL,1
+2013MNRAS.430.2169R,"Smithsonian Astrophysical Observatory, 60 Garden Street, Cambridge, MA 02138, USA",42.3814224,-71.1284335,"Smithsonian Astrophysical Observatory, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013MNRAS.430.2169R,"Rudolf Peierls Centre for Theoretical Physics, Keble Road, Oxford OX1 3NP, UK",51.7595334,-1.25842,"Keble Road, University of Oxford, Oxford, Oxfordshire OX1, UK",United Kingdom,NULL,1
+2013MNRAS.430.2169R,"Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK",51.5224832,-0.1326412,"Gower Street, London Borough of Camden, London, UK",United Kingdom,NULL,1
+2013MNRAS.430.2169R,"Departamento de Física y Astronomía, Facultad de Ciencias, Universidad de Valparaíso, Av. Gran Bretaña 1111, Playa Ancha, Casilla 53, Valparaíso, Chile",-33.045646,-71.620361,"Valparaíso, Valparaíso Region, Chile",Chile,Valparaiso,1
+2013MNRAS.430.2169R,"Instituto de Astonomía y Meteorología, Departamento de Física, CUCEI, Universidad de Guadalajara, Av. Vallarta 2602, C.P. 44130, Guadalajara, Jal., Mexico",20.6733373,-103.3803903,"Arcos, 44130 Guadalajara, JAL, Mexico",Mexico,Jalisco,1
+2013MNRAS.430.2169R,"Departamento de Astrofísica, Universidad de La Laguna, E-38206 La Laguna, Tenerife, Spain",28.4811771,-16.3201816,"Avenida Astrofisico Francisco Sánchez, San Cristobal de La Laguna, Santa Cruz de Tenerife, Spain",Spain,Canary Islands,1
+2013MNRAS.430.1694D,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013MNRAS.430.1694D,"Dr Karl Remeis-Observatory and Erlangen Centre for Astroparticle Physics, Sternwartstr. 7, D-96049 Bamberg, Germany",49.8850153,10.8884058,"Sternwartstraße 7, 96049 Bamberg, Germany",Germany,Bavaria,3
+2013MNRAS.430.1694D,"Department of Astronomy and Maryland Astronomy Center for Theory and Computation, University of Maryland, College Park, MD 20742, USA",38.9466863,-76.9282662,"University of Maryland, 3100 Chesapeake Road, College Park, MD 20742, USA",United States,Maryland,2
+2013MNRAS.430.1694D,"International Space Science Institute, Hallerstrasse 6, CH-3012 Bern, Switzerland",46.9521713,7.4351353,"Hallerstrasse 6, 3012 Berne, Switzerland",Switzerland,Canton of Bern,1
+2013MNRAS.430.1694D,"Astrophysics Science Division, NASA Goddard Space Flight Center, Code 663, Greenbelt, MD 20771, USA",38.9917426,-76.8632938,"Greenbelt, MD 20771, USA",United States,Maryland,1
+2013MNRAS.430.1694D,"Max-Planck-Institut für Radioastronomie, Auf dem Hügel 69, D-53121 Bonn, Germany",50.73009,7.06957,"Max Planck Institute for Radio Astronomy, Bonn University, Dept. of Southeast Asian Studies, Campus Endenich, Auf dem Hügel 69, 53121 Bonn, Germany",Germany,North Rhine-Westphalia,1
+2013MNRAS.430.1309T,Instituto de Ciencias Nucleares (UNAM,19.3256792,-99.1807367,"UNAM: Instituto de Ciencias Nucleares, Circuito Exterior S/n, Ciudad Universitaria, Coyoacán, 04510 Ciudad De Mexico, Distrito Federal, Mexico",Mexico,Distrito Federal,1
+2013MNRAS.430.1309T,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013MNRAS.430.1309T,"Departamento de Astronomía, Universidad de Guanajuato, Apdo. Postal 144, 36000 Guanajuato, México",21.0180008,-101.2566302,"Zona Centro, 36000 Guanajuato, Mexico",Mexico,Guanajuato,1
+2013MNRAS.430.1309T,"Instituto de Ciencias del Espacio (CSIC) - UB/IEEC, Universitat de Barcelona, Martí i Franquès 1, E-08028 Barcelona, Spain",41.3790881,2.1278398,"08028 Barcelona, Spain",Spain,Catalonia,1
+2013JChPh.138m4317Z,"ITAMP, Harvard-Smithsonian Center for Astrophysics, Cambridge, Massachusetts 02138, USA",42.3803274,-71.1389101,"Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013JChPh.138m4317Z,"Center for Cold Atom Physics, Chinese Academy of Sciences, Wuhan 430071, China",30.5456704,114.3419395,"Wuchang, Wuhan, Hubei, China, 430071",China,Hubei,1
+2013JChPh.138m4317Z,"Department of Physics, University of New Brunswick, Fredericton, New Brunswick E3B 5A3, Canada",45.9454276,-66.6406975,"University of New Brunswick - Fredericton, Bailey Drive, Fredericton, NB E3B 9P8, Canada",Canada,New Brunswick,1
+2013Icar..223..654W,"Ashima Research, Pasadena, CA 91101, USA",34.1427587,-118.1386005,"Pasadena, CA 91101, USA",United States,California,2
+2013Icar..223..654W,"Applied Physics Laboratory, Johns Hopkins University, Laurel, MD 20723, USA",39.1645203,-76.8983569,"Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, MD 20723, USA",United States,Maryland,1
+2013Icar..223..654W,"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767L..25M,"University Corporation for Atmospheric Research, Boulder, CO 80307, USA ",39.99,-105.24,"Boulder, CO 80307, USA",United States,Colorado,1
+2013ApJ...767L..25M,"Department of Physics and Astronomy, University of Utah, Salt Lake City, UT 84112, USA",40.765023,-111.848931,"University of Utah, 201 Presidents Circle, Salt Lake City, UT 84112, USA",United States,Utah,1
+2013ApJ...767L..25M,"Max-Planck-Institut für Sonnensystemforschung, D-37191 Katlenburg-Lindau, Germany",51.6668499,10.112796,"Katlenburg-Lindau, Germany",Germany,Lower Saxony,1
+2013ApJ...767L..25M,"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767L..25M,"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA ",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767L..24D,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, MS-10, Cambridge, MA 02138, USA",42.3803274,-71.1389101,"Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013ApJ...767L..10P,"XDT-6, Los Alamos National Laboratory, P.O. Box 1663, Los Alamos, NM 87545, USA",35.89,-106.31,"Los Alamos, NM 87545, USA",United States,New Mexico,1
+2013ApJ...767L..10P,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767L..10P,"Department Física i Enginyeria Nuclear, Univ. Politécnica de Catalunya, Carrer Pere Serra 1-15, E-08173 Sant Cugat del Vallés, Spain",38.9852121,-0.556366,"46818 Vallés, Valencia, Spain",Spain,Valencian Community,1
+2013ApJ...767L..10P,"Department of Applied Physics, University of Miyazaki, 1-1 Gakuen Kibana-dai Nishi, Miyazaki 889-2192, Japan",31.8310239,131.4125895,"１丁目 Gakuenkibanadainishi, Miyazaki, Miyazaki Prefecture 889-2192, Japan",Japan,Miyazaki Prefecture,2
+2013ApJ...767L..10P,"Department of Physics, University of Texas at Arlington, Box 19059, Arlington, TX 76019, USA",32.7307219,-97.1163471,"Arlington, TX 76019, USA",United States,Texas,2
+2013ApJ...767L..10P,"Korea Astronomy and Space Science Institute, Daejeon 305-348, Republic of Korea",36.3981875,127.3747104,"Hwaam-dong, Yuseong-gu, Daejeon, South Korea",South Korea,NULL,1
+2013ApJ...767L..10P,"Department of Physics and Astronomy, Rutgers University, 136 Frelinghuysen Road, Piscataway, NJ 08854-8019, USA",40.5223834,-74.4634759,"136 Frelinghuysen Road, Rutgers University - New Brunswick, Piscataway Township, NJ 08854, USA",United States,New Jersey,1
+2013ApJ...767L..10P,"Department of Astronomy and Astrophysics, Pennsylvania State University, 525 Davey Laboratory, University Park, PA 16802, USA",40.8075558,-77.8617399,"UNIVERSITY PARK, PA 16802, USA",United States,Pennsylvania,1
+2013ApJ...767L...3N,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013ApJ...767L...3N,"Nicolaus Copernicus Astronomical Center, Polish Academy of Sciences, Rabiańska 8, 87-100 Toruń, Poland",53.0088675,18.6047344,"Rabiańska 8, Torun, Poland",Poland,Kuyavian-Pomeranian Voivodeship,2
+2013ApJ...767L...3N,"Universidad de Alcalá de Henares, Departamento de Física y Matemáticas, Campus Universitario, E-28871 Alcalá de Henares, Madrid, Spain",40.484779,-3.364402,"Alcala de Henares, Madrid, Spain",Spain,Community of Madrid,1
+2013ApJ...767L...3N,"CNRS, LAB, UMR 5804, F-33270 Floirac, France",44.8305549,-0.527552,"Floirac, France",France,Aquitaine,1
+2013ApJ...767L...3N,"Sterrenkundig Instituut Anton Pannekoek, University of Amsterdam, Science Park 904, NL-1098 Amsterdam, The Netherlands",52.3544534,4.9553595,"Science Park Amsterdam 904, University of Amsterdam, 1098 Amsterdam, The Netherlands",The Netherlands,North Holland,1
+2013ApJ...767L...3N,"LAB, Université de Bordeaux, UMR 5804, F-33270 Floirac, France ",44.8305549,-0.527552,"Floirac, France",France,Aquitaine,1
+2013ApJ...767L...3N,"Department of Physics and Astronomy, Johns Hopkins University, 3400 North Charles Street, Baltimore, MD 21218, USA",39.329901,-76.6205184,"Johns Hopkins University, Baltimore, MD 21218, USA",United States,Maryland,1
+2013ApJ...767L...3N,"Departamento de Astrofísica, Centro de Astrobiología, CSIC-INTA, Ctra. de Torrejón a Ajalvir km 4, E-28850 Madrid, Spain",40.4715678,-3.4498346,"28850 Torrejón de Ardoz, Madrid, Spain",Spain,Community of Madrid,2
+2013ApJ...767L...3N,"Instituut voor Sterrenkunde, Katholieke Universiteit Leuven, Celestijnenlaan 200D, 3001 Leuven, Belgium ",50.8639531,4.6796608,"Celestijnenlaan 200n, Katholieke Universiteit Leuven, 3001 Leuven, Belgium",Belgium,Flemish Region,1
+2013ApJ...767..162C,"Center for Astrophysics and Space Science, University of California San Diego, La Jolla, CA 92093, USA",32.8797081,-117.2350537,"Center for Astrophysics and Space Sciences, University of California - San Diego, University Center, 9500 Gilman Drive, San Diego, CA 92093, USA",United States,California,1
+2013ApJ...767..162C,"Astrophysics Research Centre, School of Mathematics and Physics, Queen's University Belfast, Belfast, BT7 1NN, UK",54.5844482,-5.9345016,"Queen's University Belfast, University Road, Belfast BT7 1NN, UK",United Kingdom,NULL,2
+2013ApJ...767..162C,"Gemini Observatory, 670 North Aohoku Place, Hilo, HI 96720, USA",19.7007038,-155.0895004,"670 North Aohoku Place, Hilo, HI 96720, USA",United States,Hawaii,1
+2013ApJ...767..162C,"Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD 21218, USA",39.3327249,-76.6232735,"3700 San Martin Drive, Johns Hopkins University, Baltimore, MD 21218, USA",United States,Maryland,2
+2013ApJ...767..162C,"Department of Physics and Astronomy, Johns Hopkins University, 3400 North Charles Street, Baltimore, MD 21218, USA",39.329901,-76.6205184,"Johns Hopkins University, Baltimore, MD 21218, USA",United States,Maryland,2
+2013ApJ...767..162C,"Institute for Astronomy, University of Hawaii, 2680 Woodlawn Drive, Honolulu, HI 96822, USA",21.3069823,-157.811671,"Institute For Astronomy, University of Hawaii at Manoa, 2680 Woodlawn Drive, Honolulu, HI 96822, USA",United States,Hawaii,8
+2013ApJ...767..162C,"Las Cumbres Observatory Global Telescope Network, Inc., Santa Barbara, CA 93117, USA ",34.4301656,-119.8696691,"Goleta, CA 93117, USA",United States,California,1
+2013ApJ...767..162C,"Department of Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA",42.3774149,-71.1171011,"Harvard University-Department Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767..162C,Clay Fellow.,37.122997,-93.173455,"Fellowship Bible Church, 4855 South Farm Road 205, Rogersville, MO 65742, USA",United States,Missouri,1
+2013ApJ...767..162C,"Harvard-Smithsonian Center for Astrophysics, 60 Garden St., Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,16
+2013ApJ...767..162C,"Department of Astrophysical Sciences, Princeton University, Princeton, NJ 08544, USA",40.3465603,-74.6516698,"Department of Astrophysical Sciences, Princeton University, 4 Ivy Lane, Princeton, NJ 08544, USA",United States,New Jersey,1
+2013ApJ...767..162C,"Department of Physics, University of California Santa Barbara, Santa Barbara, CA 93106-9530, USA",34.414052,-119.843298,"University of California: Physics, UC Santa Barbara, Broida Hall, Santa Barbara, CA 93106, USA",United States,California,1
+2013ApJ...767..162C,"Department of Astronomy & Astrophysics, University of California, Santa Cruz, CA 95060, USA",36.9913856,-122.0608718,"University of California Santa Cruz, 1156 High Street, Santa Cruz, CA 95064, USA",United States,California,1
+2013ApJ...767..162C,"Department of Physics and Astronomy, Michigan State University, East Lansing, MI 48824, USA ",42.7240223,-84.4760328,"Physics and Astronomy, Michigan State University, East Lansing, MI 48864, USA",United States,Michigan,1
+2013ApJ...767..155K,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767..155K,"National Radio Astronomy Observatory, 520 Edgemont Road, Charlottesville, VA 22903, USA",38.0293059,-78.4766781,"Charlottesville, VA, USA",United States,Virginia,4
+2013ApJ...767..155K,"Astronomy Department, Faculty of Science, King Abdulaziz University, P.O. Box 80203, Jeddah, Saudi Arabia",21.543489,39.172989,Jeddah Saudi Arabia,Saudi Arabia,Makkah Province,1
+2013ApJ...767..155K,"Max-Planck-Institut für Radioastronomie, Auf dem Hügel 69, D-53121 Bonn, Germany ",50.73009,7.06957,"Max Planck Institute for Radio Astronomy, Bonn University, Dept. of Southeast Asian Studies, Campus Endenich, Auf dem Hügel 69, 53121 Bonn, Germany",Germany,North Rhine-Westphalia,1
+2013ApJ...767..154R,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767..154R,"National Radio Astronomy Observatory, 520 Edgemont Road, Charlottesville, VA 22903, USA",38.0293059,-78.4766781,"Charlottesville, VA, USA",United States,Virginia,5
+2013ApJ...767..154R,"Astronomy Department, Facutly of Science, King Abdulaziz University, P.O. Box 80203, Jeddah, Saudi Arabia",21.543489,39.172989,Jeddah Saudi Arabia,Saudi Arabia,Makkah Province,1
+2013ApJ...767..154R,"Max-Planck-Institut für Radioastronomie, Auf dem Hügel 69, D-53121 Bonn, Germany ",50.73009,7.06957,"Max Planck Institute for Radio Astronomy, Bonn University, Dept. of Southeast Asian Studies, Campus Endenich, Auf dem Hügel 69, 53121 Bonn, Germany",Germany,North Rhine-Westphalia,1
+2013ApJ...767..153W,"Institute for Computational Cosmology, Department of Physics, Durham University, Durham DH1 3LE, UK",54.768139,-1.5718583,"Durham, County Durham DH1 3LE, UK",United Kingdom,NULL,1
+2013ApJ...767..153W,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013ApJ...767..153W,"Department of Astronomy, University of Michigan, 500 Church Street, Ann Arbor, MI 48109, USA ",42.2768063,-83.7353455,"Department of Astronomy, University of Michigan - Central Campus, 500 Church Street, Ann Arbor, MI 48109, USA",United States,Michigan,1
+2013ApJ...767..153W,"Kavli Institute for Particle Astrophysics and Cosmology, Stanford University, 452 Lomita Mall, Stanford, CA 94305-4085, USA",37.4261514,-122.1727816,"Lomita Mall, Stanford University, Stanford, CA 94305, USA",United States,California,5
+2013ApJ...767..153W,"ASTRON, Netherlands Institute for Radio Astronomy, P.O. Box 2, 7990 AA Dwingeloo, The Netherlands",52.8353557,6.3658171,"7991 Dwingeloo, The Netherlands",The Netherlands,Drenthe,2
+2013ApJ...767..153W,"Michigan Center for Theoretical Physics, 3444 Randall Lab, 450 Church Street, Ann Arbor, MI 48109, USA",42.2763223,-83.7346619,"450 Church Street, Ann Arbor, MI 48109, USA",United States,Michigan,1
+2013ApJ...767..153W,"Faculty of Mathematics and Physics, University of Ljubljana, Jadranska 19, 1000 Ljubljana, Slovenia",46.0564509,14.5080702,"Ljubljana, Slovenia",Slovenia,Ljubljana,1
+2013ApJ...767..153W,"Institute of Astronomy, Madingley Road, Cambridge CB3 0HA, UK",52.2145316,0.0953282,"Cambridge, Cambridgeshire CB3 0HA, UK",United Kingdom,NULL,1
+2013ApJ...767..153W,"SLAC National Accelerator Laboratory, 2575 Sand Hill Road, Menlo Park, CA 94025, USA",37.4185193,-122.2055072,"SLAC National Accelerator Laboratory, 2575 Sand Hill Road, Menlo Park, CA 94025, USA",United States,California,1
+2013ApJ...767..153W,"Department of Astronomy and the Maryland Astronomy Center for Theory and Computation, University of Maryland, College Park, MD 20742, USA",38.9466863,-76.9282662,"University of Maryland, 3100 Chesapeake Road, College Park, MD 20742, USA",United States,Maryland,1
+2013ApJ...767..147G,"INAF-Osservatorio Astrofisico di Arcetri, Largo E. Fermi 5, I-50125 Firenze, Italy",43.7437096,11.2580472,"50125 Province of Florence, Italy",Italy,Tuscany,2
+2013ApJ...767..147G,"Department of Physics and Astronomy, Iowa State University, Ames, IA 50011, USA",42.0293102,-93.6473994,"Department of Physics and Astronomy, Iowa State University, Ames, IA 50011, USA",United States,Iowa,1
+2013ApJ...767..147G,"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767..147G,"Dipartimento di Matematica e Fisica, Università del Salento, CP 193, I-73100 Lecce, Italy",40.3515155,18.1750161,"Lecce Province of Lecce, Italy",Italy,Apulia,3
+2013ApJ...767..147G,"INAF-Istituto di Astrofisica e Planetologia Spaziali, via Fosso del Cavaliere 100, I-00133 Roma, Italy",41.8620235,12.6331035,"00133 Province of Rome, Italy",Italy,Lazio,1
+2013ApJ...767..132H,"University of Pennsylvania, 209 South 33rd Street, Philadelphia, PA 19104, USA",39.951894,-75.189939,"209 South 33rd Street, University of Pennsylvania, Philadelphia, PA 19104, USA",United States,Pennsylvania,1
+2013ApJ...767..132H,"Physics Department, Center for Education and Research in Cosmology and Astrophysics, Case Western Reserve University, Cleveland, OH 44106, USA",41.5029317,-81.6069338,"Case Western Reserve University Observatory, Cleveland, OH 44106, USA",United States,Ohio,2
+2013ApJ...767..132H,"Department of Physics and Astronomy, University of California, Los Angeles, CA 90095-1547, USA",34.0706495,-118.4415158,"Department of Physics and Astronomy, UCLA, 470 Portola Plaza, Los Angeles, CA 90095, USA",United States,California,1
+2013ApJ...767..132H,"Enrico Fermi Institute, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,2
+2013ApJ...767..132H,"Enrico Fermi Institute, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,4
+2013ApJ...767..132H,"Department of Physics and Astronomy, University of Missouri, 5110 Rockhill Road, Kansas City, MO 64110, USA",39.0336028,-94.5757631,"5110 Rockhill Road, University of Missouri-Kansas City, Kansas City, MO 64110, USA",United States,Missouri,1
+2013ApJ...767..132H,"Steward Observatory, University of Arizona, 933 North Cherry Avenue, Tucson, AZ 85721, USA",32.233175,-110.94894,"Steward Observatory Dome, The University of Arizona, 933 North Cherry Avenue, Tucson, AZ 85721, USA",United States,Arizona,3
+2013ApJ...767..132H,"Department of Astronomy, University of Michigan, 500 Church Street, Ann Arbor, MI, 48109, USA",42.2768063,-83.7353455,"Department of Astronomy, University of Michigan - Central Campus, 500 Church Street, Ann Arbor, MI 48109, USA",United States,Michigan,1
+2013ApJ...767..132H,"Department of Physics, McGill University, 3600 Rue University, Montreal, Quebec H3A 2T8, Canada",45.5069558,-73.5787276,"3600 University Street, Montreal, QC H3A, Canada",Canada,Quebec,6
+2013ApJ...767..132H,"Max-Planck-Institut für Radioastronomie, Auf dem Hügel 69 D-53121 Bonn, Germany",50.73009,7.06957,"Max Planck Institute for Radio Astronomy, Bonn University, Dept. of Southeast Asian Studies, Campus Endenich, Auf dem Hügel 69, 53121 Bonn, Germany",Germany,North Rhine-Westphalia,2
+2013ApJ...767..132H,"Department of Physics, University of California, Berkeley, CA 94720, USA",37.8725651,-122.2572875,"Department of Physics, University of California Berkeley, Berkeley, CA 94720, USA",United States,California,4
+2013ApJ...767..132H,"California Institute of Technology, 1200 E. California Blvd., Pasadena, CA 91125, USA",34.1379059,-118.1255126,"California Institute of Technology, 1200 East California Boulevard, Pasadena, CA 91125, USA",United States,California,5
+2013ApJ...767..132H,"Department of Physics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,2
+2013ApJ...767..132H,"National Radio Astronomy Observatory, 520 Edgemont Road, Charlottesville, VA 22903, USA",38.0293059,-78.4766781,"Charlottesville, VA, USA",United States,Virginia,2
+2013ApJ...767..132H,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,4
+2013ApJ...767..132H,"Department of Physics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,4
+2013ApJ...767..132H,"Department of Astronomy and Astrophysics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,2
+2013ApJ...767..132H,"European Southern Observatory, Karl-Schwarzschild Strasse, D-85748 Garching bei München, Germany",48.2602808,11.6709671,"European Southern Observatory, Karl-Schwarzschild-Straße 2, 85748 Garching, Germany",Germany,Bavaria,2
+2013ApJ...767..132H,"Department of Physics, University of Michigan, 450 Church Street, Ann Arbor, MI, 48109, USA",42.276699,-83.7365302,"Department of Physics, University of Michigan - Central Campus, 450 Church Street, Ann Arbor, MI 48109, USA",United States,Michigan,1
+2013ApJ...767..132H,"Institute of Astronomy, University of Cambridge, Madingley Road, Cambridge CB3 0HA, UK",52.212416,0.0947852,"Madingley Road, Cambridge, Cambridgeshire, UK",United Kingdom,NULL,2
+2013ApJ...767..132H,"University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,3
+2013ApJ...767..132H,"Department of Astrophysical and Planetary Sciences and Department of Physics, University of Colorado, Boulder, CO 80309, USA",40.0075811,-105.2659419,"University of Colorado Boulder, Boulder, CO 80309, USA",United States,Colorado,1
+2013ApJ...767..132H,"Kavli Institute for Cosmological Physics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,22
+2013ApJ...767..132H,"Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK",51.5224832,-0.1326412,"Gower Street, London Borough of Camden, London, UK",United Kingdom,NULL,1
+2013ApJ...767..132H,"Physics Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA",37.8719573,-122.2600603,"University of California, Berkeley, University of California Berkeley, 2440 Bancroft Way, Berkeley, CA 94704, USA",United States,California,1
+2013ApJ...767..132H,"Department of Astronomy, University of Florida, Gainesville, FL 32611, USA",29.6488872,-82.3457487,"Astronomy Department, University of Florida, Gainesville, FL 32611, USA",United States,Florida,1
+2013ApJ...767..132H,"Department of Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA",42.3774149,-71.1171011,"Harvard University-Department Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013ApJ...767..132H,"Observatories of the Carnegie Institution for Science, 813 Santa Barbara Street, Pasadena, CA 91101, USA",34.155601,-118.134254,"813 Santa Barbara Street, Pasadena, CA 91101, USA",United States,California,1
+2013ApJ...767..132H,"Argonne National Laboratory, 9700 S. Cass Avenue, Argonne, IL, USA 60439, USA",41.725775,-87.9626667,"Argonne Ridge Road, Illinois and Michigan Canal, Willowbrook, IL 60527, USA",United States,Illinois,2
+2013ApJ...767..132H,"Department of Physics, Yale University, P.O. Box 208210, New Haven, CT 06520-8120, USA",41.3126451,-72.9251244,"Applied Physics Department, Yale University, New Haven, CT 06511, USA",United States,Connecticut,1
+2013ApJ...767..132H,"Department of Physics, University of California, One Shields Avenue, Davis, CA 95616, USA",38.5449065,-121.7405167,"Davis, CA, USA",United States,California,1
+2013ApJ...767..132H,"Space Telescope Science Institute, 3700 San Martin Dr., Baltimore, MD 21218, USA",39.3327249,-76.6232735,"3700 San Martin Drive, Johns Hopkins University, Baltimore, MD 21218, USA",United States,Maryland,1
+2013ApJ...767..132H,"Liberal Arts Department, School of the Art Institute of Chicago, 112 S Michigan Ave, Chicago, IL 60603, USA",41.8795848,-87.6237123,"The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, IL 60603, USA",United States,Illinois,1
+2013ApJ...767..132H,"Department of Astronomy and Astrophysics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,11
+2013ApJ...767..132H,"Department of Physics and Atmospheric Science, Dalhousie University, Halifax, NS B3H 3J5 Canada ",44.6373724,-63.5885259,"Halifax, NS B3H 3J5, Canada",Canada,Nova Scotia,1
+2013ApJ...767..125C,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,3
+2013ApJ...767..112I,"Department of Physics and Astronomy, University of Leicester, University Road, Leicester LE1 7RH, UK",52.6242499,-1.1240441,"University Road, Leicester LE1 7RA, UK",United Kingdom,NULL,1
+2013ApJ...767..112I,"The Kavli Institute for Astronomy and Astrophysics, Peking University, Yi He Yuan Lu 5, Hai Dian Qu, 100871 Beijing, China",39.9977997,116.3043242,"5 Yiheyuan Road, Haidian, Beijing, China, 100871",China,Beijing,1
+2013ApJ...767..112I,"NASA Herschel Science Center, California Institute of Technology, Mail Code 100-22, Pasadena, CA 91125, USA",34.1378866,-118.1247032,"Pasadena, CA 91125, USA",United States,California,1
+2013ApJ...767..112I,"Center for Astrophysics and Space Astronomy, University of Colorado, Boulder, CO 80309-0389, USA",40.0079468,-105.246346,"Center for Astrophysics and Space Astronomy, University of Colorado Boulder, Research Park, Boulder, CO 80303, USA",United States,Colorado,1
+2013ApJ...767..112I,"Department of Astrophysics, California Institute of Technology, MC 249-17, Pasadena, CA 91125, USA ",34.1378866,-118.1247032,"Pasadena, CA 91125, USA",United States,California,1
+2013ApJ...767..112I,"Department of Astrophysics, California Institute of Technology, MC 249-17, Pasadena, CA 91125, USA",34.1378866,-118.1247032,"Pasadena, CA 91125, USA",United States,California,1
+2013ApJ...767..112I,"Stony Brook University, Stony Brook, NY 11794-3800, USA",40.9183006,-73.1175003,"Stony Brook, NY 11794, USA",United States,New York,1
+2013ApJ...767..112I,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, MS-78, Cambridge, MA 02138, USA ",42.3803274,-71.1389101,"Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767..112I,"School of Physics and Astronomy, University of St. Andrews, St. Andrews KY16 9SS, UK",56.3401503,-2.8074837,"Saint Andrews, Fife KY16 9SS, UK",United Kingdom,NULL,1
+2013ApJ...767..112I,"Department of Astronomy, University of Michigan, 830 Dennison Building, 500 Church Street, Ann Arbor, MI 48109, USA",42.2762327,-83.7346598,"500 Church Street, University of Michigan - Central Campus, Ann Arbor, MI 48109, USA",United States,Michigan,3
+2013ApJ...767..112I,"Department of Astronomy, Smith College, Northampton, MA 01063, USA",42.319778,-72.640571,"Smith College, 7 College lane, Northampton, MA 01063, USA",United States,Massachusetts,1
+2013ApJ...767...90K,"Korea Astronomy and Space Science Institute, Daejeon 305-348, Republic of Korea",36.3981875,127.3747104,"Hwaam-dong, Yuseong-gu, Daejeon, South Korea",South Korea,NULL,2
+2013ApJ...767...90K,"Smithsonian Astrophysical Observatory, 60 Garden Street, Cambridge, MA 02138, USA",42.3814224,-71.1284335,"Smithsonian Astrophysical Observatory, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767...88W,"University of Pennsylvania, 209 South 33rd Street, Philadelphia, PA 19104, USA",39.951894,-75.189939,"209 South 33rd Street, University of Pennsylvania, Philadelphia, PA 19104, USA",United States,Pennsylvania,2
+2013ApJ...767...88W,"Physics Department, Center for Education and Research in Cosmology and Astrophysics, Case Western Reserve University, Cleveland, OH 44106, USA",41.5029317,-81.6069338,"Case Western Reserve University Observatory, Cleveland, OH 44106, USA",United States,Ohio,2
+2013ApJ...767...88W,"Argonne National Laboratory, 9700 S. Cass Avenue, Argonne, IL 60439, USA",41.725775,-87.9626667,"Argonne Ridge Road, Illinois and Michigan Canal, Willowbrook, IL 60527, USA",United States,Illinois,2
+2013ApJ...767...88W,"Department of Physics and Astronomy, University of California, Los Angeles, CA 90095-1547, USA",34.0706495,-118.4415158,"Department of Physics and Astronomy, UCLA, 470 Portola Plaza, Los Angeles, CA 90095, USA",United States,California,1
+2013ApJ...767...88W,"Enrico Fermi Institute, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,2
+2013ApJ...767...88W,"Enrico Fermi Institute, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,4
+2013ApJ...767...88W,"Department of Physics and Astronomy, University of Missouri, 5110 Rockhill Road, Kansas City, MO 64110, USA",39.0336028,-94.5757631,"5110 Rockhill Road, University of Missouri-Kansas City, Kansas City, MO 64110, USA",United States,Missouri,1
+2013ApJ...767...88W,"Laboratoire AIM-Paris-Saclay, CEA/DSM/Irfu - CNRS - Université Paris Diderot, CEA-Saclay, Orme des Merisiers, F-91191 Gif-sur-Yvette, France",48.701844,2.134078,"Gif-sur-Yvette, France",France,Île-de-France,1
+2013ApJ...767...88W,"Steward Observatory, University of Arizona, 933 North Cherry Avenue, Tucson, AZ 85721, USA",32.233175,-110.94894,"Steward Observatory Dome, The University of Arizona, 933 North Cherry Avenue, Tucson, AZ 85721, USA",United States,Arizona,3
+2013ApJ...767...88W,"Department of Physics, McGill University, 3600 Rue University, Montreal, Quebec H3A 2T8, Canada",45.5069558,-73.5787276,"3600 University Street, Montreal, QC H3A, Canada",Canada,Quebec,5
+2013ApJ...767...88W,"Observatories of the Carnegie Institution for Science, 813 Santa Barbara Street, Pasadena, CA 91101, USA",34.155601,-118.134254,"813 Santa Barbara Street, Pasadena, CA 91101, USA",United States,California,1
+2013ApJ...767...88W,"Department of Physics, University of California, One Shields Avenue, Davis, CA 95616, USA",38.5449065,-121.7405167,"Davis, CA, USA",United States,California,1
+2013ApJ...767...88W,"Department of Physics, University of California, Berkeley, CA 94720, USA",37.8725651,-122.2572875,"Department of Physics, University of California Berkeley, Berkeley, CA 94720, USA",United States,California,4
+2013ApJ...767...88W,"California Institute of Technology, 1200 E. California Blvd., Pasadena, CA 91125, USA",34.1379059,-118.1255126,"California Institute of Technology, 1200 East California Boulevard, Pasadena, CA 91125, USA",United States,California,7
+2013ApJ...767...88W,"Department of Physics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,2
+2013ApJ...767...88W,"Physics Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA",37.8719573,-122.2600603,"University of California, Berkeley, University of California Berkeley, 2440 Bancroft Way, Berkeley, CA 94704, USA",United States,California,1
+2013ApJ...767...88W,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,4
+2013ApJ...767...88W,"Department of Physics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,3
+2013ApJ...767...88W,"Department of Astronomy and Astrophysics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,1
+2013ApJ...767...88W,"Department of Physics, University of Michigan, 450 Church Street, Ann Arbor, MI, 48109, USA",42.276699,-83.7365302,"Department of Physics, University of Michigan - Central Campus, 450 Church Street, Ann Arbor, MI 48109, USA",United States,Michigan,1
+2013ApJ...767...88W,"Institute of Astronomy, University of Cambridge, Madingley Road, Cambridge CB3 0HA, UK",52.212416,0.0947852,"Madingley Road, Cambridge, Cambridgeshire, UK",United Kingdom,NULL,2
+2013ApJ...767...88W,"University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,3
+2013ApJ...767...88W,"Department of Astrophysical and Planetary Sciences and Department of Physics, University of Colorado, Boulder, CO 80309, USA",40.0075811,-105.2659419,"University of Colorado Boulder, Boulder, CO 80309, USA",United States,Colorado,1
+2013ApJ...767...88W,"Kavli Institute for Cosmological Physics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA ",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,19
+2013ApJ...767...88W,"Department of Physics and Astronomy, University College London, Gower Street, London WC1E 6BT, UK",51.5224832,-0.1326412,"Gower Street, London Borough of Camden, London, UK",United Kingdom,NULL,1
+2013ApJ...767...88W,"Max-Planck-Institut für Radioastronomie, Auf dem Hügel 69, D-53121 Bonn, Germany",50.73009,7.06957,"Max Planck Institute for Radio Astronomy, Bonn University, Dept. of Southeast Asian Studies, Campus Endenich, Auf dem Hügel 69, 53121 Bonn, Germany",Germany,North Rhine-Westphalia,2
+2013ApJ...767...88W,"Department of Astronomy, University of Florida, Gainesville, FL 32611, USA",29.6488872,-82.3457487,"Astronomy Department, University of Florida, Gainesville, FL 32611, USA",United States,Florida,1
+2013ApJ...767...88W,"European Southern Observatory, Karl-Schwarzschild Straße, D-85748 Garching bei München, Germany",48.2602808,11.6709671,"European Southern Observatory, Karl-Schwarzschild-Straße 2, 85748 Garching, Germany",Germany,Bavaria,3
+2013ApJ...767...88W,"Department of Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA",42.3774149,-71.1171011,"Harvard University-Department Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013ApJ...767...88W,"Jet Propulsion Laboratory, 4800 Oak Grove Drive, Pasadena, CA 91109, USA",34.2000898,-118.1760263,"JET Propulsion Laboratory, 4800 Oak Grove Drive, Pasadena, CA 91109, USA",United States,California,2
+2013ApJ...767...88W,"Space Telescope Science Institute, 3700 San Martin Dr., Baltimore, MD 21218, USA",39.3327249,-76.6232735,"3700 San Martin Drive, Johns Hopkins University, Baltimore, MD 21218, USA",United States,Maryland,1
+2013ApJ...767...88W,"Liberal Arts Department, School of the Art Institute of Chicago, 112 S Michigan Ave, Chicago, IL 60603, USA",41.8795848,-87.6237123,"The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, IL 60603, USA",United States,Illinois,1
+2013ApJ...767...88W,"Department of Astronomy and Astrophysics, University of Chicago, 5640 South Ellis Avenue, Chicago, IL 60637, USA",41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,10
+2013ApJ...767...88W,"Department of Physics and Atmospheric Science, Dalhousie University, Halifax, NS B3H 3J5 Canada ",44.6373724,-63.5885259,"Halifax, NS B3H 3J5, Canada",Canada,Nova Scotia,1
+2013ApJ...767...57F,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,5
+2013ApJ...767...57F,"Department of Astronomy, University of California, Berkeley, CA 94720-3411, USA",37.8694699,-122.2581552,"Department of Astronomy, University of California Berkeley, Berkeley, CA 94720, USA",United States,California,4
+2013ApJ...767...57F,"Department of Physics and Astronomy, Rutgers, the State University of New Jersey, 136 Frelinghuysen Road, Piscataway, NJ 08854, USA",40.5223834,-74.4634759,"136 Frelinghuysen Road, Rutgers University - New Brunswick, Piscataway Township, NJ 08854, USA",United States,New Jersey,2
+2013ApJ...767...57F,"Department of Physics and Astronomy, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA",35.9091261,-79.0472628,"University of North Carolina at Chapel Hill, 220 East Cameron Avenue, Chapel Hill, NC 27514, USA",United States,North Carolina,1
+2013ApJ...767...57F,"Departamento de Ciencias Fisicas, Universidad Andres Bello, Avda. Republica 252, Santiago, Chile",-33.4552646,-70.6674996,"República, Santiago, Santiago Metropolitan Region, Chile",Chile,Santiago Metropolitan Region,1
+2013ApJ...767...57F,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA ",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767...57F,"Departamento de Astronomía, Universidad de Chile, Casilla 36-D, Santiago, Chile",-33.4691199,-70.641997,"Santiago, Santiago Metropolitan Region, Chile",Chile,Santiago Metropolitan Region,2
+2013ApJ...767...57F,"Department of Astronomy, University of Texas, Austin, TX 78712-0259, USA",30.2835151,-97.7348805,"Austin, TX 78712, USA",United States,Texas,1
+2013ApJ...767...57F,"Department of Physics and Astronomy, Aarhus University, Ny Munkegade, DK-8000 Aarhus C, Denmark",56.1636091,10.201665,"Ny Munkegade, 8000 Aarhus, Denmark",Denmark,Central Denmark Region,1
+2013ApJ...767...57F,Clay Fellow.,37.122997,-93.173455,"Fellowship Bible Church, 4855 South Farm Road 205, Rogersville, MO 65742, USA",United States,Missouri,1
+2013ApJ...767...57F,"Observatories of the Carnegie Institution of Washington, 813 Santa Barbara St., Pasadena, CA 91101, USA",34.155601,-118.134254,"813 Santa Barbara Street, Pasadena, CA 91101, USA",United States,California,2
+2013ApJ...767...57F,"Carnegie Observatories, Las Campanas Observatory, La Serena, Chile",-29.906301,-71.250204,"La Serena, Coquimbo Region, Chile",Chile,Coquimbo Region,2
+2013ApJ...767...32A,"Department of Physics, and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, Cambridge, MA 02139, USA",42.3588667,-71.0938246,"Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA 02139, USA",United States,Massachusetts,2
+2013ApJ...767...32A,"Embassy of the Republic of Indonesia, Lehrter Str. 16-17, D-10557 Berlin, Germany",52.52998,13.36409,"Lehrter Straße 16, 10557 Berlin, Germany",Germany,Berlin,1
+2013ApJ...767...32A,"Department of Astronomy and Astrophysics, University of California, Santa Cruz, Santa Cruz, CA 95064, USA",36.9913856,-122.0608718,"University of California Santa Cruz, 1156 High Street, Santa Cruz, CA 95064, USA",United States,California,1
+2013ApJ...767...32A,"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767...32A,"Max-Planck-Institut für Astronomie, Königstuhl 17, D-69117 Heidelberg, Germany ",49.3928952,8.7202574,"69117 Heidelberg, Germany",Germany,Baden-Wurttemberg,1
+2013ApJ...767...31B,"Osservatorio Astrofisico di Arcetri, Largo Enrico Fermi 5, I-50125 Firenze, Italy",43.7505556,11.2544444,"Biblioteca dell'Osservatorio Astrofisico di Arcetri, Largo Enrico Fermi, 5, 50125 Florence, Italy",Italy,Tuscany,3
+2013ApJ...767...31B,"Large Binocular Telescope Observatory, University of Arizona, 933 N. Cherry Ave., Tucson, AZ 85721, USA",32.2331503,-110.9487605,"933 North Cherry Avenue, The University of Arizona, Tucson, AZ 85721, USA",United States,Arizona,1
+2013ApJ...767...31B,"School of Physics and Astronomy, University of Minnesota, 116 Church St. SE, Minneapolis, MN 55455, USA",44.975288,-93.234454,"116 Church Street Southeast, University of Minnesota, Mississippi National River and Recreation Area, Minneapolis, MN 55455, USA",United States,Minnesota,1
+2013ApJ...767...31B,"College of Optical Sciences, University of Arizona, 1630 E. University Blvd., Tucson, AZ 85721, USA",32.2314654,-110.9472134,"1630 East University Boulevard, The University of Arizona, Tucson, AZ 85719, USA",United States,Arizona,1
+2013ApJ...767...31B,"Department of Astronomy, University of Virginia, Charlottesville, VA 22904, USA",38.0356399,-78.5151042,"Department of Astronomy, University of Virginia, 530 McCormick Road, Charlottesville, VA 22904, USA",United States,Virginia,2
+2013ApJ...767...31B,"Department of Astronomy and Astrophysics, University of Toronto, 50 St. George Street, Toronto, ON M5S 3H4, Canada",43.6607391,-79.3972921,"Department of Astronomy and Astrophysics, University of Toronto - St. George Campus, 50 Saint George Street, Toronto, ON M5S 3H4, Canada",Canada,Ontario,1
+2013ApJ...767...31B,"Harvard-Smithsonian Center for Astrophysics, Harvard University, 60 Garden St., Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013ApJ...767...31B,"Institut für Angewandte Physik, Eidgenössische Technische Hochschule-Zürich, CH-8093, Switzerland",47.3686498,8.5391825,"Zurich, Switzerland",Switzerland,Canton of Zurich,2
+2013ApJ...767...31B,"Steward Observatory, University of Arizona, 933 N. Cherry Ave., Tucson, AZ 85721, USA",32.233175,-110.94894,"Steward Observatory Dome, The University of Arizona, 933 North Cherry Avenue, Tucson, AZ 85721, USA",United States,Arizona,8
+2013ApJ...767...24S,"Current address: Department of Physics & Astronomy, University of North Carolina, Chapel Hill, NC 27599, USA.",35.905249,-79.0581498,"Chapel Hill, NC 27599, USA",United States,North Carolina,1
+2013ApJ...767...24S,"National Radio Astronomy Observatory, Charlottesville, VA 22903, USA",38.0369251,-78.5179117,"Stone Hall, University of Virginia, Charlottesville, VA 22903, USA",United States,Virginia,1
+2013ApJ...767...24S,"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767...24S,"Department of Physics & Astronomy, University of Kentucky, Lexington, KY 40506, USA",38.02,-84.5,"Lexington, KY 40506, USA",United States,Kentucky,1
+2013ApJ...767...24S,"Physics Department, DePaul University, 2219 N. Kenmore Ave., Byrne Hall 211, Chicago, IL 60614, USA",41.9203468,-87.6433139,"Chicago, IL 60614, USA",United States,Illinois,2
+2013ApJ...767...20L,"Yukawa Institute for Theoretical Physics, Kyoto University, Oiwake-cho Kitashirakawa, Sakyo-ku, Kyoto 606-8502, Japan",35.03075,135.7858333,"Yukawa Institute for Theoretical Physics, Kitashirakawa Oiwakecho, Sakyo Ward, Kyoto, Kyoto Prefecture 606-8317, Japan",Japan,Kyoto Prefecture,2
+2013ApJ...767...20L,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013ApJ...767...20L,"Physics Department, North Carolina State University, Box 8202, Raleigh, NC 27695, USA",35.81,-78.72,"Raleigh, NC 27695, USA",United States,North Carolina,1
+2013ApJ...767...15R,"Department of Physics & Astronomy, Western Washington University, Bellingham, WA 98225, USA ",48.7387998,-122.484692,"Western Washington University, 516 High Street, Bellingham, WA 98225, USA",United States,Washington,1
+2013ApJ...767...15R,"Smithsonian Astrophysical Observatory, 60 Garden Street, MS 20, Cambridge, MA 02138, USA",42.3803274,-71.1389101,"Cambridge, MA 02138, USA",United States,Massachusetts,3
+2013ApJ...767...15R,"Dipartimento di Fisica, Università di Torino, Torino, Italy ",45.0678799,7.6856432,"Università degli Studi di Torino - Dipartimento di Matematica ""giuseppe Peano"", Via Carlo Alberto, 10, 10123 Turin, Italy",Italy,Piedmont,1
+2013ApJ...767...10F,"National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan ",35.67533,139.5364976,"２丁目-２１ Osawa, Mitaka, Tokyo 181-8588, Japan",Japan,Tokyo,1
+2013ApJ...767...10F,"Universitats-Sternwarte Munchen, Ludwig-Maximilians-Universitat, Scheinerstr. 1, D-81679 Munchen, Germany",48.14602,11.60674,"Scheinerstraße 1, 81679 Munich, Germany",Germany,Bavaria,1
+2013ApJ...767...10F,"H.L. Dodge Department of Physics and Astronomy, University of Oklahoma, 440 W Brooks St Norman, OK 73019, USA",35.2074515,-97.4348055,"440 East Brooks Street, Norman, OK 73071, USA",United States,Oklahoma,1
+2013ApJ...767...10F,"Max Planck Institute for Astronomy, Königstuhl 17, D-69117 Heidelberg, Germany",49.3928952,8.7202574,"69117 Heidelberg, Germany",Germany,Baden-Wurttemberg,3
+2013ApJ...767...10F,"Department of Astrophysical Sciences, Princeton University, NJ 08544, USA",40.3465603,-74.6516698,"Department of Astrophysical Sciences, Princeton University, 4 Ivy Lane, Princeton, NJ 08544, USA",United States,New Jersey,5
+2013ApJ...767...10F,"Astronomical Institute ""Anton Pannekoek,"" University of Amsterdam, Science Park 904, 1098 XH Amsterdam, The Netherlands",52.3544534,4.9553595,"Science Park Amsterdam 904, University of Amsterdam, 1098 Amsterdam, The Netherlands",The Netherlands,North Holland,1
+2013ApJ...767...10F,"Department of Cosmosciences, Hokkaido University, Sapporo 060-0810, Japan",43.0721697,141.3418792,"Kita 10 Jonishi, Kita Ward, Sapporo, Hokkaido Prefecture 060-0810, Japan",Japan,Hokkaido Prefecture,1
+2013ApJ...767...10F,"ExoPlanets and Stellar Astrophysics Laboratory, Code 667, Goddard Space Flight Center, Greenbelt, MD 20771, USA",38.9911983,-76.8525724,"Goddard Space Flight Center, 8800 Greenbelt Road, Greenbelt, MD 20771, USA",United States,Maryland,1
+2013ApJ...767...10F,"National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan",35.67533,139.5364976,"２丁目-２１ Osawa, Mitaka, Tokyo 181-8588, Japan",Japan,Tokyo,8
+2013ApJ...767...10F,"Astronomy Department, University of Wisconsin-Madison, 475 N. Charter Street, Madison, WI 53706, USA",43.0744562,-89.4049805,"Department of Astronomy, University of Wisconsin-Madison, 475 North Charter Street, Madison, WI 53706, USA",United States,Wisconsin,1
+2013ApJ...767...10F,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...767...10F,"Department of Astronomy, The University of Tokyo, Hongo 7-3-1, Bunkyo-ku, Tokyo 113-0033, Japan",35.7055238,139.7596611,"Hongo, Bunkyo, Tokyo 113-0033, Japan",Japan,Tokyo,1
+2013ApJ...767...10F,"Subaru Telescope, 650 North Aohoku Place, Hilo, HI 96720, USA",19.8255058,-155.4759836,"Subaru Telescope, 650 North Aohoku Place, Hilo, HI 96720, USA",United States,Hawaii,13
+2013ApJ...767...10F,"Department of Astronomy, Kyoto University, Kitashirakawa-Oiwake-cho, Sakyo-ku, Kyoto, 606-8502, Japan",35.030518,135.7836835,"Sakyo Ward, Kyoto, Kyoto Prefecture 606-8502, Japan",Japan,Kyoto Prefecture,1
+2013ApJ...767...10F,"The Center for the Promotion of Integrated Sciences, The Graduate University for Advanced Studies (Sokendai",35.26112,139.608454,"Graduate University for Advanced Studies, １５６０-３５ Kamiyamaguchi, Hayama, Miura District, Kanagawa Prefecture 240-0115, Japan",Japan,Kanagawa Prefecture,1
+2013ApJ...767...10F,"Department of Physics and Astronomy, College of Charleston, 58 Coming St., Charleston, SC 29424, USA",32.7830575,-79.9365839,"Charleston, SC 29424, USA",United States,South Carolina,1
+2013ApJ...767...10F,"Department of Astronomy and Astrophysics, University of Toronto, 50 St. George Street M5S 3H4, Toronto Ontario, Canada",43.6607391,-79.3972921,"Department of Astronomy and Astrophysics, University of Toronto - St. George Campus, 50 Saint George Street, Toronto, ON M5S 3H4, Canada",Canada,Ontario,1
+2013ApJ...767...10F,"TMT Observatory Corporation, 1111 South Arroyo Parkway, Pasadena, CA 91105, USA",34.1279964,-118.147567,"1111 South Arroyo Parkway, Pasadena, CA 91105, USA",United States,California,1
+2013ApJ...767...10F,"Department of Astronomical Science, Graduate University for Advanced Studies (Sokendai",35.26112,139.608454,"Graduate University for Advanced Studies, １５６０-３５ Kamiyamaguchi, Hayama, Miura District, Kanagawa Prefecture 240-0115, Japan",Japan,Kanagawa Prefecture,2
+2013ApJ...767...10F,"Institute for Astronomy, University of Hawaii, 640 North A'ohoku Place, Hilo, HI 96720, USA",19.7297222,-155.09,"Hilo, HI, USA",United States,Hawaii,1
+2013ApJ...767...10F,"Eureka Scientific, 2452 Delmer, Suite 100, Oakland, CA 96002, USA",40.5229147,-122.3221947,"Redding, CA 96002, USA",United States,California,1
+2013ApJ...767...10F,"Laboratoire Lagrange, UMR7293, Université de Nice-Sophia Antipolis, CNRS, Observatoire de la Côte d'Azur, F-06300 Nice, France",43.706449,7.2922646,"06300 Nice, France",France,Provence-Alpes-Côte d'Azur,1
+2013ApJ...767...10F,"Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, USA",34.1561783,-118.1528623,"Pasadena, CA 91109, USA",United States,California,1
+2013ApJ...767...10F,"Steward Observatory, The University of Arizona, 933 N Cherry Ave, Tucson, AZ 85721, USA",32.233175,-110.94894,"Steward Observatory Dome, The University of Arizona, 933 North Cherry Avenue, Tucson, AZ 85721, USA",United States,Arizona,2
+2013ApJ...767...10F,"Office of the President, Hiroshima University, 1-3-2 Kagamiyama, Higashi-Hiroshima, 739-8511, Japan",34.4030129,132.7148958,"１丁目-３ Kagamiyama, Higashihiroshima, Hiroshima Prefecture 739-8511, Japan",Japan,Hiroshima Prefecture,1
+2013ApJ...767...10F,"Institute of Astronomy and Astrophysics, Academia Sinica, P.O. Box 23-141, Taipei 106, Taiwan",25.0261583,121.5427093,"Daan District, Taipei City, Taiwan 106",Taiwan,NULL,1
+2013ApJ...767...10F,"Astronomical Institute, Tohoku University, Aoba, Sendai 980-8578, Japan",38.2553603,140.8444279,"Aoba Aramaki, Aoba Ward, Sendai, Miyagi Prefecture 980-8578, Japan",Japan,Miyagi Prefecture,1
+2013ApJ...766..126H,"Kwasan and Hida Observatories, Kyoto University, Kyoto, Japan",35.0262444,135.7808218,"Kyoto University, Yoshidahonmachi, Sakyo Ward, Kyoto, Kyoto Prefecture 606-8501, Japan",Japan,Kyoto Prefecture,1
+2013ApJ...766..126H,"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...766..115K,"Radio and Geoastronomy Division, Harvard Smithsonian Center for Astrophysics, MS-42, Cambridge, MA, 02138, USA",42.3803274,-71.1389101,"Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013ApJ...766..115K,"Radio and Geoastronomy Division, Harvard Smithsonian Center for Astrophysics, MS-42, Cambridge, MA, 02138, USA ",42.3803274,-71.1389101,"Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...766..115K,"Department of Astronomy, University of Massachusetts Amherst, Amherst, MA 01003, USA",42.3944041,-72.5270718,"Department of Astronomy, University of Massachusetts Amherst, Amherst, MA 01002, USA",United States,Massachusetts,2
+2013ApJ...766..115K,"Army Research Labs, Adelphi, MD 20783, USA",39.0278634,-76.9627463,"US Army Research Laboratory, 2800 Powder Mill Road, Adelphi, MD 20783, USA",United States,Maryland,1
+2013ApJ...766..115K,"Currently a Banting Fellow at the Origins Institute, McMaster University, Canada.",43.2612999,-79.9202568,"McMaster University, 1280 Main Street West, Hamilton, ON L8S 4L8, Canada",Canada,Ontario,1
+2013ApJ...766..107A,"Max Planck Institute for Astrophysics, Karl-Schwarzschild str. 1, Garching D-85741, Germany",48.2610466,11.6713943,"Max Planck Institute for Astrophysics, Karl-Schwarzschild-Straße 1, 85748 Garching, Germany",Germany,Bavaria,1
+2013ApJ...766..107A,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,5
+2013ApJ...766..107A,"Departamento de Astronomia - IAG, Universidade de São Paulo, São Paulo - SP, Brazil",-23.5589308,-46.7406577,"University of São Paulo - Cidade Universitária Armando Salles de Oliveira, Av. Prof. Almeida Prado, nº1280 - Butantã, São Paulo, 05508-070, Brazil",Brazil,São Paulo,1
+2013ApJ...766..107A,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA ",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...766..101C,"Niels Bohr Institute, Copenhagen University, DK-2100 Copenhagen, Denmark ",55.6966812,12.5713697,"Niels Bohr Institute, University of Copenhagen, Blegdamsvej 17, 2100 Copenhagen, Denmark",Denmark,Capital Region of Denmark,1
+2013ApJ...766..101C,"Department and Astronomy, Yale University, New Haven, CT 06520, USA",41.3171752,-72.9218023,"Astronomy Department, Yale University, 260 Whitney Avenue, New Haven, CT 06511, USA",United States,Connecticut,2
+2013ApJ...766..101C,"School of Physics and Astronomy, University of Birmingham, Edgbaston, Birmingham B15 2TT, UK",52.4498552,-1.9287282,"School of Physics and Astronomy, University of Birmingham, Birmingham, West Midlands B15 2TT, UK",United Kingdom,England,6
+2013ApJ...766..101C,"Center for Exoplanets and Habitable Worlds, The Pennsylvania State University, University Park, PA 16802, USA",40.7982133,-77.8599084,"The Pennsylvania State University, 201 Old Main, University Park, PA 16802, USA",United States,Pennsylvania,1
+2013ApJ...766..101C,"Department of Astronomy, University of California, Berkeley, CA 94720, USA",37.8694699,-122.2581552,"Department of Astronomy, University of California Berkeley, Berkeley, CA 94720, USA",United States,California,2
+2013ApJ...766..101C,"McDonald Observatory, The University of Texas, Austin, TX 78712, USA",30.2835151,-97.7348805,"Austin, TX 78712, USA",United States,Texas,1
+2013ApJ...766..101C,"Department of Physics and Astronomy, Iowa State University, Ames, IA 50011, USA",42.0293102,-93.6473994,"Department of Physics and Astronomy, Iowa State University, Ames, IA 50011, USA",United States,Iowa,1
+2013ApJ...766..101C,"NASA Ames Research Center, MS 244-30, Moffett Field, CA 94035, USA",37.4090804,-122.051936,"Moffett Federal Airfield - NUQ, 158 Cody Road, Mountain View, CA 94035, USA",United States,California,3
+2013ApJ...766..101C,"Department of Physics, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA 02139, USA",42.3597818,-71.0935816,"MIT Department of Physics, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA 02139, USA",United States,Massachusetts,2
+2013ApJ...766..101C,"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013ApJ...766..101C,"Bay Area Environmental Research Institute, 596 First St West, Sonoma, CA 95476, USA",38.2904011,-122.4591276,"596 1st Street West, Sonoma, CA 95476, USA",United States,California,1
+2013ApJ...766..101C,"Astronomical Institute, ""Anton Pannekoek,"" University of Amsterdam, 1098-XH Amsterdam, The Netherlands",52.3564062,4.9507012,"Amsterdam Scientific Instruments, University of Amsterdam, Science Park Amsterdam 105, 1098 XG Amsterdam, The Netherlands",The Netherlands,North Holland,1
+2013ApJ...766..101C,"Centre for Star and Planet Formation, Natural History Museum of Denmark, University of Copenhagen, DK-1530 Copenhagen, Denmark",55.6760968,12.5683371,"Copenhagen, Denmark",Denmark,Capital Region of Denmark,1
+2013ApJ...766..101C,"Sydney Institute for Astronomy, School of Physics, University of Sydney, Sydney, Australia",-33.8899135,151.1905601,"The University of Sydney, City Road, Darlington NSW 2008, Australia",Australia,New South Wales,2
+2013ApJ...766..101C,"White Dwarf Research Corporation, Boulder, CO 80301, USA",40.0406506,-105.2077798,"Boulder, CO 80301, USA",United States,Colorado,1
+2013ApJ...766...88B,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,9
+2013ApJ...766...88B,"Max-Planck-Institut für Astrophysik, Karl-Schwarzschild-Str. 1, D-85741, Garching, Germany ",48.2610466,11.6713943,"Max Planck Institute for Astrophysics, Karl-Schwarzschild-Straße 1, 85748 Garching, Germany",Germany,Bavaria,1
+2013ApJ...766...88B,"Max-Planck-Institute for Astronomy, Königstuhl 17, D-69117 Heidelberg, Germany",49.3928952,8.7202574,"69117 Heidelberg, Germany",Germany,Baden-Wurttemberg,1
+2013ApJ...766...88B,"Department of Physics and Astronomy, Johns Hopkins University, 3400 N. Charles Street, Baltimore, MD 21218, USA",39.329901,-76.6205184,"Johns Hopkins University, Baltimore, MD 21218, USA",United States,Maryland,1
+2013ApJ...766...88B,"HH Wills Physics Laboratory, University of Bristol, Tyndall Avenue, Bristol BS8 1TL, UK",51.4579714,-2.6014743,"University of Bristol, Senate House, Tyndall Avenue, Bristol, City of Bristol BS8 1TH, UK",United Kingdom,NULL,2
+2013ApJ...766...88B,"Department of Astronomy, University of Virginia, P.O. Box 400325, Charlottesville, VA 22904-4325, USA",38.0356399,-78.5151042,"Department of Astronomy, University of Virginia, 530 McCormick Road, Charlottesville, VA 22904, USA",United States,Virginia,1
+2013ApJ...766...88B,"School of Physics, Astronomy, and Mathematics, University of Hertfordshire, Hatfield AL10 9AB, UK",51.7528075,-0.2421333,"University Of Hertfordshire, College Lane, Hatfield, Hertfordshire AL10 9AB, UK",United Kingdom,NULL,3
+2013ApJ...766...88B,"School of Physics and Astronomy, University of Southampton, Southampton SO17 1BJ, UK",50.9352965,-1.3993479,"School of Physics and Astronomy, University of Southampton Highfield Campus, Southampton SO17 1BJ, UK",United Kingdom,England,2
+2013ApJ...766...88B,"Departamento de Astronomía y Astrofísica, Pontificia Universidad Católica de Chile, Casilla 306, Santiago 22, Chile",-33.5778376,-70.6947654,"Chile 22, San Bernardo, Santiago Metropolitan Region, Chile",Chile,Santiago Metropolitan Region,1
+2013ApJ...766...88B,"Department of Physics and Astronomy, University of British Columbia, Vancouver BC V6T 1Z1, Canada ",49.2648405,-123.252605,"The University of British Columbia, 2329 West Mall, Vancouver, BC V6T 1Z4, Canada",Canada,British Columbia,1
+2013ApJ...766...88B,"Max-Planck-Institut für Astrophysik, Karl-Schwarzschild-Str. 1, D-85741, Garching, Germany",48.2610466,11.6713943,"Max Planck Institute for Astrophysics, Karl-Schwarzschild-Straße 1, 85748 Garching, Germany",Germany,Bavaria,1
+2013ApJ...766...88B,"Space Research Institute, Russian Academy of Sciences, Profsoyuznaya 84/32, 117997 Moscow, Russia",55.655163,37.533631,"Russian Space Research Institute, ulitsa Profsoyuznaya, 84/32, Moscow, Russia, 117997",Russia,Moscow,1
+2013ApJ...766...88B,"School of Physics and Astronomy, University of Birmingham, Edgbaston, Birmingham B15 2TT, UK ",52.4498552,-1.9287282,"School of Physics and Astronomy, University of Birmingham, Birmingham, West Midlands B15 2TT, UK",United Kingdom,England,2
+2013ApJ...766...88B,"Department of Astrophysics/IMAPP, Radboud, University Nijmegen, P.O. Box 9010, NL-6500 GL Nijmegen, The Netherlands",51.842867,5.854622,"Nijmegen, The Netherlands",The Netherlands,Gelderland,1
+2013ApJ...766...88B,"UC Santa Cruz, University of California Observatories, 1156 High Street, Santa Cruz, CA 95064, USA",36.9776244,-122.0543182,"1156 High Street, University of California Santa Cruz, Santa Cruz, CA 95064, USA",United States,California,1
+2013ApJ...766...88B,"Department of Physics, University of Alberta, Edmonton, Alberta T6G 2E1, Canada",53.5267778,-113.5263654,"Edmonton, AB T6G 2E1, Canada",Canada,Alberta,1
+2013ApJ...766...81F,"Department of Astrophysical Sciences, Princeton University, Princeton, NJ 08544, USA",40.3465603,-74.6516698,"Department of Astrophysical Sciences, Princeton University, 4 Ivy Lane, Princeton, NJ 08544, USA",United States,New Jersey,1
+2013ApJ...766...81F,"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,4
+2013ApJ...766...81F,"NASA Ames Research Center, Moffett Field, CA 94035, USA",37.4090804,-122.051936,"Moffett Federal Airfield - NUQ, 158 Cody Road, Mountain View, CA 94035, USA",United States,California,4
+2013AN....334..390B,"Department of Physics and Astronomy, University of Waterloo, Waterloo, ON N2L 2G1, Canada",43.4555558,-80.5237892,"Waterloo, ON N2L 2G1, Canada",Canada,Ontario,1
+2013AN....334..390B,"Perimeter Institute for Theoretical Physics, Waterloo, ON N2L 2Y5, Canada",43.465426,-80.528111,"Perimeter Institute for Theoretical Physics, 31 Caroline Street North, Waterloo, ON N2L 6B9, Canada",Canada,Ontario,1
+2013AN....334..390B,"Leiden Observatory, Leiden University, Oort Gebouw, P.O. Box 9513, 2300 RA Leiden, The Netherlands",52.158494,4.496199,"Leiden, The Netherlands",The Netherlands,South Holland,3
+2013AN....334..390B,"Harvard-Smithsonian Centre for Astrophysics, 60 Garden St., Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013AN....334..386N,"Perimeter Institute for Theoretical Physics, Waterloo, ON, Canada",43.465426,-80.528111,"Perimeter Institute for Theoretical Physics, 31 Caroline Street North, Waterloo, ON N2L 6B9, Canada",Canada,Ontario,1
+2013AN....334..386N,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013AN....334..386N,"Department of Physics and Astronomy, University of Waterloo, Waterloo, ON, Canada",43.4729885,-80.5452743,"University of Waterloo, University Avenue West, Waterloo, ON N2L 3G1, Canada",Canada,Ontario,1
+2013AJ....145..115H,"Astronomy Department & Radio Astronomy Laboratory, University of California, Berkeley, CA 94720-3411, USA",37.8717443,-122.2609626,"University of California Berkeley, 101 Sproul Hall, Berkeley, CA 94704, USA",United States,California,2
+2013AJ....145..115H,"Astronomy Department & Radio Astronomy Laboratory, University of California, Berkeley, CA 94720-3411, USA ",37.8717443,-122.2609626,"University of California Berkeley, 101 Sproul Hall, Berkeley, CA 94704, USA",United States,California,1
+2013AJ....145..115H,"Van Vleck Observatory, Astronomy Department, Wesleyan University, 96 Foss Hill Drive, Middletown, CT 06459, USA",41.5544121,-72.6594774,"Foss Hill Drive, Wesleyan University, Middletown, CT 06457, USA",United States,Connecticut,1
+2013AJ....145..115H,"Harvard-Smithsonian Center for Astrophysics, 60 Garden St., Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013AJ....145..113W,"Institute for Astronomy, University of Hawaii at Manoa, 640 North Aohoku Place, Hilo, HI 96720, USA",21.3069823,-157.811671,"Institute For Astronomy, University of Hawaii at Manoa, 2680 Woodlawn Drive, Honolulu, HI 96822, USA",United States,Hawaii,1
+2013AJ....145..113W,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013AJ....145...96P,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,4
+2013AJ....145...96P,"Southwest Research Institute, 6220 Culebra Road, San Antonio, TX 78238, USA",29.452191,-98.610191,"Southwest Research Institute, 6220 Culebra Road, San Antonio, TX 78238, USA",United States,Texas,4
+2013AJ....145...96P,"Lowell Observatory, 1400 W Mars Hill Road, Flagstaff, AZ 86001, USA",35.2030426,-111.6645534,"Lowell Observatory, 1400 West Mars Hill Road, Flagstaff, AZ 86001, USA",United States,Arizona,1
+2013AJ....145...96P,"Department of Astronomy, University of Florida, 1900 Museum Road, Gainesville, FL 32611, USA",29.6462115,-82.3476965,"Reitz Union Game Room, University of Florida, Museum Road G50, Gainesville, FL 32611, USA",United States,Florida,1
+2013AJ....145...96P,"Department of Terrestrial Magnetism, Carnegie Institute of Washington, 5251 Broad Branch Road NW, Washington, DC 20015, USA",38.965082,-77.068156,"Broad Branch Rd & MC Kinley St, Washington, DC 20015, USA",United States,District of Columbia,2
+2013AJ....145...96P,"Carnegie Observatories, Las Campanas Observatory, Casilla 601, La Serena, Chile",-29.906301,-71.250204,"La Serena, Coquimbo Region, Chile",Chile,Coquimbo Region,1
+2013AJ....145...96P,"The Center for Science, Technology, Engineering and Mathematics (STEM) Research, Education, and Outreach, Southern Illinois University, 1220 Lincoln Dr, Carbondale, IL 62901, USA",37.7138335,-89.2116506,"Southern Illinois University, 1220 Lincoln Drive, Carbondale, IL 62901, USA",United States,Illinois,1
+2013AJ....145...96P,"Canadian Astronomy Data Centre, National Research Council of Canada, 5071 W. Saanich Road, Victoria, BC V9E 2E7, Canada",48.5167241,-123.4208591,"Victoria, BC V9E 2E7, Canada",Canada,British Columbia,3
+2013AJ....145...96P,"Department of Physics & Astronomy, Northern Arizona University, S San Francisco St, Flagstaff, AZ 86011, USA",35.1893974,-111.6514545,"Northern Arizona University, 1415 South San Francisco Street, Flagstaff, AZ 86011, USA",United States,Arizona,2
+2013AJ....145...96P,"Institute for Astronomy, University of Hawaii, 2680 Woodlawn Dr, Honolulu, HI 96822, USA",21.3069823,-157.811671,"Institute For Astronomy, University of Hawaii at Manoa, 2680 Woodlawn Drive, Honolulu, HI 96822, USA",United States,Hawaii,1
+2013AJ....145...96P,"Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA 02139, USA",42.3588667,-71.0938246,"Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA 02139, USA",United States,Massachusetts,2
+2013ACPD...13.8901K,"NASA Goddard Space Flight Center, Greenbelt, MD, USA",38.9911983,-76.8525724,"Goddard Space Flight Center, 8800 Greenbelt Road, Greenbelt, MD 20771, USA",United States,Maryland,1
+2013ACPD...13.8901K,"Harvard University, Department of Earth and Planetary Sciences, Cambridge, MA, USA",42.3782397,-71.1154705,"Department of Earth and Planetary Sciences, Harvard University, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013ACPD...13.8901K,"Harvard University, School of Engineering and Applied Sciences, Cambridge, MA, USA",42.3736158,-71.1097335,"Cambridge, MA, USA",United States,Massachusetts,1
+2013ACPD...13.8901K,"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013ACPD...13.8901K,"University of Maryland, College Park, Department of Atmospheric and Oceanic Science, Maryland, USA",38.9906678,-76.9419681,"Department of Atmospheric and Ocean Science, University of Maryland College Park, College Park, MD 20740, USA",United States,Maryland,1
+2013ACPD...13.8901K,"University of Maryland, College Park, College of Computer, Mathematical and Natural Science, College Park, Maryland, USA",38.9870154,-76.9406503,"College of Computer, Mathematical, and Natural Sciences, University of Maryland College Park, College Park, MD 20740, USA",United States,Maryland,1
+2013A&A...552L...8B,"INAF - Osservatorio Astronomico di Roma, via di Frascati 33, 00040, Monte Porzio Catone, Italy",41.8181871,12.7152505,"Monte Porzio Catone Province of Rome, Italy",Italy,Lazio,1
+2013A&A...552L...8B,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA, 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013A&A...552A..61H,"Jodrell Bank Center for Astrophysics, School of Physics and Astronomy, The University of Manchester, Manchester, M13 9PL, UK",53.466808,-2.233936,"The University of Manchester, Oxford Road, Manchester, Greater Manchester M13 9PL, UK",United Kingdom,England,3
+2013A&A...552A..61H,"Leiden Observatory, Leiden University, PO Box 9513, 2300 RA, Leiden, The Netherlands",52.158494,4.496199,"Leiden, The Netherlands",The Netherlands,South Holland,3
+2013A&A...552A..61H,"Max-Planck-Institut für Radioastronomie, Auf dem Hügel 69, 53121, Bonn, Germany",50.73009,7.06957,"Max Planck Institute for Radio Astronomy, Bonn University, Dept. of Southeast Asian Studies, Campus Endenich, Auf dem Hügel 69, 53121 Bonn, Germany",Germany,North Rhine-Westphalia,7
+2013A&A...552A..61H,"LESIA, UMR CNRS 8109, Observatoire de Paris, 92195, Meudon, France",48.812995,2.23847,"Meudon, France",France,Île-de-France,2
+2013A&A...552A..61H,"Astronomisches Institut der Ruhr-Universität Bochum, Universitaetsstrasse 150, 44780, Bochum, Germany",51.4818445,7.2162363,"Bochum, Germany",Germany,North Rhine-Westphalia,1
+2013A&A...552A..61H,"Thüringer Landessternwarte, Sternwarte 5, 07778, Tautenburg, Germany",50.98276,11.71055,"Karl Schwarzschild Observatory, Mittleres Saaletal zwischen Camburg und Göschwitz, Sternwarte 5, 07778 Tautenburg, Germany",Germany,Thuringia,2
+2013A&A...552A..61H,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA, 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013A&A...552A..61H,"Argelander-Institut für Astronomie, University of Bonn, Auf dem Hügel 71, 53121, Bonn, Germany",50.7297915,7.0693852,"Argelander-Institut für Astronomie, Bonn University, Dept. of Southeast Asian Studies, Campus Endenich, Auf dem Hügel 71, 53121 Bonn, Germany",Germany,North Rhine-Westphalia,1
+2013A&A...552A..61H,"Space Telescope Science Institute, 3700 San Martin Drive, Baltimore, MD, 21218, USA",39.3327249,-76.6232735,"3700 San Martin Drive, Johns Hopkins University, Baltimore, MD 21218, USA",United States,Maryland,1
+2013A&A...552A..61H,"Astronomical Institute ""Anton Pannekoek"", University of Amsterdam, Postbus 94249, 1090 GE, Amsterdam, The Netherlands",52.3702157,4.8951679,"Amsterdam, The Netherlands",The Netherlands,North Holland,3
+2013A&A...552A..61H,"Station de Radioastronomie de Nançay, Observatoire de Paris, CNRS/INSU, 18330, Nançay, France",47.350603,2.1958289,"Nançay, France",France,Centre,2
+2013A&A...552A..61H,"Department of Astrophysics/IMAPP, Radboud University Nijmegen, PO Box 9010, 6500 GL, Nijmegen, The Netherlands",51.842867,5.854622,"Nijmegen, The Netherlands",The Netherlands,Gelderland,1
+2013A&A...552A..61H,"Max Planck Institute for Astrophysics, Karl Schwarzschild Str. 1, 85741, Garching, Germany",48.2610466,11.6713943,"Max Planck Institute for Astrophysics, Karl-Schwarzschild-Straße 1, 85748 Garching, Germany",Germany,Bavaria,2
+2013A&A...552A..61H,"School of Physics and Astronomy, University of Southampton, Southampton, SO17 1BJ, UK",50.9352965,-1.3993479,"School of Physics and Astronomy, University of Southampton Highfield Campus, Southampton SO17 1BJ, UK",United Kingdom,England,3
+2013A&A...552A..61H,"Jacobs University Bremen, Campus Ring 1, 28759, Bremen, Germany",53.1670474,8.65081,"Jacobs University Bremen, Campus Ring 1, 28759 Bremen, Germany",Germany,Bremen,1
+2013A&A...552A..61H,"Astrophysics, University of Oxford, Denys Wilkinson Building, Keble Road, Oxford, OX1 3RH, UK",51.7595334,-1.25842,"Keble Road, University of Oxford, Oxford, Oxfordshire OX1, UK",United Kingdom,NULL,2
+2013A&A...552A..61H,"Kapteyn Astronomical Institute, PO Box 800, 9700 AV, Groningen, The Netherlands",53.219231,6.57537,"Groningen, The Netherlands",The Netherlands,Groningen,1
+2013A&A...552A..61H,"Laboratoire Lagrange, UMR7293, Université de Nice Sophia-Antipolis, CNRS, Observatoire de la Côte d'Azur, 06300, Nice, France",43.706449,7.2922646,"06300 Nice, France",France,Provence-Alpes-Côte d'Azur,1
+2013A&A...552A..61H,"Institute for Astronomy, University of Edinburgh, Royal Observatory of Edinburgh, Blackford Hill, Edinburgh, EH9 3HJ, UK",55.9230229,-3.1950366,"Blackford Hill, Edinburgh, City of Edinburgh EH9, UK",United Kingdom,NULL,1
+2013A&A...552A..61H,"University of Hamburg, Gojenbergsweg112, 21029, Hamburg, Germany",53.489276,10.2260726,"21029 Hamburg, Germany",Germany,Hamburg,3
+2013A&A...552A..45S,"Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA, 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,2
+2013A&A...552A..45S,"INAF - Osservatorio Astronomico di Palermo, Piazza del Parlamento 1, 90134, Palermo, Italy",38.1116669,13.3538726,"Piazza del Parlamento, 90134 Palermo, Italy",Italy,Sicilia,1
+2013A&A...552A..45S,"Institut für Astronomie und Astrophysik, Universität Tübingen, Sand 1, 72076, Tübingen, Germany",48.5344,9.07087,"Sand 1, 72076 Tübingen, Germany",Germany,Baden-Wurttemberg,1
+2013A&A...552A..11R,"Konkoly Observatory, Research Centre for Astronomy and Earth Sciences, Hungarian Academy of Sciences, 1121, Budapest, Hungary",47.4979359,18.9690995,"1121 Budapest, Hungary",Hungary,Budapest,1
+2013A&A...552A..11R,"Université Bordeaux 1, CNRS/IN2p3, Centre d'Études Nucléaires de Bordeaux-Gradignan, 33175, Gradignan, France",44.774267,-0.618945,"Gradignan, France",France,Aquitaine,1
+2013A&A...552A..11R,"FÖMI Satellite Geodetic Observatory, PO Box 585, 1592, Budapest, Hungary",47.497912,19.040235,"Budapest, Hungary",Hungary,Budapest,1
+2013A&A...552A..11R,"Harvard-Smithsonian Center for Astrophysics, Cambridge, MA, 02138, USA",42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,1
+2013A&A...552A..11R,"Astronomy Department, University of Michigan, Ann Arbor, MI, 48109-1042, USA",42.2768063,-83.7353455,"Department of Astronomy, University of Michigan - Central Campus, 500 Church Street, Ann Arbor, MI 48109, USA",United States,Michigan,2
+2013A&A...552A..11R,"Aalto University Metsähovi Radio Observatory, Kylmälä, Finland",64.4665232,27.2562341,"88350 Kylmälä, Finland",Finland,NULL,4
+2013A&A...552A..11R,"Dept. of Astronomy and Astrophysics, Penn State University, University Park, PA, 16802, USA",40.798193,-77.8629143,"Department of Astronomy and Astrophysics, The Pennsylvania State University, State College, PA 16801, USA",United States,Pennsylvania,2
+2013A&A...552A..11R,"IRAM, 300 rue de la piscine, 38406, Saint-Martin d'Hères, France",45.1946651,5.763592,"Rue de la Piscine, Stendhal University, 38400 Saint-Martin-d'Hères, France",France,Rhone-Alpes,1
+2013A&A...552A..11R,"Istituto Nazionale di Fisica Nucleare, Sezione di Padova, 35131, Padova, Italy",45.4134504,11.8928197,"35131 Padua, Province of Padua, Italy",Italy,Veneto,1
+2013A&A...552A..11R,"Department of Astronomy, Kyoto University, Kitashirakawa-Oiwake-cho, Sakyo-ku, 606-8502, Kyoto, Japan",35.030518,135.7836835,"Sakyo Ward, Kyoto, Kyoto Prefecture 606-8502, Japan",Japan,Kyoto Prefecture,1
+2013A&A...552A..11R,"Hiroshima Astrophysical Science Center, Hiroshima University, 1-3-1 Kagamiyama, Higashi-Hiroshima, 739-8526, Hiroshima, Japan",34.403609,132.715794,"１丁目-３ Kagamiyama, Higashihiroshima, Hiroshima Prefecture 739-8526, Japan",Japan,Hiroshima Prefecture,3
+2013A&A...552A..11R,"Centre for Space Research, North-West University, Potchefstroom Campus, 2531, Potchefstroom, South Africa",-26.690468,27.0931649,"North-West University, Potchefstroom Campus, 11 Hoffman Street, Potchefstroom 2520, South Africa",South Africa,North West,1
+2013A&A...552A..11R,"Astrophysical Institute, Department of Physics and Astronomy, Ohio University Athens, OH 45701, USA",39.326837,-82.1021376,"Ohio University, 5 President Street, Athens, OH 45701, USA",United States,Ohio,1
+2013A&A...552A..11R,"Dipartimento di Fisica e Astronomia, Università di Padova, 35131, Padova, Italy",45.4134504,11.8928197,"35131 Padua, Province of Padua, Italy",Italy,Veneto,1
+2013A&A...552A..11R,"Cahill Center for Astronomy and Astrophysics, California Institute of Technology, Pasadena, CA, 91125, USA",34.1379059,-118.1255126,"California Institute of Technology, 1200 East California Boulevard, Pasadena, CA 91125, USA",United States,California,2
+2013A&A...552A..11R,"Purdue University, Department of Physics, 525 Northwestern Ave, West Lafayette, IN, 47907, USA",40.4401775,-86.9261008,"West Lafayette, IN 47907, USA",United States,Indiana,1
+2013A&A...552A..11R,"Department of Physical Sciences, Hiroshima University, 1-3-1 Kagamiyama, Higashi-Hiroshima, 739-8526, Hiroshima, Japan",34.403609,132.715794,"１丁目-３ Kagamiyama, Higashihiroshima, Hiroshima Prefecture 739-8526, Japan",Japan,Hiroshima Prefecture,3
