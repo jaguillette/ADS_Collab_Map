@@ -22,8 +22,8 @@ base=affil[3,]
 
 #These 3 lines draw a map limited by the maximum and minimum values for longitude and latitude within the data provided. 
 #Comment out and use other map line for full world map.
-#xlim <- c((min(affil$lng)-5), (max(affil$lng)+5))
-#ylim <- c((min(affil$lat)-5), (max(affil$lat)+5))
+#xlim <- c(-130.07813, -60.82031)
+#ylim <- c(25.16517, 49.15297)
 #map('world', col="#DCF2DC", fill=TRUE, bg="#BBCBFA", lwd=0.05, xlim=xlim, ylim=ylim)
 
 #Draws a full world map. Use preceding three lines for limited full map.
@@ -59,9 +59,9 @@ for (i in 1:nrow(affil)) {
   affil$type[i] = sample(1:5, 1)
 }
 
-world_data <- map_data("world", lwd=0.05)
-world_map <- ggplot() + geom_polygon(data=world_data, aes(x=long, y=lat), fill='#DCF2DC', colour='#BBCBFA')
-world_map <- world_map + geom_point(data=affil, aes(x=lng, y=lat, size=size, colour=type))
-world_map + theme_bw() + theme(panel.grid.major.y = element_blank(), panel.grid.major.x = element_blank())
+#world_data <- map_data("world", lwd=0.05)
+#world_map <- ggplot() + geom_polygon(data=world_data, aes(x=long, y=lat), fill='#DCF2DC', colour='#BBCBFA')
+#world_map <- world_map + geom_point(data=affil, aes(x=lng, y=lat, size=size, colour=type))
+#world_map + theme_bw() + theme(panel.grid.major.y = element_blank(), panel.grid.major.x = element_blank())
 
 
