@@ -3,10 +3,10 @@ library(geosphere)
 library(ggplot2)
 library(mapproj)
 
-png(file="myMap.png",width=1200,height=616)
+png(file="myMap.png",width=2400,height=1232)
 
 # added a line for me to easily access it at work, there might be a better way though... 
-csvName='bibcodeSet.csv'
+csvName='cfabibsaoref_-_20130514.csv'
 #csvName_erin_work='/Users/ebraswell/Documents/code/ADS_Collab_Map/bibcodes/2013ApJ...767..132H.csv'
 
 affil <- read.csv(csvName, header=TRUE)
@@ -18,26 +18,50 @@ affil <- read.csv(csvName, header=TRUE)
 
 
 #Sets central point, this one is the CfA
-base=affil[3,]
+base=affil[1,]
+affil=affil[-1,]
 
-#These 3 lines draw a map limited by the maximum and minimum values for longitude and latitude within the data provided. 
+#takes out outlier with 94 collaborations
+affil=affil[-1,]
+
+#orders results so less prominent affiliations are drawn first.
+affil=affil[order(affil$totalCount),]
+
+maxCount <- max(affil$totalCount)
+
+pal <- colorRampPalette(c("#F2F2F2", "blue"))
+colors <- pal(100)
+
+#These lines draw a map limited by the maximum and minimum values for longitude and latitude within the data provided. 
 #Comment out and use other map line for full world map.
+
+#Boundaries for continental US
 #xlim <- c(-130.07813, -60.82031)
 #ylim <- c(25.16517, 49.15297)
-#map('world', col="#DCF2DC", fill=TRUE, bg="#BBCBFA", lwd=0.05, xlim=xlim, ylim=ylim)
+
+#boundaries for Europe
+xlim <- c(-21.621094, 43.769531)
+ylim <- c(35.460670, 75.501722)
+
+map('world', col="#DCF2DC", fill=TRUE, bg="#BBCBFA", lwd=0.05, xlim=xlim, ylim=ylim)
 
 #Draws a full world map. Use preceding three lines for limited full map.
-map('world', col="#DCF2DC", fill=TRUE, bg="#BBCBFA", lwd=0.05, wrap=TRUE)
+#map('world', col="#DCF2DC", fill=TRUE, bg="#BBCBFA", lwd=0.05, wrap=TRUE)
 
 #Draws lines from central point described
-for (j in 1:length(affil$bibcode)) {
-  inter <- gcIntermediate(c(base$lng, base$lat), c(affil[j,]$lng, affil[j,]$lat), n=100, breakAtDateLine=TRUE, addStartEnd=TRUE)
-  if(length(inter)==2){
-    lines(inter[[1]], col="black", lwd=.25)
-    lines(inter[[2]], col="black", lwd=.25)
-  }
-  else {
-    lines(inter, col="black", lwd=.25)
+for (j in 1:length(affil$lat)) {
+  drawLat <- affil[j,]$lat
+  drawLng <- affil[j,]$lng
+  if((xlim[1]<=drawLng & drawLng<=xlim[2])&(ylim[1]<=drawLat & drawLat<=ylim[2])){
+    inter <- gcIntermediate(c(base$lng, base$lat), c(drawLng, drawLat), n=100, breakAtDateLine=TRUE, addStartEnd=TRUE)
+    colindex <- round((affil[j,]$totalCount / maxCount) * length(colors))
+    if(length(inter)==2){
+      lines(inter[[1]], col=colors[colindex], lwd=1.2)
+      lines(inter[[2]], col=colors[colindex], lwd=1.2)
+    }
+    else {
+      lines(inter, col=colors[colindex], lwd=1.2)
+    }
   }
 }
 dev.off()
