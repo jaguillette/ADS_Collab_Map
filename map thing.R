@@ -4,18 +4,10 @@ library(ggplot2)
 library(mapproj)
 
 png(file="myMap.png",width=2400,height=1232)
-
-# added a line for me to easily access it at work, there might be a better way though... 
+ 
 csvName='cfabibsaoref_-_20130514.csv'
-#csvName_erin_work='/Users/ebraswell/Documents/code/ADS_Collab_Map/bibcodes/2013ApJ...767..132H.csv'
 
 affil <- read.csv(csvName, header=TRUE)
-#affil <- read.csv(csvName_erin_work, header=FALSE)
-
-# wanted to clean up the names a bit - 
-# I have a terrible memory so can never remember V1 vs V2, etc :) 
-#names(affil) <- c('institution','lat','long')
-
 
 #Sets central point, this one is the CfA
 base=affil[1,]
@@ -74,19 +66,15 @@ dev.off()
 
 
 ## Mapping using ggplot2 so you can stack map layers on top of each other? ##
-# adding a randomly generated size column to experiment with dots of different sizes
-# and why not a randomly generated column for "type of institution" to experiment with colors?
-
-affil$size <- NULL
-for (i in 1:nrow(affil)) {
-  affil$size[i] = sample(1:10, 1)
-}
+# adding a randomly generated column for "type of institution" to experiment with colors?
+# mapping size of dot to 'count' in affil 
 
 affil$type <- NULL
 for (i in 1:nrow(affil)) {
   affil$type[i] = sample(1:5, 1)
 }
 
+<<<<<<< HEAD
 #world_data <- map_data("world", lwd=0.05)
 
 #world_map <- ggplot() + 
@@ -94,6 +82,20 @@ for (i in 1:nrow(affil)) {
 
 #world_map <- world_map + 
 #  geom_point(data=affil, aes(x=lng, y=lat, size=size, colour=type))
+=======
+world_data <- map_data("world")
+world_map <- ggplot() + geom_polygon(data=world_data, aes(x=long, y=lat, group=group), fill='#DCF2DC', colour='grey')
+world_map <- world_map + geom_point(data=affil, aes(x=lng, y=lat, size=totalCount, colour=factor(type))) + scale_colour_brewer(palette="Set1")
+world_map <- world_map + theme(panel.grid.major.y = element_blank(), 
+                               panel.grid.major.x = element_blank(), 
+                               panel.background = element_rect(fill = '#BBCBFA'))
+world_map
+
+# now for a more globe-like map!
+# A little off, especially at the N Pole, but pretty cool!
+
+world_map + coord_map("ortho", orientation=c(30, -50, 0))
+>>>>>>> efb97baff3459d9ebe9e2d15ff9bf5e6e86d0caa
 
 #world_map + 
 #  theme_bw() + 
