@@ -3,13 +3,13 @@ library(geosphere)
 library(ggplot2)
 library(mapproj)
 
-png(file="myMap.png",width=2400,height=1232)
- 
-csvName='cfabibsaoref_-_20130514.csv'
+#====START DATA====
+#names and reads csv data source
+#csvName <- readline(file.choose())
 
-affil <- read.csv(csvName, header=TRUE)
+affil <- read.csv(file.choose(), header=TRUE)
 
-#Sets central point, this one is the CfA
+#Sets central point, this one is the CfA, then removes it from data analysis.
 base=affil[1,]
 affil=affil[-1,]
 
@@ -19,107 +19,116 @@ affil=affil[-1,]
 #orders results so less prominent affiliations are drawn first.
 affil=affil[order(affil$totalCount),]
 
+#sets maximum count
 maxCount <- max(affil$totalCount)
+#====END DATA====
 
-pal <- colorRampPalette(c("#FFD7Dc", "#9E0004"))
+#====START COLORS====
+#colors used in the map are defined here. Color sets can be switched.
+#options are currently: Night
+PALETTE <- 'Night'
+switch(PALETTE,
+       'Night'={
+         low_collab <- "#736051"
+         high_collab <- "#FEFEE6"
+         land <- '#0A1640'
+         sea <- '#01021E'
+         border <- '#020727'
+       })
+pal <- colorRampPalette(c(low_collab, high_collab))
 colors <- pal(100)
+affil$colindex <- NULL
+for (i in 1:nrow(affil)) {
+  affil$colindex[i] = colors[round((affil[i,]$totalCount / maxCount) * length(colors))]
+}
+#====END COLORS====
 
-#These lines draw a map limited by the maximum and minimum values for longitude and latitude within the data provided. 
-#Comment out and use other map line for full world map.
-
-LatLongView = 'World'
-
+#====START MAP====
+#creates a base map of the world that includes US state boundaries.
 state_data <- map_data("state")
 world_data <- map_data("world")
-world_map_01 <- ggplot() + 
-  geom_polygon(data=world_data, aes(x=long, y=lat, group=group), fill='#DCF2DC', colour='grey') +
-  geom_polygon(data=state_data, aes(x=long, y=lat, group=group), fill='#DCF2DC', colour='grey')
-#BBCBFA
+world_map <- ggplot() + 
+  geom_polygon(data=world_data, aes(x=long, y=lat, group=group), fill=land, colour=border) +
+  geom_polygon(data=state_data, aes(x=long, y=lat, group=group), fill=land, colour=border) + 
+  theme(panel.grid = element_blank(),
+        panel.background = element_rect(fill = sea),
+        axis.title = element_blank(),
+        axis.ticks = element_blank(),
+        axis.text = element_blank())
+#====END MAP====
 
+#====START VIEW====
+#switch for different world views. Not working yet, keep on 'World'
+LatLongView = 'United States'
 switch(LatLongView,
        'United States'={
-         xlim <- c(-130.07813, -60.82031)
-         ylim <- c(25.16517, 49.15297)
-         #map('state', fill=TRUE, col="#DCF2DC", bg='#BBCBFA', lwd=.75)
+         xlim <- c(-130.07813, -63.085938)
+         ylim <- c(23.479182, 50.082393)
+         asp_ratio <- (xlim[2]-xlim[1])/(ylim[2]-ylim[1])
+         m_width <- 1000
+         m_height <- round(1000/asp_ratio)
+         world_map <- world_map + coord_fixed() + coord_cartesian(xlim=xlim, ylim=ylim)
        },
        'Europe'={
          xlim <- c(-21.621094, 43.769531)
          ylim <- c(35.460670, 75.501722)
-         #map('world', col="#DCF2DC", fill=TRUE, bg="#BBCBFA", lwd=0.05, xlim=xlim, ylim=ylim)
+         asp_ratio <- (xlim[2]-xlim[1])/(ylim[2]-ylim[1])
+         m_width <- 1000
+         m_height <- round(1000/asp_ratio)
+         world_map <- world_map + coord_fixed() + coord_cartesian(xlim=xlim, ylim=ylim)
        },
        'World'={
          xlim <- c(-180, 180)
          ylim <- c(-90, 90)
-         #map('state', col="#DCF2DC", fill=TRUE, bg="#BBCBFA", lwd=0.05, wrap=TRUE)
+         asp_ratio <- (xlim[2]-xlim[1])/(ylim[2]-ylim[1])
+         m_width <- 1000
+         m_height <- round(1000/asp_ratio)
        })
+#====END VIEW====
 
-#Draws lines from central point described
-for (j in 1:length(affil$lat)) {
-  drawLat <- affil[j,]$lat
-  drawLng <- affil[j,]$lng
-  if((xlim[1]<=drawLng & drawLng<=xlim[2])&(ylim[1]<=drawLat & drawLat<=ylim[2])){
-    inter <- gcIntermediate(c(base$lng, base$lat), c(drawLng, drawLat), n=50, breakAtDateLine=TRUE, addStartEnd=TRUE)
-    colindex <- round((affil[j,]$totalCount / maxCount) * length(colors))
-    if(length(inter)==2){
-      inter_01 <- as.data.frame(inter[[1]])
-      inter_02 <- as.data.frame(inter[[2]])
-      names(inter_01) <- c("long", "lat")
-      names(inter_02) <- c("long", "lat")
-      world_map_01 <- world_map_01 + geom_line(data=inter_01, aes(x=long, y=lat), color=colors[colindex], lwd=.5)
-      world_map_01 <- world_map_01 + geom_line(data=inter_02, aes(x=long, y=lat), color=colors[colindex], lwd=.5)
-    }
-    else {
-      #lines(inter, col=colors[colindex], lwd=1.5)
-      inter <- as.data.frame(inter)
-      names(inter) <- c("long", "lat")
-      world_map_01 <- world_map_01 + geom_line(data=inter, aes(x=long, y=lat), color=colors[colindex], lwd=.5)
-    }
-  }
-}
+#====START MAP SWITCH====
+MapType <- 'Dot'
+switch(MapType,
+       'Line'={
+         #=====START LINE MAP=====
+         #Draws lines from central point described
+         for (j in 1:length(affil$lat)) {
+           drawLat <- affil[j,]$lat
+           drawlong <- affil[j,]$long
+           if((xlim[1]<=drawlong & drawlong<=xlim[2])&(ylim[1]<=drawLat & drawLat<=ylim[2])){
+             inter <- gcIntermediate(c(base$long, base$lat), c(drawlong, drawLat), n=50, breakAtDateLine=TRUE, addStartEnd=TRUE)
+             if(length(inter)==2){
+               inter_01 <- as.data.frame(inter[[1]])
+               inter_02 <- as.data.frame(inter[[2]])
+               names(inter_01) <- c("long", "lat")
+               names(inter_02) <- c("long", "lat")
+               world_map <- world_map + geom_line(data=inter_01, aes(x=long, y=lat), color=affil$colindex[j], lwd=.25)
+               world_map <- world_map + geom_line(data=inter_02, aes(x=long, y=lat), color=affil$colindex[j], lwd=.25)
+             }
+             else {
+               #lines(inter, col=colors[colindex], lwd=1.5)
+               inter <- as.data.frame(inter)
+               names(inter) <- c("long", "lat")
+               world_map <- world_map + geom_line(data=inter, aes(x=long, y=lat), color=affil$colindex[j], lwd=.25)
+             }
+           }
+         }
+         #====END LINE MAP====
+       },
+       'Dot'={
+         #====START DOT MAP====
+         affil_subset = subset(affil, lat>=ylim[1] & lat<=ylim[2] & long>=xlim[1] & long<=xlim[2])
+         world_map <- world_map + 
+           geom_point(data=affil_subset, aes(x=long, y=lat, size=totalCount, colour=colindex))
+         #====END DOT MAP====
+       })
+#====END MAP SWITCH====
 
-world_map_01
-
-dev.off()
-
-
-
-
-## Mapping using ggplot2 so you can stack map layers on top of each other? ##
-# adding a randomly generated column for "type of institution" to experiment with colors?
-# mapping size of dot to 'count' in affil 
-
-affil$type <- NULL
-for (i in 1:nrow(affil)) {
-  affil$type[i] = sample(1:5, 1)
-}
-
-#<<<<<<< HEAD
-#world_data <- map_data("world", lwd=0.05)
-
-#world_map <- ggplot() + 
-#  geom_polygon(data=world_data, aes(x=long, y=lat), fill='#DCF2DC', colour='#BBCBFA')
-
-#world_map <- world_map + 
-#  geom_point(data=affil, aes(x=lng, y=lat, size=size, colour=type))
-#=======
-state_data <- map_data("state")
-world_data <- map_data("world")
-world_map <- ggplot() + 
-  geom_polygon(data=world_data, aes(x=long, y=lat, group=group), fill='#DCF2DC', colour='grey') +
-  geom_polygon(data=state_data, aes(x=long, y=lat, group=group), fill='#DCF2DC', colour='grey')
-  #BBCBFA
-world_map <- world_map + geom_point(data=affil, aes(x=lng, y=lat, size=totalCount, colour=factor(type))) + scale_colour_brewer(palette="Set1")
-world_map <- world_map + theme(panel.grid.major.y = element_blank(), 
-                               panel.grid.major.x = element_blank(), 
-                               panel.background = element_rect(fill = '#BBCBFA'))
+#====START MAKE FILE====
+#Makes png file, draws map in it.
+filename = paste(LatLongView, MapType, PALETTE, collapse="_")
+filename = paste(filename, ".png", collapse='')
+png(file=filename,width=m_width, height=m_height)
 world_map
-
-# now for a more globe-like map!
-# A little off, especially at the N Pole, but pretty cool!
-
-world_map + coord_map("ortho", orientation=c(42, -71, 0))
-#>>>>>>> efb97baff3459d9ebe9e2d15ff9bf5e6e86d0caa
-
-#world_map + 
-#  theme_bw() + 
-#  theme(panel.grid.major.y = element_blank(), panel.grid.major.x = element_blank())
+dev.off()
+#====END MAKE FILE====
