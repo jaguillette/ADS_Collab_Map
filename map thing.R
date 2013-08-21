@@ -23,17 +23,40 @@ affil=affil[order(affil$totalCount),]
 maxCount <- max(affil$totalCount)
 #====END DATA====
 
+#====START PARAMETERS====
+PaletteChoices = c("Night", "Doodle", "Technical")
+Palette <- select.list(PaletteChoices, preselect = NULL, multiple = FALSE, title = "Select Map View", graphics = TRUE)
+
+LatLongChoices=c('World', 'United States', "New England", "Europe")
+LatLongView = select.list(LatLongChoices, preselect = NULL, multiple = FALSE, title = "Select Map View", graphics = TRUE)
+
+MapChoices = c("Dot", "Line")
+MapType <- select.list(MapChoices, preselect = NULL, multiple = FALSE, title = "Select Map View", graphics = TRUE)
+#====END PARAMETERS====
+
 #====START COLORS====
 #colors used in the map are defined here. Color sets can be switched.
-#options are currently: Night
-PALETTE <- 'Night'
-switch(PALETTE,
+switch(Palette,
        'Night'={
          low_collab <- "#736051"
          high_collab <- "#FEFEE6"
          land <- '#0A1640'
          sea <- '#01021E'
          border <- '#020727'
+       },
+       'Doodle'={
+         low_collab <- "#d18f45"
+         high_collab <- "#9d0b00"
+         land <- '#fac263'
+         sea <- '#6ab58e'
+         border <- '#6a5a40'
+       },
+       "Technical"={
+         low_collab <- "#D1ABD6"
+         high_collab <- "#9A07AD"
+         land <- '#d5f0d4'
+         sea <- '#adbef9'
+         border <- '#b1b1b1'
        })
 pal <- colorRampPalette(c(low_collab, high_collab))
 colors <- pal(100)
@@ -48,8 +71,8 @@ for (i in 1:nrow(affil)) {
 state_data <- map_data("state")
 world_data <- map_data("world")
 world_map <- ggplot() + 
-  geom_polygon(data=world_data, aes(x=long, y=lat, group=group), fill=land, colour=border) +
-  geom_polygon(data=state_data, aes(x=long, y=lat, group=group), fill=land, colour=border) + 
+  geom_polygon(data=world_data, aes(x=long, y=lat, group=group), fill=land, colour=border, size=.04) +
+  geom_polygon(data=state_data, aes(x=long, y=lat, group=group), fill=land, colour=border, size=.04) + 
   theme(panel.grid = element_blank(),
         panel.background = element_rect(fill = sea),
         axis.title = element_blank(),
@@ -58,8 +81,7 @@ world_map <- ggplot() +
 #====END MAP====
 
 #====START VIEW====
-#switch for different world views. Not working yet, keep on 'World'
-LatLongView = 'United States'
+#switch for different world views.
 switch(LatLongView,
        'United States'={
          xlim <- c(-130.07813, -63.085938)
@@ -83,11 +105,18 @@ switch(LatLongView,
          asp_ratio <- (xlim[2]-xlim[1])/(ylim[2]-ylim[1])
          m_width <- 1000
          m_height <- round(1000/asp_ratio)
+       },
+       'New England'={
+         xlim <- c(-73.907471, -66.524658)
+         ylim <- c(40.980573, 47.577128)
+         asp_ratio <- (xlim[2]-xlim[1])/(ylim[2]-ylim[1])
+         m_width <- 1000
+         m_height <- round(1000/asp_ratio)
+         world_map <- world_map + coord_fixed() + coord_cartesian(xlim=xlim, ylim=ylim)
        })
 #====END VIEW====
 
 #====START MAP SWITCH====
-MapType <- 'Dot'
 switch(MapType,
        'Line'={
          #=====START LINE MAP=====
@@ -119,14 +148,15 @@ switch(MapType,
          #====START DOT MAP====
          affil_subset = subset(affil, lat>=ylim[1] & lat<=ylim[2] & long>=xlim[1] & long<=xlim[2])
          world_map <- world_map + 
-           geom_point(data=affil_subset, aes(x=long, y=lat, size=totalCount, colour=colindex))
+           geom_point(data=affil_subset, aes(x=long, y=lat, size=totalCount, colour=totalCount)) + 
+           scale_colour_gradient(low=low_collab, high=high_collab)
          #====END DOT MAP====
        })
 #====END MAP SWITCH====
 
 #====START MAKE FILE====
 #Makes png file, draws map in it.
-filename = paste(LatLongView, MapType, PALETTE, collapse="_")
+filename = paste(LatLongView, MapType, Palette, collapse="_")
 filename = paste(filename, ".png", collapse='')
 png(file=filename,width=m_width, height=m_height)
 world_map
