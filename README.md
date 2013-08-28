@@ -22,3 +22,7 @@ __The Hard (but rewarding!) Way:__
 You can edit the color and area options by which the script runs fairly easily, if you are comfortable mucking about in the source code. All you have to do is copy the marked sections and replace the values with ones of your preference. The color values in the pallette section are labeled for what they color, but the area option is a bit more obtuse. All that needs to be changed, however, are the xlim and ylim values, which limit the view to within those longitude and latitude ranges.
 
 If you have any questions about the script, or want to use it and can't, shoot me an email: jaguillette (at) gmail (dot) com
+
+__Examples__
+- There are three example output maps in this repo that use the various color schemes and types of maps in the script.
+- There is also an example csv to use in formatting your data. The column headings are significant, so don't change them!
