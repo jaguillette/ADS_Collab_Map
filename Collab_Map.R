@@ -12,7 +12,7 @@ setwd(tk_choose.dir(getwd(), "Choose the folder you would like to save your map 
 
 affil <- read.csv(file.choose(), header=TRUE)
 
-#Sets central point, this one is the CfA, then removes it from data analysis.
+#Sets central point, then removes it from data analysis.
 base=affil[1,]
 affil=affil[-1,]
 
