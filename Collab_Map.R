@@ -28,13 +28,13 @@ maxCount <- max(affil$totalCount)
 
 #====START PARAMETERS====
 PaletteChoices = c("Night", "Doodle", "Technical")
-Palette <- select.list(PaletteChoices, preselect = NULL, multiple = FALSE, title = "Select Map View", graphics = TRUE)
+Palette <- select.list(PaletteChoices, preselect = NULL, multiple = FALSE, title = "Select Map Colors", graphics = TRUE)
 
 LatLongChoices=c('World', 'United States', "New England", "Europe")
-LatLongView = select.list(LatLongChoices, preselect = NULL, multiple = FALSE, title = "Select Map View", graphics = TRUE)
+LatLongView = select.list(LatLongChoices, preselect = NULL, multiple = FALSE, title = "Select Map Area", graphics = TRUE)
 
 MapChoices = c("Dot", "Line")
-MapType <- select.list(MapChoices, preselect = NULL, multiple = FALSE, title = "Select Map View", graphics = TRUE)
+MapType <- select.list(MapChoices, preselect = NULL, multiple = FALSE, title = "Select Map Type", graphics = TRUE)
 #====END PARAMETERS====
 
 #====START COLORS====
