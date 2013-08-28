@@ -1,0 +1,249 @@
+lat,long,Address,Country,State,totalCount
+42.3814605,-71.1281638,"Center For Astrophysics, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,103
+41.7896546,-87.5988419,"Chicago U, 5801 South Ellis Avenue, Chicago, IL 60637, USA",United States,Illinois,94
+42.3774149,-71.1171011,"Harvard University-Department Physics, Harvard University, 17 Oxford Street, Cambridge, MA 02138, USA",United States,Massachusetts,17
+34.1378866,-118.1247032,"Pasadena, CA 91125, USA",United States,California,16
+32.233175,-110.94894,"Steward Observatory Dome, The University of Arizona, 933 North Cherry Avenue, Tucson, AZ 85721, USA",United States,Arizona,16
+34.1379059,-118.1255126,"California Institute of Technology, 1200 East California Boulevard, Pasadena, CA 91125, USA",United States,California,15
+50.73009,7.06957,"Max Planck Institute for Radio Astronomy, Bonn University, Dept. of Southeast Asian Studies, Campus Endenich, Auf dem Hügel 69, 53121 Bonn, Germany",Germany,North Rhine-Westphalia,14
+19.8255058,-155.4759836,"Subaru Telescope, 650 North Aohoku Place, Hilo, HI 96720, USA",United States,Hawaii,13
+42.6126396,-71.4938736,"MIT Haystack Observatory, 1 Millstone Hill Road, Westford, MA 01886, USA",United States,Massachusetts,12
+42.3803274,-71.1389101,"Cambridge, MA 02138, USA",United States,Massachusetts,11
+38.0293059,-78.4766781,"Charlottesville, VA, USA",United States,Virginia,11
+45.5069558,-73.5787276,"3600 University Street, Montreal, QC H3A, Canada",Canada,Quebec,11
+21.3069823,-157.811671,"Institute For Astronomy, University of Hawaii at Manoa, 2680 Woodlawn Drive, Honolulu, HI 96822, USA",United States,Hawaii,10
+40.0075811,-105.2659419,"University of Colorado Boulder, Boulder, CO 80309, USA",United States,Colorado,9
+34.2000898,-118.1760263,"JET Propulsion Laboratory, 4800 Oak Grove Drive, Pasadena, CA 91109, USA",United States,California,9
+35.67533,139.5364976,"2??-21 Osawa, Mitaka, Tokyo 181-8588, Japan",Japan,Tokyo,9
+55.9230229,-3.1950366,"Blackford Hill, Edinburgh, City of Edinburgh EH9, UK",United Kingdom,NULL,8
+37.8725651,-122.2572875,"Department of Physics, University of California Berkeley, Berkeley, CA 94720, USA",United States,California,8
+52.4498552,-1.9287282,"School of Physics and Astronomy, University of Birmingham, Birmingham, West Midlands B15 2TT, UK",United Kingdom,England,8
+28.4874009,-16.3159061,"San Cristobal de La Laguna, Santa Cruz de Tenerife, Spain",Spain,Canary Islands,7
+49.3928952,8.7202574,"69117 Heidelberg, Germany",Germany,Baden-Wurttemberg,7
+-31.994662,115.8886806,"International Centre for Radio Astronomy Research, Curtin University, Bentley WA 6102, Australia",Australia,Western Australia,7
+-33.8899135,151.1905601,"The University of Sydney, City Road, Darlington NSW 2008, Australia",Australia,New South Wales,7
+40.3465603,-74.6516698,"Department of Astrophysical Sciences, Princeton University, 4 Ivy Lane, Princeton, NJ 08544, USA",United States,New Jersey,7
+37.4090804,-122.051936,"Moffett Federal Airfield - NUQ, 158 Cody Road, Mountain View, CA 94035, USA",United States,California,7
+48.2602808,11.6709671,"European Southern Observatory, Karl-Schwarzschild-Straße 2, 85748 Garching, Germany",Germany,Bavaria,6
+52.212416,0.0947852,"Madingley Road, Cambridge, Cambridgeshire, UK",United Kingdom,NULL,6
+28.4811771,-16.3201816,"Avenida Astrofisico Francisco Sánchez, San Cristobal de La Laguna, Santa Cruz de Tenerife, Spain",Spain,Canary Islands,6
+37.8694699,-122.2581552,"Department of Astronomy, University of California Berkeley, Berkeley, CA 94720, USA",United States,California,6
+52.158494,4.496199,"Leiden, The Netherlands",The Netherlands,South Holland,6
+34.403609,132.715794,"1??-3 Kagamiyama, Higashihiroshima, Hiroshima Prefecture 739-8526, Japan",Japan,Hiroshima Prefecture,6
+42.3606423,-71.0933616,"MIT Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, 77 Massachusetts Avenue #37241, Cambridge, MA 02139, USA",United States,Massachusetts,5
+50.86513,-0.0867652,"Brighton, The City of Brighton and Hove BN1 9QH, UK",United Kingdom,NULL,5
+39.3327249,-76.6232735,"3700 San Martin Drive, Johns Hopkins University, Baltimore, MD 21218, USA",United States,Maryland,5
+37.4261514,-122.1727816,"Lomita Mall, Stanford University, Stanford, CA 94305, USA",United States,California,5
+48.2610466,11.6713943,"Max Planck Institute for Astrophysics, Karl-Schwarzschild-Straße 1, 85748 Garching, Germany",Germany,Bavaria,5
+50.9352965,-1.3993479,"School of Physics and Astronomy, University of Southampton Highfield Campus, Southampton SO17 1BJ, UK",United Kingdom,England,5
+40.5223834,-74.4634759,"136 Frelinghuysen Road, Rutgers University - New Brunswick, Piscataway Township, NJ 08854, USA",United States,New Jersey,4
+13.0135132,77.5809267,"Raman Research Institute, Raj Mahal Vilas Extension, Armane Nagar, Bangalore, Karnataka 560080, India",India,Karnataka,4
+38.9911983,-76.8525724,"Goddard Space Flight Center, 8800 Greenbelt Road, Greenbelt, MD 20771, USA",United States,Maryland,4
+33.6490507,-117.8434722,"University of California Irvine, Irvine, CA 92697, USA",United States,California,4
+39.329901,-76.6205184,"Johns Hopkins University, Baltimore, MD 21218, USA",United States,Maryland,4
+42.2768063,-83.7353455,"Department of Astronomy, University of Michigan - Central Campus, 500 Church Street, Ann Arbor, MI 48109, USA",United States,Michigan,4
+41.5029317,-81.6069338,"Case Western Reserve University Observatory, Cleveland, OH 44106, USA",United States,Ohio,4
+34.155601,-118.134254,"813 Santa Barbara Street, Pasadena, CA 91101, USA",United States,California,4
+41.725775,-87.9626667,"Argonne Ridge Road, Illinois and Michigan Canal, Willowbrook, IL 60527, USA",United States,Illinois,4
+42.3588667,-71.0938246,"Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA 02139, USA",United States,Massachusetts,4
+29.452191,-98.610191,"Southwest Research Institute, 6220 Culebra Road, San Antonio, TX 78238, USA",United States,Texas,4
+64.4665232,27.2562341,"88350 Kylmälä, Finland",Finland,NULL,4
+42.3597818,-71.0935816,"MIT Department of Physics, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA 02139, USA",United States,Massachusetts,3
+45.165133,5.767761,"Saint-Martin-d'Hères, France",France,Rhone-Alpes,3
+51.7528765,-0.2421732,"Hatfield, Hertfordshire AL10 9AB, UK",United Kingdom,NULL,3
+42.3814224,-71.1284335,"Smithsonian Astrophysical Observatory, Harvard University, 60 Garden Street, Cambridge, MA 02138, USA",United States,Massachusetts,3
+51.7595334,-1.25842,"Keble Road, University of Oxford, Oxford, Oxfordshire OX1, UK",United Kingdom,NULL,3
+51.5224832,-0.1326412,"Gower Street, London Borough of Camden, London, UK",United Kingdom,NULL,3
+49.8850153,10.8884058,"Sternwartstraße 7, 96049 Bamberg, Germany",Germany,Bavaria,3
+38.9466863,-76.9282662,"University of Maryland, 3100 Chesapeake Road, College Park, MD 20742, USA",United States,Maryland,3
+36.3981875,127.3747104,"Hwaam-dong, Yuseong-gu, Daejeon, South Korea",South Korea,NULL,3
+40.3515155,18.1750161,"Lecce Province of Lecce, Italy",Italy,Apulia,3
+39.951894,-75.189939,"209 South 33rd Street, University of Pennsylvania, Philadelphia, PA 19104, USA",United States,Pennsylvania,3
+42.2762327,-83.7346598,"500 Church Street, University of Michigan - Central Campus, Ann Arbor, MI 48109, USA",United States,Michigan,3
+-29.906301,-71.250204,"La Serena, Coquimbo Region, Chile",Chile,Coquimbo Region,3
+43.7505556,11.2544444,"Biblioteca dell'Osservatorio Astrofisico di Arcetri, Largo Enrico Fermi, 5, 50125 Florence, Italy",Italy,Tuscany,3
+38.0356399,-78.5151042,"Department of Astronomy, University of Virginia, 530 McCormick Road, Charlottesville, VA 22904, USA",United States,Virginia,3
+35.26112,139.608454,"Graduate University for Advanced Studies, 1560-35 Kamiyamaguchi, Hayama, Miura District, Kanagawa Prefecture 240-0115, Japan",Japan,Kanagawa Prefecture,3
+51.7528075,-0.2421333,"University Of Hertfordshire, College Lane, Hatfield, Hertfordshire AL10 9AB, UK",United Kingdom,NULL,3
+37.8717443,-122.2609626,"University of California Berkeley, 101 Sproul Hall, Berkeley, CA 94704, USA",United States,California,3
+48.5167241,-123.4208591,"Victoria, BC V9E 2E7, Canada",Canada,British Columbia,3
+53.466808,-2.233936,"The University of Manchester, Oxford Road, Manchester, Greater Manchester M13 9PL, UK",United Kingdom,England,3
+52.3702157,4.8951679,"Amsterdam, The Netherlands",The Netherlands,North Holland,3
+53.489276,10.2260726,"21029 Hamburg, Germany",Germany,Hamburg,3
+42.3741886,-71.1165876,"Harvard University, 1350 Massachusetts Ave, Cambridge, MA 02138, USA",United States,Massachusetts,2
+38.832997,-77.3083695,"George Mason University, 4400 University Drive, Fairfax, VA 22030, USA",United States,Virginia,2
+42.3813384,-71.1265483,"60 Garden Street, Harvard University, Cambridge, MA 02138, USA",United States,Massachusetts,2
+41.6621811,-91.5322311,"Department of Physics and Astronomy, University of Iowa, 203, Iowa City, IA 52242, USA",United States,Iowa,2
+47.653638,-122.3112787,"Department of Physics, University of Washington Seattle Campus, University of Washington - Seattle, Seattle, WA 98105, USA",United States,Washington,2
+-35.2776999,149.118527,"Australian National University, Barry Dr, Acton ACT 0200, Australia",Australia,Australian Capital Territory,2
+44.975288,-93.234454,"116 Church Street Southeast, University of Minnesota, Mississippi National River and Recreation Area, Minneapolis, MN 55455, USA",United States,Minnesota,2
+39.9520275,-75.1898015,"Department of Physics and Astronomy, University of Pennsylvania, Philadelphia, PA 19104, USA",United States,Pennsylvania,2
+49.2684344,-123.2611099,"Vancouver, BC V6T 1Z1, Canada",Canada,British Columbia,2
+40.44205,-4.001345,"28691 Villanueva de la Cañada, Madrid, Spain",Spain,Community of Madrid,2
+48.8346236,2.337211,"Boulevard Arago, 75014 Paris, France",France,Île-de-France,2
+51.4998446,-0.1772095,"Prince Consort Road, London SW7, UK",United Kingdom,NULL,2
+48.701844,2.134078,"Gif-sur-Yvette, France",France,Île-de-France,2
+-33.5778376,-70.6947654,"Chile 22, San Bernardo, Santiago Metropolitan Region, Chile",Chile,Santiago Metropolitan Region,2
+34.1427587,-118.1386005,"Pasadena, CA 91101, USA",United States,California,2
+31.8310239,131.4125895,"1?? Gakuenkibanadainishi, Miyazaki, Miyazaki Prefecture 889-2192, Japan",Japan,Miyazaki Prefecture,2
+32.7307219,-97.1163471,"Arlington, TX 76019, USA",United States,Texas,2
+53.0088675,18.6047344,"Rabianska 8, Torun, Poland",Poland,Kuyavian-Pomeranian Voivodeship,2
+44.8305549,-0.527552,"Floirac, France",France,Aquitaine,2
+52.3544534,4.9553595,"Science Park Amsterdam 904, University of Amsterdam, 1098 Amsterdam, The Netherlands",The Netherlands,North Holland,2
+40.4715678,-3.4498346,"28850 Torrejón de Ardoz, Madrid, Spain",Spain,Community of Madrid,2
+54.5844482,-5.9345016,"Queen's University Belfast, University Road, Belfast BT7 1NN, UK",United Kingdom,NULL,2
+37.122997,-93.173455,"Fellowship Bible Church, 4855 South Farm Road 205, Rogersville, MO 65742, USA",United States,Missouri,2
+36.9913856,-122.0608718,"University of California Santa Cruz, 1156 High Street, Santa Cruz, CA 95064, USA",United States,California,2
+21.543489,39.172989,Jeddah Saudi Arabia,Saudi Arabia,Makkah Province,2
+52.8353557,6.3658171,"7991 Dwingeloo, The Netherlands",The Netherlands,Drenthe,2
+43.7437096,11.2580472,"50125 Province of Florence, Italy",Italy,Tuscany,2
+42.0293102,-93.6473994,"Department of Physics and Astronomy, Iowa State University, Ames, IA 50011, USA",United States,Iowa,2
+34.0706495,-118.4415158,"Department of Physics and Astronomy, UCLA, 470 Portola Plaza, Los Angeles, CA 90095, USA",United States,California,2
+39.0336028,-94.5757631,"5110 Rockhill Road, University of Missouri-Kansas City, Kansas City, MO 64110, USA",United States,Missouri,2
+42.276699,-83.7365302,"Department of Physics, University of Michigan - Central Campus, 450 Church Street, Ann Arbor, MI 48109, USA",United States,Michigan,2
+37.8719573,-122.2600603,"University of California, Berkeley, University of California Berkeley, 2440 Bancroft Way, Berkeley, CA 94704, USA",United States,California,2
+29.6488872,-82.3457487,"Astronomy Department, University of Florida, Gainesville, FL 32611, USA",United States,Florida,2
+38.5449065,-121.7405167,"Davis, CA, USA",United States,California,2
+41.8795848,-87.6237123,"The Art Institute of Chicago, 111 South Michigan Avenue, Chicago, IL 60603, USA",United States,Illinois,2
+44.6373724,-63.5885259,"Halifax, NS B3H 3J5, Canada",Canada,Nova Scotia,2
+-33.4691199,-70.641997,"Santiago, Santiago Metropolitan Region, Chile",Chile,Santiago Metropolitan Region,2
+30.2835151,-97.7348805,"Austin, TX 78712, USA",United States,Texas,2
+43.6607391,-79.3972921,"Department of Astronomy and Astrophysics, University of Toronto - St. George Campus, 50 Saint George Street, Toronto, ON M5S 3H4, Canada",Canada,Ontario,2
+47.3686498,8.5391825,"Zurich, Switzerland",Switzerland,Canton of Zurich,2
+41.9203468,-87.6433139,"Chicago, IL 60614, USA",United States,Illinois,2
+35.03075,135.7858333,"Yukawa Institute for Theoretical Physics, Kitashirakawa Oiwakecho, Sakyo Ward, Kyoto, Kyoto Prefecture 606-8317, Japan",Japan,Kyoto Prefecture,2
+35.030518,135.7836835,"Sakyo Ward, Kyoto, Kyoto Prefecture 606-8502, Japan",Japan,Kyoto Prefecture,2
+43.706449,7.2922646,"06300 Nice, France",France,Provence-Alpes-Côte d'Azur,2
+42.3944041,-72.5270718,"Department of Astronomy, University of Massachusetts Amherst, Amherst, MA 01002, USA",United States,Massachusetts,2
+41.3171752,-72.9218023,"Astronomy Department, Yale University, 260 Whitney Avenue, New Haven, CT 06511, USA",United States,Connecticut,2
+51.4579714,-2.6014743,"University of Bristol, Senate House, Tyndall Avenue, Bristol, City of Bristol BS8 1TH, UK",United Kingdom,NULL,2
+51.842867,5.854622,"Nijmegen, The Netherlands",The Netherlands,Gelderland,2
+43.465426,-80.528111,"Perimeter Institute for Theoretical Physics, 31 Caroline Street North, Waterloo, ON N2L 6B9, Canada",Canada,Ontario,2
+38.965082,-77.068156,"Broad Branch Rd & MC Kinley St, Washington, DC 20015, USA",United States,District of Columbia,2
+35.1893974,-111.6514545,"Northern Arizona University, 1415 South San Francisco Street, Flagstaff, AZ 86011, USA",United States,Arizona,2
+42.3782397,-71.1154705,"Department of Earth and Planetary Sciences, Harvard University, Cambridge, MA 02138, USA",United States,Massachusetts,2
+48.812995,2.23847,"Meudon, France",France,Île-de-France,2
+50.98276,11.71055,"Karl Schwarzschild Observatory, Mittleres Saaletal zwischen Camburg und Göschwitz, Sternwarte 5, 07778 Tautenburg, Germany",Germany,Thuringia,2
+47.350603,2.1958289,"Nançay, France",France,Centre,2
+40.798193,-77.8629143,"Department of Astronomy and Astrophysics, The Pennsylvania State University, State College, PA 16801, USA",United States,Pennsylvania,2
+45.4134504,11.8928197,"35131 Padua, Province of Padua, Italy",Italy,Veneto,2
+46.9513468,7.4384567,"Sidlerstrasse 5, University of Bern, 3012 Berne, Switzerland",Switzerland,Canton of Bern,1
+42.3606853,-71.0919811,"Department of Nuclear Science and Engineering, Massachusetts Institute of Technology, Cambridge, MA 02142, USA",United States,Massachusetts,1
+41.8077414,-72.2539805,"University of Connecticut-Storrs, 115 N. Eagleville Road, Storrs, CT 06269, USA",United States,Connecticut,1
+53.5678526,9.9118726,"22761 Hamburg, Germany",Germany,Hamburg,1
+49.3219892,-119.6210933,"Dominion Radio Astrophysical Observatory, 717 White Lake Rd, Penticton, BC V2A 6J9, Canada",Canada,British Columbia,1
+38.5976262,-80.4549026,"West Virginia, USA",United States,West Virginia,1
+32.87535,-117.240006,"Physics Department, University of California - San Diego, Revelle College, San Diego, CA 92161, USA",United States,California,1
+-41.289399,174.7676847,"Victoria University of Wellington, 19 Kelburn Parade, Wellington 6012, New Zealand",New Zealand,Wellington,1
+43.07502,-87.8859444,"Physics Department, University of Wisconsin-Milwaukee, Physics Bldg, Milwaukee, WI 53211, USA",United States,Wisconsin,1
+33.4209362,-111.9314138,"ASU School of Earth and Space Exploration, George M. Bateman Physical Science Center, South Terrace Road, Tempe, AZ 85281, USA",United States,Arizona,1
+18.5603437,73.826741,"National Centre for Radio Astrophysics - Tata Institute of Fundamental Research, Pune, Maharashtra 411007, India",India,Maharashtra,1
+-37.9092617,145.1344363,"Monash Accident Research Centre, Monash University, Clayton VIC 3168, Australia",Australia,Victoria,1
+42.448068,-76.4752145,"Cornell University, Ithaca, NY 14850, USA",United States,New York,1
+-37.7967123,144.9642724,"School of Physics - University of Melbourne, The University of Melbourne Swanston Street, Parkville VIC 3052, Australia",Australia,Victoria,1
+39.3316414,-76.6235247,"Department of Physics and Astronomy, Johns Hopkins University, Baltimore, MD 21210, USA",United States,Maryland,1
+37.2283358,-80.4261399,"Department of Physics, VirginiaTech, Blacksburg, VA 24060, USA",United States,Virginia,1
+45.4003087,11.8704306,"35122 Padua, Province of Padua, Italy",Italy,Veneto,1
+51.1719559,-0.4207069,"Holmbury Saint Mary, Surrey RH5 6NT, UK",United Kingdom,NULL,1
+43.296482,5.36978,"Marseille, France",France,Provence-Alpes-Côte d'Azur,1
+47.0775152,15.4491946,"Universitätsplatz 5, 8010 Graz, Austria",Austria,Styria,1
+39.5096699,-0.4135963,"Burjassot, Valencia, Spain",Spain,Valencian Community,1
+52.4018377,-1.5668468,"Coventry, West Midlands CV4 9BU, UK",United Kingdom,NULL,1
+-33.045646,-71.620361,"Valparaíso, Valparaíso Region, Chile",Chile,Valparaiso,1
+20.6733373,-103.3803903,"Arcos, 44130 Guadalajara, JAL, Mexico",Mexico,Jalisco,1
+46.9521713,7.4351353,"Hallerstrasse 6, 3012 Berne, Switzerland",Switzerland,Canton of Bern,1
+38.9917426,-76.8632938,"Greenbelt, MD 20771, USA",United States,Maryland,1
+19.3256792,-99.1807367,"UNAM: Instituto de Ciencias Nucleares, Circuito Exterior S/n, Ciudad Universitaria, Coyoacán, 04510 Ciudad De Mexico, Distrito Federal, Mexico",Mexico,Distrito Federal,1
+21.0180008,-101.2566302,"Zona Centro, 36000 Guanajuato, Mexico",Mexico,Guanajuato,1
+41.3790881,2.1278398,"08028 Barcelona, Spain",Spain,Catalonia,1
+30.5456704,114.3419395,"Wuchang, Wuhan, Hubei, China, 430071",China,Hubei,1
+45.9454276,-66.6406975,"University of New Brunswick - Fredericton, Bailey Drive, Fredericton, NB E3B 9P8, Canada",Canada,New Brunswick,1
+39.1645203,-76.8983569,"Applied Physics Laboratory, 11100 Johns Hopkins Road, Laurel, MD 20723, USA",United States,Maryland,1
+39.99,-105.24,"Boulder, CO 80307, USA",United States,Colorado,1
+40.765023,-111.848931,"University of Utah, 201 Presidents Circle, Salt Lake City, UT 84112, USA",United States,Utah,1
+51.6668499,10.112796,"Katlenburg-Lindau, Germany",Germany,Lower Saxony,1
+35.89,-106.31,"Los Alamos, NM 87545, USA",United States,New Mexico,1
+38.9852121,-0.556366,"46818 Vallés, Valencia, Spain",Spain,Valencian Community,1
+40.8075558,-77.8617399,"UNIVERSITY PARK, PA 16802, USA",United States,Pennsylvania,1
+40.484779,-3.364402,"Alcala de Henares, Madrid, Spain",Spain,Community of Madrid,1
+50.8639531,4.6796608,"Celestijnenlaan 200n, Katholieke Universiteit Leuven, 3001 Leuven, Belgium",Belgium,Flemish Region,1
+32.8797081,-117.2350537,"Center for Astrophysics and Space Sciences, University of California - San Diego, University Center, 9500 Gilman Drive, San Diego, CA 92093, USA",United States,California,1
+19.7007038,-155.0895004,"670 North Aohoku Place, Hilo, HI 96720, USA",United States,Hawaii,1
+34.4301656,-119.8696691,"Goleta, CA 93117, USA",United States,California,1
+34.414052,-119.843298,"University of California: Physics, UC Santa Barbara, Broida Hall, Santa Barbara, CA 93106, USA",United States,California,1
+42.7240223,-84.4760328,"Physics and Astronomy, Michigan State University, East Lansing, MI 48864, USA",United States,Michigan,1
+54.768139,-1.5718583,"Durham, County Durham DH1 3LE, UK",United Kingdom,NULL,1
+42.2763223,-83.7346619,"450 Church Street, Ann Arbor, MI 48109, USA",United States,Michigan,1
+46.0564509,14.5080702,"Ljubljana, Slovenia",Slovenia,Ljubljana,1
+52.2145316,0.0953282,"Cambridge, Cambridgeshire CB3 0HA, UK",United Kingdom,NULL,1
+37.4185193,-122.2055072,"SLAC National Accelerator Laboratory, 2575 Sand Hill Road, Menlo Park, CA 94025, USA",United States,California,1
+41.8620235,12.6331035,"00133 Province of Rome, Italy",Italy,Lazio,1
+41.3126451,-72.9251244,"Applied Physics Department, Yale University, New Haven, CT 06511, USA",United States,Connecticut,1
+52.6242499,-1.1240441,"University Road, Leicester LE1 7RA, UK",United Kingdom,NULL,1
+39.9977997,116.3043242,"5 Yiheyuan Road, Haidian, Beijing, China, 100871",China,Beijing,1
+40.0079468,-105.246346,"Center for Astrophysics and Space Astronomy, University of Colorado Boulder, Research Park, Boulder, CO 80303, USA",United States,Colorado,1
+40.9183006,-73.1175003,"Stony Brook, NY 11794, USA",United States,New York,1
+56.3401503,-2.8074837,"Saint Andrews, Fife KY16 9SS, UK",United Kingdom,NULL,1
+42.319778,-72.640571,"Smith College, 7 College lane, Northampton, MA 01063, USA",United States,Massachusetts,1
+35.9091261,-79.0472628,"University of North Carolina at Chapel Hill, 220 East Cameron Avenue, Chapel Hill, NC 27514, USA",United States,North Carolina,1
+-33.4552646,-70.6674996,"República, Santiago, Santiago Metropolitan Region, Chile",Chile,Santiago Metropolitan Region,1
+56.1636091,10.201665,"Ny Munkegade, 8000 Aarhus, Denmark",Denmark,Central Denmark Region,1
+52.52998,13.36409,"Lehrter Straße 16, 10557 Berlin, Germany",Germany,Berlin,1
+32.2331503,-110.9487605,"933 North Cherry Avenue, The University of Arizona, Tucson, AZ 85721, USA",United States,Arizona,1
+32.2314654,-110.9472134,"1630 East University Boulevard, The University of Arizona, Tucson, AZ 85719, USA",United States,Arizona,1
+35.905249,-79.0581498,"Chapel Hill, NC 27599, USA",United States,North Carolina,1
+38.0369251,-78.5179117,"Stone Hall, University of Virginia, Charlottesville, VA 22903, USA",United States,Virginia,1
+38.02,-84.5,"Lexington, KY 40506, USA",United States,Kentucky,1
+35.81,-78.72,"Raleigh, NC 27695, USA",United States,North Carolina,1
+48.7387998,-122.484692,"Western Washington University, 516 High Street, Bellingham, WA 98225, USA",United States,Washington,1
+45.0678799,7.6856432,"Università degli Studi di Torino - Dipartimento di Matematica ""giuseppe Peano"", Via Carlo Alberto, 10, 10123 Turin, Italy",Italy,Piedmont,1
+48.14602,11.60674,"Scheinerstraße 1, 81679 Munich, Germany",Germany,Bavaria,1
+35.2074515,-97.4348055,"440 East Brooks Street, Norman, OK 73071, USA",United States,Oklahoma,1
+43.0721697,141.3418792,"Kita 10 Jonishi, Kita Ward, Sapporo, Hokkaido Prefecture 060-0810, Japan",Japan,Hokkaido Prefecture,1
+43.0744562,-89.4049805,"Department of Astronomy, University of Wisconsin-Madison, 475 North Charter Street, Madison, WI 53706, USA",United States,Wisconsin,1
+35.7055238,139.7596611,"Hongo, Bunkyo, Tokyo 113-0033, Japan",Japan,Tokyo,1
+32.7830575,-79.9365839,"Charleston, SC 29424, USA",United States,South Carolina,1
+34.1279964,-118.147567,"1111 South Arroyo Parkway, Pasadena, CA 91105, USA",United States,California,1
+19.7297222,-155.09,"Hilo, HI, USA",United States,Hawaii,1
+40.5229147,-122.3221947,"Redding, CA 96002, USA",United States,California,1
+34.1561783,-118.1528623,"Pasadena, CA 91109, USA",United States,California,1
+34.4030129,132.7148958,"1??-3 Kagamiyama, Higashihiroshima, Hiroshima Prefecture 739-8511, Japan",Japan,Hiroshima Prefecture,1
+25.0261583,121.5427093,"Daan District, Taipei City, Taiwan 106",Taiwan,NULL,1
+38.2553603,140.8444279,"Aoba Aramaki, Aoba Ward, Sendai, Miyagi Prefecture 980-8578, Japan",Japan,Miyagi Prefecture,1
+35.0262444,135.7808218,"Kyoto University, Yoshidahonmachi, Sakyo Ward, Kyoto, Kyoto Prefecture 606-8501, Japan",Japan,Kyoto Prefecture,1
+39.0278634,-76.9627463,"US Army Research Laboratory, 2800 Powder Mill Road, Adelphi, MD 20783, USA",United States,Maryland,1
+43.2612999,-79.9202568,"McMaster University, 1280 Main Street West, Hamilton, ON L8S 4L8, Canada",Canada,Ontario,1
+-23.5589308,-46.7406577,"University of São Paulo - Cidade Universitária Armando Salles de Oliveira, Av. Prof. Almeida Prado, nº1280 - Butantã, São Paulo, 05508-070, Brazil",Brazil,São Paulo,1
+55.6966812,12.5713697,"Niels Bohr Institute, University of Copenhagen, Blegdamsvej 17, 2100 Copenhagen, Denmark",Denmark,Capital Region of Denmark,1
+40.7982133,-77.8599084,"The Pennsylvania State University, 201 Old Main, University Park, PA 16802, USA",United States,Pennsylvania,1
+38.2904011,-122.4591276,"596 1st Street West, Sonoma, CA 95476, USA",United States,California,1
+52.3564062,4.9507012,"Amsterdam Scientific Instruments, University of Amsterdam, Science Park Amsterdam 105, 1098 XG Amsterdam, The Netherlands",The Netherlands,North Holland,1
+55.6760968,12.5683371,"Copenhagen, Denmark",Denmark,Capital Region of Denmark,1
+40.0406506,-105.2077798,"Boulder, CO 80301, USA",United States,Colorado,1
+49.2648405,-123.252605,"The University of British Columbia, 2329 West Mall, Vancouver, BC V6T 1Z4, Canada",Canada,British Columbia,1
+55.655163,37.533631,"Russian Space Research Institute, ulitsa Profsoyuznaya, 84/32, Moscow, Russia, 117997",Russia,Moscow,1
+36.9776244,-122.0543182,"1156 High Street, University of California Santa Cruz, Santa Cruz, CA 95064, USA",United States,California,1
+53.5267778,-113.5263654,"Edmonton, AB T6G 2E1, Canada",Canada,Alberta,1
+43.4555558,-80.5237892,"Waterloo, ON N2L 2G1, Canada",Canada,Ontario,1
+43.4729885,-80.5452743,"University of Waterloo, University Avenue West, Waterloo, ON N2L 3G1, Canada",Canada,Ontario,1
+41.5544121,-72.6594774,"Foss Hill Drive, Wesleyan University, Middletown, CT 06457, USA",United States,Connecticut,1
+35.2030426,-111.6645534,"Lowell Observatory, 1400 West Mars Hill Road, Flagstaff, AZ 86001, USA",United States,Arizona,1
+29.6462115,-82.3476965,"Reitz Union Game Room, University of Florida, Museum Road G50, Gainesville, FL 32611, USA",United States,Florida,1
+37.7138335,-89.2116506,"Southern Illinois University, 1220 Lincoln Drive, Carbondale, IL 62901, USA",United States,Illinois,1
+42.3736158,-71.1097335,"Cambridge, MA, USA",United States,Massachusetts,1
+38.9906678,-76.9419681,"Department of Atmospheric and Ocean Science, University of Maryland College Park, College Park, MD 20740, USA",United States,Maryland,1
+38.9870154,-76.9406503,"College of Computer, Mathematical, and Natural Sciences, University of Maryland College Park, College Park, MD 20740, USA",United States,Maryland,1
+41.8181871,12.7152505,"Monte Porzio Catone Province of Rome, Italy",Italy,Lazio,1
+51.4818445,7.2162363,"Bochum, Germany",Germany,North Rhine-Westphalia,1
+50.7297915,7.0693852,"Argelander-Institut für Astronomie, Bonn University, Dept. of Southeast Asian Studies, Campus Endenich, Auf dem Hügel 71, 53121 Bonn, Germany",Germany,North Rhine-Westphalia,1
+53.1670474,8.65081,"Jacobs University Bremen, Campus Ring 1, 28759 Bremen, Germany",Germany,Bremen,1
+53.219231,6.57537,"Groningen, The Netherlands",The Netherlands,Groningen,1
+38.1116669,13.3538726,"Piazza del Parlamento, 90134 Palermo, Italy",Italy,Sicilia,1
+48.5344,9.07087,"Sand 1, 72076 Tübingen, Germany",Germany,Baden-Wurttemberg,1
+47.4979359,18.9690995,"1121 Budapest, Hungary",Hungary,Budapest,1
+44.774267,-0.618945,"Gradignan, France",France,Aquitaine,1
+47.497912,19.040235,"Budapest, Hungary",Hungary,Budapest,1
+45.1946651,5.763592,"Rue de la Piscine, Stendhal University, 38400 Saint-Martin-d'Hères, France",France,Rhone-Alpes,1
+-26.690468,27.0931649,"North-West University, Potchefstroom Campus, 11 Hoffman Street, Potchefstroom 2520, South Africa",South Africa,North West,1
+39.326837,-82.1021376,"Ohio University, 5 President Street, Athens, OH 45701, USA",United States,Ohio,1
+40.4401775,-86.9261008,"West Lafayette, IN 47907, USA",United States,Indiana,1
