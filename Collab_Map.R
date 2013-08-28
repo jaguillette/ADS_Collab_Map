@@ -2,6 +2,9 @@ library(maps)
 library(geosphere)
 library(ggplot2)
 library(mapproj)
+library(tcltk)
+
+setwd(tk_choose.dir(getwd(), "Choose the folder you would like to save your map to."))
 
 #====START DATA====
 #names and reads csv data source
@@ -14,10 +17,10 @@ base=affil[1,]
 affil=affil[-1,]
 
 #takes out outlier with 94 collaborations
-affil=affil[-1,]
+#affil=affil[-1,]
 
 #orders results so less prominent affiliations are drawn first.
-affil=affil[order(affil$totalCount),]
+#affil=affil[order(affil$totalCount),]
 
 #sets maximum count
 maxCount <- max(affil$totalCount)
