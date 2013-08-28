@@ -1,7 +1,6 @@
 library(maps)
 library(geosphere)
 library(ggplot2)
-library(mapproj)
 library(tcltk)
 
 setwd(tk_choose.dir(getwd(), "Choose the folder you would like to save your map to."))
