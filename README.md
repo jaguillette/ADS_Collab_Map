@@ -1,7 +1,8 @@
 ADS_Collab_Map
 ==============
 
-Using R and Python to map out collaborations in Astrophysics Data System articles
+This script was built with the intent of mapping collaborations between authors in the Astrophysics Data System, but it can be used in a broader variety of contexts as well.
+See [ADS_Affil_Geocoding](https://github.com/jaguillette/ADS_Affil_Geocoding) for a script that was made to produce data to be mapped.
 
 The R script in this repository can be used to map connections from one central point to a large number of other points with lines of varying intensity, depending on the values present in the input csv.
 
