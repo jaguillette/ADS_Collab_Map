@@ -2,6 +2,7 @@ library(maps)
 library(geosphere)
 library(ggplot2)
 library(tcltk)
+library(Cairo)
 
 setwd(tk_choose.dir(getwd(), "Choose the folder you would like to save your map to."))
 
@@ -158,9 +159,9 @@ switch(MapType,
 
 #====START MAKE FILE====
 #Makes png file, draws map in it.
-filename = paste(LatLongView, MapType, Palette, collapse="_")
+filename = paste(LatLongView, MapType, Palette, collapse="/_")
 filename = paste(filename, ".png", collapse='')
-png(file=filename,width=m_width, height=m_height)
+CairoPNG(file=filename,width=m_width, height=m_height)
 world_map
 dev.off()
-#====END MAKE FILE====
+#====END MAKE FILE====                                                                                                                                                                                                                                                      
